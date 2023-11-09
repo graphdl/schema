@@ -1,0 +1,2127 @@
+{
+  "Accept": {
+    "comment": "The act of committing to/adopting an object.\\n\\nRelated actions:\\n\\n* [[RejectAction]]: The antonym of AcceptAction.",
+    "parent": "AllocateAction",
+    "parents": [
+      "AllocateAction",
+    ],
+    "related": [
+      "RejectAction",
+    ],
+    "schema": {
+      "@id": "schema:AcceptAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of committing to/adopting an object.\\n\\nRelated actions:\\n\\n* [[RejectAction]]: The antonym of AcceptAction.",
+      "rdfs:label": "AcceptAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AllocateAction",
+      },
+    },
+    "type": "Accept",
+  },
+  "Achieve": {
+    "comment": "The act of accomplishing something via previous efforts. It is an instantaneous action rather than an ongoing process.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:AchieveAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of accomplishing something via previous efforts. It is an instantaneous action rather than an ongoing process.",
+      "rdfs:label": "AchieveAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Achieve",
+  },
+  "Action": {
+    "comment": "An action performed by a direct agent and indirect participants upon a direct object. Optionally happens at a location with the help of an inanimate instrument. The execution of the action may produce a result. Specific action sub-type documentation specifies the exact expectation of each argument/role.\\n\\nSee also [blog post](http://blog.schema.org/2014/04/announcing-schemaorg-actions.html) and [Actions overview document](https://schema.org/docs/actions.html).",
+    "parent": "Thing",
+    "parents": [
+      "Thing",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:Action",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An action performed by a direct agent and indirect participants upon a direct object. Optionally happens at a location with the help of an inanimate instrument. The execution of the action may produce a result. Specific action sub-type documentation specifies the exact expectation of each argument/role.\\n\\nSee also [blog post](http://blog.schema.org/2014/04/announcing-schemaorg-actions.html) and [Actions overview document](https://schema.org/docs/actions.html).",
+      "rdfs:label": "Action",
+      "rdfs:subClassOf": {
+        "@id": "schema:Thing",
+      },
+      "schema:contributor": {
+        "@id": "https://schema.org/docs/collab/ActionCollabClass",
+      },
+    },
+    "type": "Action",
+  },
+  "Activate": {
+    "comment": "The act of starting or activating a device or application (e.g. starting a timer or turning on a flashlight).",
+    "parent": "ControlAction",
+    "parents": [
+      "ControlAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ActivateAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of starting or activating a device or application (e.g. starting a timer or turning on a flashlight).",
+      "rdfs:label": "ActivateAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ControlAction",
+      },
+    },
+    "type": "Activate",
+  },
+  "Add": {
+    "comment": "The act of editing by adding an object to a collection.",
+    "parent": "UpdateAction",
+    "parents": [
+      "UpdateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:AddAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of editing by adding an object to a collection.",
+      "rdfs:label": "AddAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:UpdateAction",
+      },
+    },
+    "type": "Add",
+  },
+  "Agree": {
+    "comment": "The act of expressing a consistency of opinion with the object. An agent agrees to/about an object (a proposition, topic or theme) with participants.",
+    "parent": "ReactAction",
+    "parents": [
+      "ReactAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:AgreeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of expressing a consistency of opinion with the object. An agent agrees to/about an object (a proposition, topic or theme) with participants.",
+      "rdfs:label": "AgreeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ReactAction",
+      },
+    },
+    "type": "Agree",
+  },
+  "Allocate": {
+    "comment": "The act of organizing tasks/objects/events by associating resources to it.",
+    "parent": "OrganizeAction",
+    "parents": [
+      "OrganizeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:AllocateAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of organizing tasks/objects/events by associating resources to it.",
+      "rdfs:label": "AllocateAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:OrganizeAction",
+      },
+    },
+    "type": "Allocate",
+  },
+  "Append": {
+    "comment": "The act of inserting at the end if an ordered collection.",
+    "parent": "InsertAction",
+    "parents": [
+      "InsertAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:AppendAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of inserting at the end if an ordered collection.",
+      "rdfs:label": "AppendAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InsertAction",
+      },
+    },
+    "type": "Append",
+  },
+  "Apply": {
+    "comment": "The act of registering to an organization/service without the guarantee to receive it.\\n\\nRelated actions:\\n\\n* [[RegisterAction]]: Unlike RegisterAction, ApplyAction has no guarantees that the application will be accepted.",
+    "parent": "OrganizeAction",
+    "parents": [
+      "OrganizeAction",
+    ],
+    "related": [
+      "RegisterAction",
+    ],
+    "schema": {
+      "@id": "schema:ApplyAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of registering to an organization/service without the guarantee to receive it.\\n\\nRelated actions:\\n\\n* [[RegisterAction]]: Unlike RegisterAction, ApplyAction has no guarantees that the application will be accepted.",
+      "rdfs:label": "ApplyAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:OrganizeAction",
+      },
+    },
+    "type": "Apply",
+  },
+  "Arrive": {
+    "comment": "The act of arriving at a place. An agent arrives at a destination from a fromLocation, optionally with participants.",
+    "parent": "MoveAction",
+    "parents": [
+      "MoveAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ArriveAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of arriving at a place. An agent arrives at a destination from a fromLocation, optionally with participants.",
+      "rdfs:label": "ArriveAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:MoveAction",
+      },
+    },
+    "type": "Arrive",
+  },
+  "Ask": {
+    "comment": "The act of posing a question / favor to someone.\\n\\nRelated actions:\\n\\n* [[ReplyAction]]: Appears generally as a response to AskAction.",
+    "parent": "CommunicateAction",
+    "parents": [
+      "CommunicateAction",
+    ],
+    "related": [
+      "ReplyAction",
+    ],
+    "schema": {
+      "@id": "schema:AskAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of posing a question / favor to someone.\\n\\nRelated actions:\\n\\n* [[ReplyAction]]: Appears generally as a response to AskAction.",
+      "rdfs:label": "AskAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CommunicateAction",
+      },
+    },
+    "type": "Ask",
+  },
+  "Assess": {
+    "comment": "The act of forming one's opinion, reaction or sentiment.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:AssessAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of forming one's opinion, reaction or sentiment.",
+      "rdfs:label": "AssessAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Assess",
+  },
+  "Assign": {
+    "comment": "The act of allocating an action/event/task to some destination (someone or something).",
+    "parent": "AllocateAction",
+    "parents": [
+      "AllocateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:AssignAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of allocating an action/event/task to some destination (someone or something).",
+      "rdfs:label": "AssignAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AllocateAction",
+      },
+    },
+    "type": "Assign",
+  },
+  "Authorize": {
+    "comment": "The act of granting permission to an object.",
+    "parent": "AllocateAction",
+    "parents": [
+      "AllocateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:AuthorizeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of granting permission to an object.",
+      "rdfs:label": "AuthorizeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AllocateAction",
+      },
+    },
+    "type": "Authorize",
+  },
+  "Befriend": {
+    "comment": "The act of forming a personal connection with someone (object) mutually/bidirectionally/symmetrically.\\n\\nRelated actions:\\n\\n* [[FollowAction]]: Unlike FollowAction, BefriendAction implies that the connection is reciprocal.",
+    "parent": "InteractAction",
+    "parents": [
+      "InteractAction",
+    ],
+    "related": [
+      "FollowAction",
+    ],
+    "schema": {
+      "@id": "schema:BefriendAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of forming a personal connection with someone (object) mutually/bidirectionally/symmetrically.\\n\\nRelated actions:\\n\\n* [[FollowAction]]: Unlike FollowAction, BefriendAction implies that the connection is reciprocal.",
+      "rdfs:label": "BefriendAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InteractAction",
+      },
+    },
+    "type": "Befriend",
+  },
+  "Bookmark": {
+    "comment": "An agent bookmarks/flags/labels/tags/marks an object.",
+    "parent": "OrganizeAction",
+    "parents": [
+      "OrganizeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:BookmarkAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent bookmarks/flags/labels/tags/marks an object.",
+      "rdfs:label": "BookmarkAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:OrganizeAction",
+      },
+    },
+    "type": "Bookmark",
+  },
+  "Borrow": {
+    "comment": "The act of obtaining an object under an agreement to return it at a later date. Reciprocal of LendAction.\\n\\nRelated actions:\\n\\n* [[LendAction]]: Reciprocal of BorrowAction.",
+    "parent": "TransferAction",
+    "parents": [
+      "TransferAction",
+    ],
+    "related": [
+      "LendAction",
+    ],
+    "schema": {
+      "@id": "schema:BorrowAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of obtaining an object under an agreement to return it at a later date. Reciprocal of LendAction.\\n\\nRelated actions:\\n\\n* [[LendAction]]: Reciprocal of BorrowAction.",
+      "rdfs:label": "BorrowAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TransferAction",
+      },
+    },
+    "type": "Borrow",
+  },
+  "Buy": {
+    "comment": "The act of giving money to a seller in exchange for goods or services rendered. An agent buys an object, product, or service from a seller for a price. Reciprocal of SellAction.",
+    "parent": "TradeAction",
+    "parents": [
+      "TradeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:BuyAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of giving money to a seller in exchange for goods or services rendered. An agent buys an object, product, or service from a seller for a price. Reciprocal of SellAction.",
+      "rdfs:label": "BuyAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TradeAction",
+      },
+    },
+    "type": "Buy",
+  },
+  "Cancel": {
+    "comment": "The act of asserting that a future event/action is no longer going to happen.\\n\\nRelated actions:\\n\\n* [[ConfirmAction]]: The antonym of CancelAction.",
+    "parent": "PlanAction",
+    "parents": [
+      "PlanAction",
+    ],
+    "related": [
+      "ConfirmAction",
+    ],
+    "schema": {
+      "@id": "schema:CancelAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of asserting that a future event/action is no longer going to happen.\\n\\nRelated actions:\\n\\n* [[ConfirmAction]]: The antonym of CancelAction.",
+      "rdfs:label": "CancelAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:PlanAction",
+      },
+    },
+    "type": "Cancel",
+  },
+  "Check": {
+    "comment": "An agent inspects, determines, investigates, inquires, or examines an object's accuracy, quality, condition, or state.",
+    "parent": "FindAction",
+    "parents": [
+      "FindAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:CheckAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent inspects, determines, investigates, inquires, or examines an object's accuracy, quality, condition, or state.",
+      "rdfs:label": "CheckAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:FindAction",
+      },
+    },
+    "type": "Check",
+  },
+  "CheckIn": {
+    "comment": "The act of an agent communicating (service provider, social media, etc) their arrival by registering/confirming for a previously reserved service (e.g. flight check-in) or at a place (e.g. hotel), possibly resulting in a result (boarding pass, etc).\\n\\nRelated actions:\\n\\n* [[CheckOutAction]]: The antonym of CheckInAction.\\n* [[ArriveAction]]: Unlike ArriveAction, CheckInAction implies that the agent is informing/confirming the start of a previously reserved service.\\n* [[ConfirmAction]]: Unlike ConfirmAction, CheckInAction implies that the agent is informing/confirming the *start* of a previously reserved service rather than its validity/existence.",
+    "parent": "CommunicateAction",
+    "parents": [
+      "CommunicateAction",
+    ],
+    "related": [
+      "CheckOutAction",
+      "ArriveAction",
+      "ConfirmAction",
+    ],
+    "schema": {
+      "@id": "schema:CheckInAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of an agent communicating (service provider, social media, etc) their arrival by registering/confirming for a previously reserved service (e.g. flight check-in) or at a place (e.g. hotel), possibly resulting in a result (boarding pass, etc).\\n\\nRelated actions:\\n\\n* [[CheckOutAction]]: The antonym of CheckInAction.\\n* [[ArriveAction]]: Unlike ArriveAction, CheckInAction implies that the agent is informing/confirming the start of a previously reserved service.\\n* [[ConfirmAction]]: Unlike ConfirmAction, CheckInAction implies that the agent is informing/confirming the *start* of a previously reserved service rather than its validity/existence.",
+      "rdfs:label": "CheckInAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CommunicateAction",
+      },
+    },
+    "type": "CheckIn",
+  },
+  "CheckOut": {
+    "comment": "The act of an agent communicating (service provider, social media, etc) their departure of a previously reserved service (e.g. flight check-in) or place (e.g. hotel).\\n\\nRelated actions:\\n\\n* [[CheckInAction]]: The antonym of CheckOutAction.\\n* [[DepartAction]]: Unlike DepartAction, CheckOutAction implies that the agent is informing/confirming the end of a previously reserved service.\\n* [[CancelAction]]: Unlike CancelAction, CheckOutAction implies that the agent is informing/confirming the end of a previously reserved service.",
+    "parent": "CommunicateAction",
+    "parents": [
+      "CommunicateAction",
+    ],
+    "related": [
+      "CheckInAction",
+      "DepartAction",
+      "CancelAction",
+    ],
+    "schema": {
+      "@id": "schema:CheckOutAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of an agent communicating (service provider, social media, etc) their departure of a previously reserved service (e.g. flight check-in) or place (e.g. hotel).\\n\\nRelated actions:\\n\\n* [[CheckInAction]]: The antonym of CheckOutAction.\\n* [[DepartAction]]: Unlike DepartAction, CheckOutAction implies that the agent is informing/confirming the end of a previously reserved service.\\n* [[CancelAction]]: Unlike CancelAction, CheckOutAction implies that the agent is informing/confirming the end of a previously reserved service.",
+      "rdfs:label": "CheckOutAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CommunicateAction",
+      },
+    },
+    "type": "CheckOut",
+  },
+  "Choose": {
+    "comment": "The act of expressing a preference from a set of options or a large or unbounded set of choices/options.",
+    "parent": "AssessAction",
+    "parents": [
+      "AssessAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ChooseAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of expressing a preference from a set of options or a large or unbounded set of choices/options.",
+      "rdfs:label": "ChooseAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AssessAction",
+      },
+    },
+    "type": "Choose",
+  },
+  "Comment": {
+    "comment": "The act of generating a comment about a subject.",
+    "parent": "CommunicateAction",
+    "parents": [
+      "CommunicateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:CommentAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of generating a comment about a subject.",
+      "rdfs:label": "CommentAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CommunicateAction",
+      },
+    },
+    "type": "Comment",
+  },
+  "Communicate": {
+    "comment": "The act of conveying information to another person via a communication medium (instrument) such as speech, email, or telephone conversation.",
+    "parent": "InteractAction",
+    "parents": [
+      "InteractAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:CommunicateAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of conveying information to another person via a communication medium (instrument) such as speech, email, or telephone conversation.",
+      "rdfs:label": "CommunicateAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InteractAction",
+      },
+    },
+    "type": "Communicate",
+  },
+  "Confirm": {
+    "comment": "The act of notifying someone that a future event/action is going to happen as expected.\\n\\nRelated actions:\\n\\n* [[CancelAction]]: The antonym of ConfirmAction.",
+    "parent": "InformAction",
+    "parents": [
+      "InformAction",
+    ],
+    "related": [
+      "CancelAction",
+    ],
+    "schema": {
+      "@id": "schema:ConfirmAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of notifying someone that a future event/action is going to happen as expected.\\n\\nRelated actions:\\n\\n* [[CancelAction]]: The antonym of ConfirmAction.",
+      "rdfs:label": "ConfirmAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InformAction",
+      },
+    },
+    "type": "Confirm",
+  },
+  "Consume": {
+    "comment": "The act of ingesting information/resources/food.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ConsumeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of ingesting information/resources/food.",
+      "rdfs:label": "ConsumeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Consume",
+  },
+  "Control": {
+    "comment": "An agent controls a device or application.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ControlAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent controls a device or application.",
+      "rdfs:label": "ControlAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Control",
+  },
+  "Cook": {
+    "comment": "The act of producing/preparing food.",
+    "parent": "CreateAction",
+    "parents": [
+      "CreateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:CookAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of producing/preparing food.",
+      "rdfs:label": "CookAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CreateAction",
+      },
+    },
+    "type": "Cook",
+  },
+  "Create": {
+    "comment": "The act of deliberately creating/producing/generating/building a result out of the agent.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:CreateAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of deliberately creating/producing/generating/building a result out of the agent.",
+      "rdfs:label": "CreateAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Create",
+  },
+  "Deactivate": {
+    "comment": "The act of stopping or deactivating a device or application (e.g. stopping a timer or turning off a flashlight).",
+    "parent": "ControlAction",
+    "parents": [
+      "ControlAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DeactivateAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of stopping or deactivating a device or application (e.g. stopping a timer or turning off a flashlight).",
+      "rdfs:label": "DeactivateAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ControlAction",
+      },
+    },
+    "type": "Deactivate",
+  },
+  "Delete": {
+    "comment": "The act of editing a recipient by removing one of its objects.",
+    "parent": "UpdateAction",
+    "parents": [
+      "UpdateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DeleteAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of editing a recipient by removing one of its objects.",
+      "rdfs:label": "DeleteAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:UpdateAction",
+      },
+    },
+    "type": "Delete",
+  },
+  "Depart": {
+    "comment": "The act of  departing from a place. An agent departs from a fromLocation for a destination, optionally with participants.",
+    "parent": "MoveAction",
+    "parents": [
+      "MoveAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DepartAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of  departing from a place. An agent departs from a fromLocation for a destination, optionally with participants.",
+      "rdfs:label": "DepartAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:MoveAction",
+      },
+    },
+    "type": "Depart",
+  },
+  "Disagree": {
+    "comment": "The act of expressing a difference of opinion with the object. An agent disagrees to/about an object (a proposition, topic or theme) with participants.",
+    "parent": "ReactAction",
+    "parents": [
+      "ReactAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DisagreeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of expressing a difference of opinion with the object. An agent disagrees to/about an object (a proposition, topic or theme) with participants.",
+      "rdfs:label": "DisagreeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ReactAction",
+      },
+    },
+    "type": "Disagree",
+  },
+  "Discover": {
+    "comment": "The act of discovering/finding an object.",
+    "parent": "FindAction",
+    "parents": [
+      "FindAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DiscoverAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of discovering/finding an object.",
+      "rdfs:label": "DiscoverAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:FindAction",
+      },
+    },
+    "type": "Discover",
+  },
+  "Dislike": {
+    "comment": "The act of expressing a negative sentiment about the object. An agent dislikes an object (a proposition, topic or theme) with participants.",
+    "parent": "ReactAction",
+    "parents": [
+      "ReactAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DislikeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of expressing a negative sentiment about the object. An agent dislikes an object (a proposition, topic or theme) with participants.",
+      "rdfs:label": "DislikeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ReactAction",
+      },
+    },
+    "type": "Dislike",
+  },
+  "Donate": {
+    "comment": "The act of providing goods, services, or money without compensation, often for philanthropic reasons.",
+    "parent": "TradeAction",
+    "parents": [
+      "TradeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DonateAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of providing goods, services, or money without compensation, often for philanthropic reasons.",
+      "rdfs:label": "DonateAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TradeAction",
+      },
+    },
+    "type": "Donate",
+  },
+  "Download": {
+    "comment": "The act of downloading an object.",
+    "parent": "TransferAction",
+    "parents": [
+      "TransferAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DownloadAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of downloading an object.",
+      "rdfs:label": "DownloadAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TransferAction",
+      },
+    },
+    "type": "Download",
+  },
+  "Draw": {
+    "comment": "The act of producing a visual/graphical representation of an object, typically with a pen/pencil and paper as instruments.",
+    "parent": "CreateAction",
+    "parents": [
+      "CreateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DrawAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of producing a visual/graphical representation of an object, typically with a pen/pencil and paper as instruments.",
+      "rdfs:label": "DrawAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CreateAction",
+      },
+    },
+    "type": "Draw",
+  },
+  "Drink": {
+    "comment": "The act of swallowing liquids.",
+    "parent": "ConsumeAction",
+    "parents": [
+      "ConsumeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:DrinkAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of swallowing liquids.",
+      "rdfs:label": "DrinkAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ConsumeAction",
+      },
+    },
+    "type": "Drink",
+  },
+  "Eat": {
+    "comment": "The act of swallowing solid objects.",
+    "parent": "ConsumeAction",
+    "parents": [
+      "ConsumeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:EatAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of swallowing solid objects.",
+      "rdfs:label": "EatAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ConsumeAction",
+      },
+    },
+    "type": "Eat",
+  },
+  "Endorse": {
+    "comment": "An agent approves/certifies/likes/supports/sanctions an object.",
+    "parent": "ReactAction",
+    "parents": [
+      "ReactAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:EndorseAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent approves/certifies/likes/supports/sanctions an object.",
+      "rdfs:label": "EndorseAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ReactAction",
+      },
+    },
+    "type": "Endorse",
+  },
+  "Exercise": {
+    "comment": "The act of participating in exertive activity for the purposes of improving health and fitness.",
+    "parent": "PlayAction",
+    "parents": [
+      "PlayAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ExerciseAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of participating in exertive activity for the purposes of improving health and fitness.",
+      "rdfs:label": "ExerciseAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:PlayAction",
+      },
+    },
+    "type": "Exercise",
+  },
+  "Film": {
+    "comment": "The act of capturing sound and moving images on film, video, or digitally.",
+    "parent": "CreateAction",
+    "parents": [
+      "CreateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:FilmAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of capturing sound and moving images on film, video, or digitally.",
+      "rdfs:label": "FilmAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CreateAction",
+      },
+    },
+    "type": "Film",
+  },
+  "Find": {
+    "comment": "The act of finding an object.\\n\\nRelated actions:\\n\\n* [[SearchAction]]: FindAction is generally lead by a SearchAction, but not necessarily.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [
+      "SearchAction",
+    ],
+    "schema": {
+      "@id": "schema:FindAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of finding an object.\\n\\nRelated actions:\\n\\n* [[SearchAction]]: FindAction is generally lead by a SearchAction, but not necessarily.",
+      "rdfs:label": "FindAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Find",
+  },
+  "Follow": {
+    "comment": "The act of forming a personal connection with someone/something (object) unidirectionally/asymmetrically to get updates polled from.\\n\\nRelated actions:\\n\\n* [[BefriendAction]]: Unlike BefriendAction, FollowAction implies that the connection is *not* necessarily reciprocal.\\n* [[SubscribeAction]]: Unlike SubscribeAction, FollowAction implies that the follower acts as an active agent constantly/actively polling for updates.\\n* [[RegisterAction]]: Unlike RegisterAction, FollowAction implies that the agent is interested in continuing receiving updates from the object.\\n* [[JoinAction]]: Unlike JoinAction, FollowAction implies that the agent is interested in getting updates from the object.\\n* [[TrackAction]]: Unlike TrackAction, FollowAction refers to the polling of updates of all aspects of animate objects rather than the location of inanimate objects (e.g. you track a package, but you don't follow it).",
+    "parent": "InteractAction",
+    "parents": [
+      "InteractAction",
+    ],
+    "related": [
+      "BefriendAction",
+      "SubscribeAction",
+      "RegisterAction",
+      "JoinAction",
+      "TrackAction",
+    ],
+    "schema": {
+      "@id": "schema:FollowAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of forming a personal connection with someone/something (object) unidirectionally/asymmetrically to get updates polled from.\\n\\nRelated actions:\\n\\n* [[BefriendAction]]: Unlike BefriendAction, FollowAction implies that the connection is *not* necessarily reciprocal.\\n* [[SubscribeAction]]: Unlike SubscribeAction, FollowAction implies that the follower acts as an active agent constantly/actively polling for updates.\\n* [[RegisterAction]]: Unlike RegisterAction, FollowAction implies that the agent is interested in continuing receiving updates from the object.\\n* [[JoinAction]]: Unlike JoinAction, FollowAction implies that the agent is interested in getting updates from the object.\\n* [[TrackAction]]: Unlike TrackAction, FollowAction refers to the polling of updates of all aspects of animate objects rather than the location of inanimate objects (e.g. you track a package, but you don't follow it).",
+      "rdfs:label": "FollowAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InteractAction",
+      },
+    },
+    "type": "Follow",
+  },
+  "Give": {
+    "comment": "The act of transferring ownership of an object to a destination. Reciprocal of TakeAction.\\n\\nRelated actions:\\n\\n* [[TakeAction]]: Reciprocal of GiveAction.\\n* [[SendAction]]: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).",
+    "parent": "TransferAction",
+    "parents": [
+      "TransferAction",
+    ],
+    "related": [
+      "TakeAction",
+      "SendAction",
+    ],
+    "schema": {
+      "@id": "schema:GiveAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of transferring ownership of an object to a destination. Reciprocal of TakeAction.\\n\\nRelated actions:\\n\\n* [[TakeAction]]: Reciprocal of GiveAction.\\n* [[SendAction]]: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).",
+      "rdfs:label": "GiveAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TransferAction",
+      },
+    },
+    "type": "Give",
+  },
+  "Ignore": {
+    "comment": "The act of intentionally disregarding the object. An agent ignores an object.",
+    "parent": "AssessAction",
+    "parents": [
+      "AssessAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:IgnoreAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of intentionally disregarding the object. An agent ignores an object.",
+      "rdfs:label": "IgnoreAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AssessAction",
+      },
+    },
+    "type": "Ignore",
+  },
+  "Inform": {
+    "comment": "The act of notifying someone of information pertinent to them, with no expectation of a response.",
+    "parent": "CommunicateAction",
+    "parents": [
+      "CommunicateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:InformAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of notifying someone of information pertinent to them, with no expectation of a response.",
+      "rdfs:label": "InformAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CommunicateAction",
+      },
+    },
+    "type": "Inform",
+  },
+  "Insert": {
+    "comment": "The act of adding at a specific location in an ordered collection.",
+    "parent": "AddAction",
+    "parents": [
+      "AddAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:InsertAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of adding at a specific location in an ordered collection.",
+      "rdfs:label": "InsertAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AddAction",
+      },
+    },
+    "type": "Insert",
+  },
+  "Install": {
+    "comment": "The act of installing an application.",
+    "parent": "ConsumeAction",
+    "parents": [
+      "ConsumeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:InstallAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of installing an application.",
+      "rdfs:label": "InstallAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ConsumeAction",
+      },
+    },
+    "type": "Install",
+  },
+  "Interact": {
+    "comment": "The act of interacting with another person or organization.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:InteractAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of interacting with another person or organization.",
+      "rdfs:label": "InteractAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Interact",
+  },
+  "Invite": {
+    "comment": "The act of asking someone to attend an event. Reciprocal of RsvpAction.",
+    "parent": "CommunicateAction",
+    "parents": [
+      "CommunicateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:InviteAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of asking someone to attend an event. Reciprocal of RsvpAction.",
+      "rdfs:label": "InviteAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CommunicateAction",
+      },
+    },
+    "type": "Invite",
+  },
+  "Join": {
+    "comment": "An agent joins an event/group with participants/friends at a location.\\n\\nRelated actions:\\n\\n* [[RegisterAction]]: Unlike RegisterAction, JoinAction refers to joining a group/team of people.\\n* [[SubscribeAction]]: Unlike SubscribeAction, JoinAction does not imply that you'll be receiving updates.\\n* [[FollowAction]]: Unlike FollowAction, JoinAction does not imply that you'll be polling for updates.",
+    "parent": "InteractAction",
+    "parents": [
+      "InteractAction",
+    ],
+    "related": [
+      "RegisterAction",
+      "SubscribeAction",
+      "FollowAction",
+    ],
+    "schema": {
+      "@id": "schema:JoinAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent joins an event/group with participants/friends at a location.\\n\\nRelated actions:\\n\\n* [[RegisterAction]]: Unlike RegisterAction, JoinAction refers to joining a group/team of people.\\n* [[SubscribeAction]]: Unlike SubscribeAction, JoinAction does not imply that you'll be receiving updates.\\n* [[FollowAction]]: Unlike FollowAction, JoinAction does not imply that you'll be polling for updates.",
+      "rdfs:label": "JoinAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InteractAction",
+      },
+    },
+    "type": "Join",
+  },
+  "Leave": {
+    "comment": "An agent leaves an event / group with participants/friends at a location.\\n\\nRelated actions:\\n\\n* [[JoinAction]]: The antonym of LeaveAction.\\n* [[UnRegisterAction]]: Unlike UnRegisterAction, LeaveAction implies leaving a group/team of people rather than a service.",
+    "parent": "InteractAction",
+    "parents": [
+      "InteractAction",
+    ],
+    "related": [
+      "JoinAction",
+      "UnRegisterAction",
+    ],
+    "schema": {
+      "@id": "schema:LeaveAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent leaves an event / group with participants/friends at a location.\\n\\nRelated actions:\\n\\n* [[JoinAction]]: The antonym of LeaveAction.\\n* [[UnRegisterAction]]: Unlike UnRegisterAction, LeaveAction implies leaving a group/team of people rather than a service.",
+      "rdfs:label": "LeaveAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InteractAction",
+      },
+    },
+    "type": "Leave",
+  },
+  "Lend": {
+    "comment": "The act of providing an object under an agreement that it will be returned at a later date. Reciprocal of BorrowAction.\\n\\nRelated actions:\\n\\n* [[BorrowAction]]: Reciprocal of LendAction.",
+    "parent": "TransferAction",
+    "parents": [
+      "TransferAction",
+    ],
+    "related": [
+      "BorrowAction",
+    ],
+    "schema": {
+      "@id": "schema:LendAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of providing an object under an agreement that it will be returned at a later date. Reciprocal of BorrowAction.\\n\\nRelated actions:\\n\\n* [[BorrowAction]]: Reciprocal of LendAction.",
+      "rdfs:label": "LendAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TransferAction",
+      },
+    },
+    "type": "Lend",
+  },
+  "Like": {
+    "comment": "The act of expressing a positive sentiment about the object. An agent likes an object (a proposition, topic or theme) with participants.",
+    "parent": "ReactAction",
+    "parents": [
+      "ReactAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:LikeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of expressing a positive sentiment about the object. An agent likes an object (a proposition, topic or theme) with participants.",
+      "rdfs:label": "LikeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ReactAction",
+      },
+    },
+    "type": "Like",
+  },
+  "Listen": {
+    "comment": "The act of consuming audio content.",
+    "parent": "ConsumeAction",
+    "parents": [
+      "ConsumeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ListenAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of consuming audio content.",
+      "rdfs:label": "ListenAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ConsumeAction",
+      },
+    },
+    "type": "Listen",
+  },
+  "Lose": {
+    "comment": "The act of being defeated in a competitive activity.",
+    "parent": "AchieveAction",
+    "parents": [
+      "AchieveAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:LoseAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of being defeated in a competitive activity.",
+      "rdfs:label": "LoseAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AchieveAction",
+      },
+    },
+    "type": "Lose",
+  },
+  "Marry": {
+    "comment": "The act of marrying a person.",
+    "parent": "InteractAction",
+    "parents": [
+      "InteractAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:MarryAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of marrying a person.",
+      "rdfs:label": "MarryAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InteractAction",
+      },
+    },
+    "type": "Marry",
+  },
+  "Move": {
+    "comment": "The act of an agent relocating to a place.\\n\\nRelated actions:\\n\\n* [[TransferAction]]: Unlike TransferAction, the subject of the move is a living Person or Organization rather than an inanimate object.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [
+      "TransferAction",
+    ],
+    "schema": {
+      "@id": "schema:MoveAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of an agent relocating to a place.\\n\\nRelated actions:\\n\\n* [[TransferAction]]: Unlike TransferAction, the subject of the move is a living Person or Organization rather than an inanimate object.",
+      "rdfs:label": "MoveAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Move",
+  },
+  "Order": {
+    "comment": "An agent orders an object/product/service to be delivered/sent.",
+    "parent": "TradeAction",
+    "parents": [
+      "TradeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:OrderAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent orders an object/product/service to be delivered/sent.",
+      "rdfs:label": "OrderAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TradeAction",
+      },
+    },
+    "type": "Order",
+  },
+  "Organize": {
+    "comment": "The act of manipulating/administering/supervising/controlling one or more objects.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:OrganizeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of manipulating/administering/supervising/controlling one or more objects.",
+      "rdfs:label": "OrganizeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Organize",
+  },
+  "Paint": {
+    "comment": "The act of producing a painting, typically with paint and canvas as instruments.",
+    "parent": "CreateAction",
+    "parents": [
+      "CreateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:PaintAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of producing a painting, typically with paint and canvas as instruments.",
+      "rdfs:label": "PaintAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CreateAction",
+      },
+    },
+    "type": "Paint",
+  },
+  "Pay": {
+    "comment": "An agent pays a price to a participant.",
+    "parent": "TradeAction",
+    "parents": [
+      "TradeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:PayAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent pays a price to a participant.",
+      "rdfs:label": "PayAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TradeAction",
+      },
+    },
+    "type": "Pay",
+  },
+  "Perform": {
+    "comment": "The act of participating in performance arts.",
+    "parent": "PlayAction",
+    "parents": [
+      "PlayAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:PerformAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of participating in performance arts.",
+      "rdfs:label": "PerformAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:PlayAction",
+      },
+    },
+    "type": "Perform",
+  },
+  "Photograph": {
+    "comment": "The act of capturing still images of objects using a camera.",
+    "parent": "CreateAction",
+    "parents": [
+      "CreateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:PhotographAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of capturing still images of objects using a camera.",
+      "rdfs:label": "PhotographAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CreateAction",
+      },
+    },
+    "type": "Photograph",
+  },
+  "Plan": {
+    "comment": "The act of planning the execution of an event/task/action/reservation/plan to a future date.",
+    "parent": "OrganizeAction",
+    "parents": [
+      "OrganizeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:PlanAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of planning the execution of an event/task/action/reservation/plan to a future date.",
+      "rdfs:label": "PlanAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:OrganizeAction",
+      },
+    },
+    "type": "Plan",
+  },
+  "Play": {
+    "comment": "The act of playing/exercising/training/performing for enjoyment, leisure, recreation, competition or exercise.\\n\\nRelated actions:\\n\\n* [[ListenAction]]: Unlike ListenAction (which is under ConsumeAction), PlayAction refers to performing for an audience or at an event, rather than consuming music.\\n* [[WatchAction]]: Unlike WatchAction (which is under ConsumeAction), PlayAction refers to showing/displaying for an audience or at an event, rather than consuming visual content.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [
+      "ListenAction",
+      "WatchAction",
+    ],
+    "schema": {
+      "@id": "schema:PlayAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of playing/exercising/training/performing for enjoyment, leisure, recreation, competition or exercise.\\n\\nRelated actions:\\n\\n* [[ListenAction]]: Unlike ListenAction (which is under ConsumeAction), PlayAction refers to performing for an audience or at an event, rather than consuming music.\\n* [[WatchAction]]: Unlike WatchAction (which is under ConsumeAction), PlayAction refers to showing/displaying for an audience or at an event, rather than consuming visual content.",
+      "rdfs:label": "PlayAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Play",
+  },
+  "PlayGame": {
+    "comment": "The act of playing a video game.",
+    "parent": "ConsumeAction",
+    "parents": [
+      "ConsumeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:PlayGameAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of playing a video game.",
+      "rdfs:label": "PlayGameAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ConsumeAction",
+      },
+      "schema:isPartOf": {
+        "@id": "https://pending.schema.org",
+      },
+      "schema:source": {
+        "@id": "https://github.com/schemaorg/schemaorg/issues/3058",
+      },
+    },
+    "type": "PlayGame",
+  },
+  "PreOrder": {
+    "comment": "An agent orders a (not yet released) object/product/service to be delivered/sent.",
+    "parent": "TradeAction",
+    "parents": [
+      "TradeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:PreOrderAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent orders a (not yet released) object/product/service to be delivered/sent.",
+      "rdfs:label": "PreOrderAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TradeAction",
+      },
+      "schema:source": {
+        "@id": "https://github.com/schemaorg/schemaorg/issues/1125",
+      },
+    },
+    "type": "PreOrder",
+  },
+  "Prepend": {
+    "comment": "The act of inserting at the beginning if an ordered collection.",
+    "parent": "InsertAction",
+    "parents": [
+      "InsertAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:PrependAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of inserting at the beginning if an ordered collection.",
+      "rdfs:label": "PrependAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InsertAction",
+      },
+    },
+    "type": "Prepend",
+  },
+  "Quote": {
+    "comment": "An agent quotes/estimates/appraises an object/product/service with a price at a location/store.",
+    "parent": "TradeAction",
+    "parents": [
+      "TradeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:QuoteAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent quotes/estimates/appraises an object/product/service with a price at a location/store.",
+      "rdfs:label": "QuoteAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TradeAction",
+      },
+    },
+    "type": "Quote",
+  },
+  "React": {
+    "comment": "The act of responding instinctively and emotionally to an object, expressing a sentiment.",
+    "parent": "AssessAction",
+    "parents": [
+      "AssessAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ReactAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of responding instinctively and emotionally to an object, expressing a sentiment.",
+      "rdfs:label": "ReactAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AssessAction",
+      },
+    },
+    "type": "React",
+  },
+  "Read": {
+    "comment": "The act of consuming written content.",
+    "parent": "ConsumeAction",
+    "parents": [
+      "ConsumeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ReadAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of consuming written content.",
+      "rdfs:label": "ReadAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ConsumeAction",
+      },
+    },
+    "type": "Read",
+  },
+  "Receive": {
+    "comment": "The act of physically/electronically taking delivery of an object that has been transferred from an origin to a destination. Reciprocal of SendAction.\\n\\nRelated actions:\\n\\n* [[SendAction]]: The reciprocal of ReceiveAction.\\n* [[TakeAction]]: Unlike TakeAction, ReceiveAction does not imply that the ownership has been transferred (e.g. I can receive a package, but it does not mean the package is now mine).",
+    "parent": "TransferAction",
+    "parents": [
+      "TransferAction",
+    ],
+    "related": [
+      "SendAction",
+      "TakeAction",
+    ],
+    "schema": {
+      "@id": "schema:ReceiveAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of physically/electronically taking delivery of an object that has been transferred from an origin to a destination. Reciprocal of SendAction.\\n\\nRelated actions:\\n\\n* [[SendAction]]: The reciprocal of ReceiveAction.\\n* [[TakeAction]]: Unlike TakeAction, ReceiveAction does not imply that the ownership has been transferred (e.g. I can receive a package, but it does not mean the package is now mine).",
+      "rdfs:label": "ReceiveAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TransferAction",
+      },
+    },
+    "type": "Receive",
+  },
+  "Register": {
+    "comment": "The act of registering to be a user of a service, product or web page.\\n\\nRelated actions:\\n\\n* [[JoinAction]]: Unlike JoinAction, RegisterAction implies you are registering to be a user of a service, *not* a group/team of people.\\n* [[FollowAction]]: Unlike FollowAction, RegisterAction doesn't imply that the agent is expecting to poll for updates from the object.\\n* [[SubscribeAction]]: Unlike SubscribeAction, RegisterAction doesn't imply that the agent is expecting updates from the object.",
+    "parent": "InteractAction",
+    "parents": [
+      "InteractAction",
+    ],
+    "related": [
+      "JoinAction",
+      "FollowAction",
+      "SubscribeAction",
+    ],
+    "schema": {
+      "@id": "schema:RegisterAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of registering to be a user of a service, product or web page.\\n\\nRelated actions:\\n\\n* [[JoinAction]]: Unlike JoinAction, RegisterAction implies you are registering to be a user of a service, *not* a group/team of people.\\n* [[FollowAction]]: Unlike FollowAction, RegisterAction doesn't imply that the agent is expecting to poll for updates from the object.\\n* [[SubscribeAction]]: Unlike SubscribeAction, RegisterAction doesn't imply that the agent is expecting updates from the object.",
+      "rdfs:label": "RegisterAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InteractAction",
+      },
+    },
+    "type": "Register",
+  },
+  "Reject": {
+    "comment": "The act of rejecting to/adopting an object.\\n\\nRelated actions:\\n\\n* [[AcceptAction]]: The antonym of RejectAction.",
+    "parent": "AllocateAction",
+    "parents": [
+      "AllocateAction",
+    ],
+    "related": [
+      "AcceptAction",
+    ],
+    "schema": {
+      "@id": "schema:RejectAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of rejecting to/adopting an object.\\n\\nRelated actions:\\n\\n* [[AcceptAction]]: The antonym of RejectAction.",
+      "rdfs:label": "RejectAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AllocateAction",
+      },
+    },
+    "type": "Reject",
+  },
+  "Rent": {
+    "comment": "The act of giving money in return for temporary use, but not ownership, of an object such as a vehicle or property. For example, an agent rents a property from a landlord in exchange for a periodic payment.",
+    "parent": "TradeAction",
+    "parents": [
+      "TradeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:RentAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of giving money in return for temporary use, but not ownership, of an object such as a vehicle or property. For example, an agent rents a property from a landlord in exchange for a periodic payment.",
+      "rdfs:label": "RentAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TradeAction",
+      },
+    },
+    "type": "Rent",
+  },
+  "Replace": {
+    "comment": "The act of editing a recipient by replacing an old object with a new object.",
+    "parent": "UpdateAction",
+    "parents": [
+      "UpdateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ReplaceAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of editing a recipient by replacing an old object with a new object.",
+      "rdfs:label": "ReplaceAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:UpdateAction",
+      },
+    },
+    "type": "Replace",
+  },
+  "Reply": {
+    "comment": "The act of responding to a question/message asked/sent by the object. Related to [[AskAction]].\\n\\nRelated actions:\\n\\n* [[AskAction]]: Appears generally as an origin of a ReplyAction.",
+    "parent": "CommunicateAction",
+    "parents": [
+      "CommunicateAction",
+    ],
+    "related": [
+      "AskAction",
+      "AskAction",
+    ],
+    "schema": {
+      "@id": "schema:ReplyAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of responding to a question/message asked/sent by the object. Related to [[AskAction]].\\n\\nRelated actions:\\n\\n* [[AskAction]]: Appears generally as an origin of a ReplyAction.",
+      "rdfs:label": "ReplyAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CommunicateAction",
+      },
+    },
+    "type": "Reply",
+  },
+  "Reserve": {
+    "comment": "Reserving a concrete object.\\n\\nRelated actions:\\n\\n* [[ScheduleAction]]: Unlike ScheduleAction, ReserveAction reserves concrete objects (e.g. a table, a hotel) towards a time slot / spatial allocation.",
+    "parent": "PlanAction",
+    "parents": [
+      "PlanAction",
+    ],
+    "related": [
+      "ScheduleAction",
+    ],
+    "schema": {
+      "@id": "schema:ReserveAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "Reserving a concrete object.\\n\\nRelated actions:\\n\\n* [[ScheduleAction]]: Unlike ScheduleAction, ReserveAction reserves concrete objects (e.g. a table, a hotel) towards a time slot / spatial allocation.",
+      "rdfs:label": "ReserveAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:PlanAction",
+      },
+    },
+    "type": "Reserve",
+  },
+  "Resume": {
+    "comment": "The act of resuming a device or application which was formerly paused (e.g. resume music playback or resume a timer).",
+    "parent": "ControlAction",
+    "parents": [
+      "ControlAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ResumeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of resuming a device or application which was formerly paused (e.g. resume music playback or resume a timer).",
+      "rdfs:label": "ResumeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ControlAction",
+      },
+    },
+    "type": "Resume",
+  },
+  "Return": {
+    "comment": "The act of returning to the origin that which was previously received (concrete objects) or taken (ownership).",
+    "parent": "TransferAction",
+    "parents": [
+      "TransferAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ReturnAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of returning to the origin that which was previously received (concrete objects) or taken (ownership).",
+      "rdfs:label": "ReturnAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TransferAction",
+      },
+    },
+    "type": "Return",
+  },
+  "Review": {
+    "comment": "The act of producing a balanced opinion about the object for an audience. An agent reviews an object with participants resulting in a review.",
+    "parent": "AssessAction",
+    "parents": [
+      "AssessAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ReviewAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of producing a balanced opinion about the object for an audience. An agent reviews an object with participants resulting in a review.",
+      "rdfs:label": "ReviewAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AssessAction",
+      },
+    },
+    "type": "Review",
+  },
+  "Rsvp": {
+    "comment": "The act of notifying an event organizer as to whether you expect to attend the event.",
+    "parent": "InformAction",
+    "parents": [
+      "InformAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:RsvpAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of notifying an event organizer as to whether you expect to attend the event.",
+      "rdfs:label": "RsvpAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InformAction",
+      },
+    },
+    "type": "Rsvp",
+  },
+  "Schedule": {
+    "comment": "Scheduling future actions, events, or tasks.\\n\\nRelated actions:\\n\\n* [[ReserveAction]]: Unlike ReserveAction, ScheduleAction allocates future actions (e.g. an event, a task, etc) towards a time slot / spatial allocation.",
+    "parent": "PlanAction",
+    "parents": [
+      "PlanAction",
+    ],
+    "related": [
+      "ReserveAction",
+    ],
+    "schema": {
+      "@id": "schema:ScheduleAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "Scheduling future actions, events, or tasks.\\n\\nRelated actions:\\n\\n* [[ReserveAction]]: Unlike ReserveAction, ScheduleAction allocates future actions (e.g. an event, a task, etc) towards a time slot / spatial allocation.",
+      "rdfs:label": "ScheduleAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:PlanAction",
+      },
+    },
+    "type": "Schedule",
+  },
+  "Search": {
+    "comment": "The act of searching for an object.\\n\\nRelated actions:\\n\\n* [[FindAction]]: SearchAction generally leads to a FindAction, but not necessarily.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [
+      "FindAction",
+    ],
+    "schema": {
+      "@id": "schema:SearchAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of searching for an object.\\n\\nRelated actions:\\n\\n* [[FindAction]]: SearchAction generally leads to a FindAction, but not necessarily.",
+      "rdfs:label": "SearchAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Search",
+  },
+  "SeekTo": {
+    "comment": "This is the [[Action]] of navigating to a specific [[startOffset]] timestamp within a [[VideoObject]], typically represented with a URL template structure.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [
+      "Action",
+      "startOffset",
+      "VideoObject",
+    ],
+    "schema": {
+      "@id": "schema:SeekToAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "This is the [[Action]] of navigating to a specific [[startOffset]] timestamp within a [[VideoObject]], typically represented with a URL template structure.",
+      "rdfs:label": "SeekToAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+      "schema:isPartOf": {
+        "@id": "https://pending.schema.org",
+      },
+      "schema:source": {
+        "@id": "https://github.com/schemaorg/schemaorg/issues/2722",
+      },
+    },
+    "type": "SeekTo",
+  },
+  "Sell": {
+    "comment": "The act of taking money from a buyer in exchange for goods or services rendered. An agent sells an object, product, or service to a buyer for a price. Reciprocal of BuyAction.",
+    "parent": "TradeAction",
+    "parents": [
+      "TradeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:SellAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of taking money from a buyer in exchange for goods or services rendered. An agent sells an object, product, or service to a buyer for a price. Reciprocal of BuyAction.",
+      "rdfs:label": "SellAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TradeAction",
+      },
+    },
+    "type": "Sell",
+  },
+  "Send": {
+    "comment": "The act of physically/electronically dispatching an object for transfer from an origin to a destination. Related actions:\\n\\n* [[ReceiveAction]]: The reciprocal of SendAction.\\n* [[GiveAction]]: Unlike GiveAction, SendAction does not imply the transfer of ownership (e.g. I can send you my laptop, but I'm not necessarily giving it to you).",
+    "parent": "TransferAction",
+    "parents": [
+      "TransferAction",
+    ],
+    "related": [
+      "ReceiveAction",
+      "GiveAction",
+    ],
+    "schema": {
+      "@id": "schema:SendAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of physically/electronically dispatching an object for transfer from an origin to a destination. Related actions:\\n\\n* [[ReceiveAction]]: The reciprocal of SendAction.\\n* [[GiveAction]]: Unlike GiveAction, SendAction does not imply the transfer of ownership (e.g. I can send you my laptop, but I'm not necessarily giving it to you).",
+      "rdfs:label": "SendAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TransferAction",
+      },
+    },
+    "type": "Send",
+  },
+  "Share": {
+    "comment": "The act of distributing content to people for their amusement or edification.",
+    "parent": "CommunicateAction",
+    "parents": [
+      "CommunicateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ShareAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of distributing content to people for their amusement or edification.",
+      "rdfs:label": "ShareAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CommunicateAction",
+      },
+    },
+    "type": "Share",
+  },
+  "SolveMath": {
+    "comment": "The action that takes in a math expression and directs users to a page potentially capable of solving/simplifying that expression.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:SolveMathAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The action that takes in a math expression and directs users to a page potentially capable of solving/simplifying that expression.",
+      "rdfs:label": "SolveMathAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+      "schema:isPartOf": {
+        "@id": "https://pending.schema.org",
+      },
+      "schema:source": {
+        "@id": "https://github.com/schemaorg/schemaorg/issues/2740",
+      },
+    },
+    "type": "SolveMath",
+  },
+  "Subscribe": {
+    "comment": "The act of forming a personal connection with someone/something (object) unidirectionally/asymmetrically to get updates pushed to.\\n\\nRelated actions:\\n\\n* [[FollowAction]]: Unlike FollowAction, SubscribeAction implies that the subscriber acts as a passive agent being constantly/actively pushed for updates.\\n* [[RegisterAction]]: Unlike RegisterAction, SubscribeAction implies that the agent is interested in continuing receiving updates from the object.\\n* [[JoinAction]]: Unlike JoinAction, SubscribeAction implies that the agent is interested in continuing receiving updates from the object.",
+    "parent": "InteractAction",
+    "parents": [
+      "InteractAction",
+    ],
+    "related": [
+      "FollowAction",
+      "RegisterAction",
+      "JoinAction",
+    ],
+    "schema": {
+      "@id": "schema:SubscribeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of forming a personal connection with someone/something (object) unidirectionally/asymmetrically to get updates pushed to.\\n\\nRelated actions:\\n\\n* [[FollowAction]]: Unlike FollowAction, SubscribeAction implies that the subscriber acts as a passive agent being constantly/actively pushed for updates.\\n* [[RegisterAction]]: Unlike RegisterAction, SubscribeAction implies that the agent is interested in continuing receiving updates from the object.\\n* [[JoinAction]]: Unlike JoinAction, SubscribeAction implies that the agent is interested in continuing receiving updates from the object.",
+      "rdfs:label": "SubscribeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InteractAction",
+      },
+    },
+    "type": "Subscribe",
+  },
+  "Suspend": {
+    "comment": "The act of momentarily pausing a device or application (e.g. pause music playback or pause a timer).",
+    "parent": "ControlAction",
+    "parents": [
+      "ControlAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:SuspendAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of momentarily pausing a device or application (e.g. pause music playback or pause a timer).",
+      "rdfs:label": "SuspendAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ControlAction",
+      },
+    },
+    "type": "Suspend",
+  },
+  "Take": {
+    "comment": "The act of gaining ownership of an object from an origin. Reciprocal of GiveAction.\\n\\nRelated actions:\\n\\n* [[GiveAction]]: The reciprocal of TakeAction.\\n* [[ReceiveAction]]: Unlike ReceiveAction, TakeAction implies that ownership has been transferred.",
+    "parent": "TransferAction",
+    "parents": [
+      "TransferAction",
+    ],
+    "related": [
+      "GiveAction",
+      "ReceiveAction",
+    ],
+    "schema": {
+      "@id": "schema:TakeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of gaining ownership of an object from an origin. Reciprocal of GiveAction.\\n\\nRelated actions:\\n\\n* [[GiveAction]]: The reciprocal of TakeAction.\\n* [[ReceiveAction]]: Unlike ReceiveAction, TakeAction implies that ownership has been transferred.",
+      "rdfs:label": "TakeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TransferAction",
+      },
+    },
+    "type": "Take",
+  },
+  "Tie": {
+    "comment": "The act of reaching a draw in a competitive activity.",
+    "parent": "AchieveAction",
+    "parents": [
+      "AchieveAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:TieAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of reaching a draw in a competitive activity.",
+      "rdfs:label": "TieAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AchieveAction",
+      },
+    },
+    "type": "Tie",
+  },
+  "Tip": {
+    "comment": "The act of giving money voluntarily to a beneficiary in recognition of services rendered.",
+    "parent": "TradeAction",
+    "parents": [
+      "TradeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:TipAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of giving money voluntarily to a beneficiary in recognition of services rendered.",
+      "rdfs:label": "TipAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:TradeAction",
+      },
+    },
+    "type": "Tip",
+  },
+  "Track": {
+    "comment": "An agent tracks an object for updates.\\n\\nRelated actions:\\n\\n* [[FollowAction]]: Unlike FollowAction, TrackAction refers to the interest on the location of innanimates objects.\\n* [[SubscribeAction]]: Unlike SubscribeAction, TrackAction refers to  the interest on the location of innanimate objects.",
+    "parent": "FindAction",
+    "parents": [
+      "FindAction",
+    ],
+    "related": [
+      "FollowAction",
+      "SubscribeAction",
+    ],
+    "schema": {
+      "@id": "schema:TrackAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "An agent tracks an object for updates.\\n\\nRelated actions:\\n\\n* [[FollowAction]]: Unlike FollowAction, TrackAction refers to the interest on the location of innanimates objects.\\n* [[SubscribeAction]]: Unlike SubscribeAction, TrackAction refers to  the interest on the location of innanimate objects.",
+      "rdfs:label": "TrackAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:FindAction",
+      },
+    },
+    "type": "Track",
+  },
+  "Trade": {
+    "comment": "The act of participating in an exchange of goods and services for monetary compensation. An agent trades an object, product or service with a participant in exchange for a one time or periodic payment.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:TradeAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of participating in an exchange of goods and services for monetary compensation. An agent trades an object, product or service with a participant in exchange for a one time or periodic payment.",
+      "rdfs:label": "TradeAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Trade",
+  },
+  "Transfer": {
+    "comment": "The act of transferring/moving (abstract or concrete) animate or inanimate objects from one place to another.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:TransferAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of transferring/moving (abstract or concrete) animate or inanimate objects from one place to another.",
+      "rdfs:label": "TransferAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Transfer",
+  },
+  "Travel": {
+    "comment": "The act of traveling from a fromLocation to a destination by a specified mode of transport, optionally with participants.",
+    "parent": "MoveAction",
+    "parents": [
+      "MoveAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:TravelAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of traveling from a fromLocation to a destination by a specified mode of transport, optionally with participants.",
+      "rdfs:label": "TravelAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:MoveAction",
+      },
+    },
+    "type": "Travel",
+  },
+  "UnRegister": {
+    "comment": "The act of un-registering from a service.\\n\\nRelated actions:\\n\\n* [[RegisterAction]]: antonym of UnRegisterAction.\\n* [[LeaveAction]]: Unlike LeaveAction, UnRegisterAction implies that you are unregistering from a service you were previously registered, rather than leaving a team/group of people.",
+    "parent": "InteractAction",
+    "parents": [
+      "InteractAction",
+    ],
+    "related": [
+      "RegisterAction",
+      "LeaveAction",
+    ],
+    "schema": {
+      "@id": "schema:UnRegisterAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of un-registering from a service.\\n\\nRelated actions:\\n\\n* [[RegisterAction]]: antonym of UnRegisterAction.\\n* [[LeaveAction]]: Unlike LeaveAction, UnRegisterAction implies that you are unregistering from a service you were previously registered, rather than leaving a team/group of people.",
+      "rdfs:label": "UnRegisterAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:InteractAction",
+      },
+    },
+    "type": "UnRegister",
+  },
+  "Update": {
+    "comment": "The act of managing by changing/editing the state of the object.",
+    "parent": "Action",
+    "parents": [
+      "Action",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:UpdateAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of managing by changing/editing the state of the object.",
+      "rdfs:label": "UpdateAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:Action",
+      },
+    },
+    "type": "Update",
+  },
+  "Use": {
+    "comment": "The act of applying an object to its intended purpose.",
+    "parent": "ConsumeAction",
+    "parents": [
+      "ConsumeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:UseAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of applying an object to its intended purpose.",
+      "rdfs:label": "UseAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ConsumeAction",
+      },
+    },
+    "type": "Use",
+  },
+  "View": {
+    "comment": "The act of consuming static visual content.",
+    "parent": "ConsumeAction",
+    "parents": [
+      "ConsumeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:ViewAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of consuming static visual content.",
+      "rdfs:label": "ViewAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ConsumeAction",
+      },
+    },
+    "type": "View",
+  },
+  "Vote": {
+    "comment": "The act of expressing a preference from a fixed/finite/structured set of choices/options.",
+    "parent": "ChooseAction",
+    "parents": [
+      "ChooseAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:VoteAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of expressing a preference from a fixed/finite/structured set of choices/options.",
+      "rdfs:label": "VoteAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ChooseAction",
+      },
+    },
+    "type": "Vote",
+  },
+  "Want": {
+    "comment": "The act of expressing a desire about the object. An agent wants an object.",
+    "parent": "ReactAction",
+    "parents": [
+      "ReactAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:WantAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of expressing a desire about the object. An agent wants an object.",
+      "rdfs:label": "WantAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ReactAction",
+      },
+    },
+    "type": "Want",
+  },
+  "Watch": {
+    "comment": "The act of consuming dynamic/moving visual content.",
+    "parent": "ConsumeAction",
+    "parents": [
+      "ConsumeAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:WatchAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of consuming dynamic/moving visual content.",
+      "rdfs:label": "WatchAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:ConsumeAction",
+      },
+    },
+    "type": "Watch",
+  },
+  "Wear": {
+    "comment": "The act of dressing oneself in clothing.",
+    "parent": "UseAction",
+    "parents": [
+      "UseAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:WearAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of dressing oneself in clothing.",
+      "rdfs:label": "WearAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:UseAction",
+      },
+    },
+    "type": "Wear",
+  },
+  "Win": {
+    "comment": "The act of achieving victory in a competitive activity.",
+    "parent": "AchieveAction",
+    "parents": [
+      "AchieveAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:WinAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of achieving victory in a competitive activity.",
+      "rdfs:label": "WinAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:AchieveAction",
+      },
+    },
+    "type": "Win",
+  },
+  "Write": {
+    "comment": "The act of authoring written creative content.",
+    "parent": "CreateAction",
+    "parents": [
+      "CreateAction",
+    ],
+    "related": [],
+    "schema": {
+      "@id": "schema:WriteAction",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The act of authoring written creative content.",
+      "rdfs:label": "WriteAction",
+      "rdfs:subClassOf": {
+        "@id": "schema:CreateAction",
+      },
+    },
+    "type": "Write",
+  },
+}
