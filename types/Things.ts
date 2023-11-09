@@ -6,7 +6,7 @@ export type Number = number
 export type DateTime = Date
 export type Time = Date
 
-export type Things = AMRadioChannel | APIReference | AboutPage | AcceptAction | Accommodation | AccountingService | AchieveAction | Action | ActionAccessSpecification | ActionStatusType | ActivateAction | AddAction | AdministrativeArea | AdultEntertainment | AdultOrientedEnumeration | AdvertiserContentArticle | AggregateOffer | AggregateRating | AgreeAction | Airline | Airport | AlignmentObject | AllocateAction | AmpStory | AmusementPark | AnalysisNewsArticle | AnatomicalStructure | AnatomicalSystem | AnimalShelter | Answer | Apartment | ApartmentComplex | AppendAction | ApplyAction | ApprovedIndication | Aquarium | ArchiveComponent | ArchiveOrganization | ArriveAction | ArtGallery | Artery | Article | AskAction | AskPublicNewsArticle | AssessAction | AssignAction | Atlas | Attorney | Audience | AudioObject | AudioObjectSnapshot | Audiobook | AuthorizeAction | AutoBodyShop | AutoDealer | AutoPartsStore | AutoRental | AutoRepair | AutoWash | AutomatedTeller | AutomotiveBusiness | BackgroundNewsArticle | Bakery | BankAccount | BankOrCreditUnion | BarOrPub | Barcode | Beach | BeautySalon | BedAndBreakfast | BedDetails | BedType | BefriendAction | BikeStore | BioChemEntity | Blog | BlogPosting | BloodTest | BoardingPolicyType | BoatReservation | BoatTerminal | BoatTrip | BodyMeasurementTypeEnumeration | BodyOfWater | Bone | Book | BookFormatType | BookSeries | BookStore | BookmarkAction | BorrowAction | BowlingAlley | BrainStructure | Brand | BreadcrumbList | Brewery | Bridge | BroadcastChannel | BroadcastEvent | BroadcastFrequencySpecification | BroadcastService | BrokerageAccount | BuddhistTemple | BusOrCoach | BusReservation | BusStation | BusStop | BusTrip | BusinessAudience | BusinessEntityType | BusinessEvent | BusinessFunction | BuyAction | CDCPMDRecord | CableOrSatelliteService | CafeOrCoffeeShop | Campground | CampingPitch | Canal | CancelAction | Car | CarUsageType | Casino | CategoryCode | CategoryCodeSet | CatholicChurch | Cemetery | Chapter | CheckAction | CheckInAction | CheckOutAction | CheckoutPage | ChemicalSubstance | ChildCare | ChildrensEvent | ChooseAction | Church | City | CityHall | CivicStructure | Claim | ClaimReview | Class | Clip | ClothingStore | Code | Collection | CollectionPage | CollegeOrUniversity | ComedyClub | ComedyEvent | ComicCoverArt | ComicIssue | ComicSeries | ComicStory | Comment | CommentAction | CommunicateAction | CompleteDataFeed | CompoundPriceSpecification | ComputerLanguage | ComputerStore | ConfirmAction | Consortium | ConstraintNode | ConsumeAction | ContactPage | ContactPoint | ContactPointOption | Continent | ControlAction | ConvenienceStore | Conversation | CookAction | Corporation | CorrectionComment | Country | Course | CourseInstance | Courthouse | CoverArt | CovidTestingFacility | CreateAction | CreativeWork | CreativeWorkSeason | CreativeWorkSeries | CreditCard | Crematorium | CriticReview | CssSelectorType | CurrencyConversionService | DDxElement | DanceEvent | DanceGroup | DataCatalog | DataDownload | DataFeed | DataFeedItem | DataType | Dataset | DatedMoneySpecification | DayOfWeek | DaySpa | DeactivateAction | DefenceEstablishment | DefinedRegion | DefinedTerm | DefinedTermSet | DeleteAction | DeliveryChargeSpecification | DeliveryEvent | DeliveryMethod | DeliveryTimeSettings | Demand | Dentist | DepartAction | DepartmentStore | DepositAccount | DiagnosticLab | DiagnosticProcedure | Diet | DietarySupplement | DigitalDocument | DigitalDocumentPermission | DigitalDocumentPermissionType | DigitalPlatformEnumeration | DisagreeAction | DiscoverAction | DiscussionForumPosting | DislikeAction | Distance | Distillery | DonateAction | DoseSchedule | DownloadAction | DrawAction | Drawing | DrinkAction | DriveWheelConfigurationValue | Drug | DrugClass | DrugCost | DrugCostCategory | DrugLegalStatus | DrugPregnancyCategory | DrugPrescriptionStatus | DrugStrength | DryCleaningOrLaundry | Duration | EUEnergyEfficiencyEnumeration | EatAction | EducationEvent | EducationalAudience | EducationalOccupationalCredential | EducationalOccupationalProgram | EducationalOrganization | Electrician | ElectronicsStore | ElementarySchool | EmailMessage | Embassy | EmergencyService | EmployeeRole | EmployerAggregateRating | EmployerReview | EmploymentAgency | EndorseAction | EndorsementRating | Energy | EnergyConsumptionDetails | EnergyEfficiencyEnumeration | EnergyStarEnergyEfficiencyEnumeration | EngineSpecification | EntertainmentBusiness | EntryPoint | Enumeration | Episode | Event | EventAttendanceModeEnumeration | EventReservation | EventSeries | EventStatusType | EventVenue | ExchangeRateSpecification | ExerciseAction | ExerciseGym | ExercisePlan | ExhibitionEvent | FAQPage | FMRadioChannel | FastFoodRestaurant | Festival | FilmAction | FinancialProduct | FinancialService | FindAction | FireStation | Flight | FlightReservation | Float | FloorPlan | Florist | FollowAction | FoodEstablishment | FoodEstablishmentReservation | FoodEvent | FoodService | FundingAgency | FundingScheme | FurnitureStore | Game | GameAvailabilityEnumeration | GamePlayMode | GameServer | GameServerStatus | GardenStore | GasStation | GatedResidenceCommunity | GenderType | Gene | GeneralContractor | GeoCircle | GeoCoordinates | GeoShape | GeospatialGeometry | GiveAction | GolfCourse | GovernmentBenefitsType | GovernmentBuilding | GovernmentOffice | GovernmentOrganization | GovernmentPermit | GovernmentService | Grant | GroceryStore | Guide | HVACBusiness | Hackathon | HairSalon | HardwareStore | HealthAndBeautyBusiness | HealthAspectEnumeration | HealthClub | HealthInsurancePlan | HealthPlanCostSharingSpecification | HealthPlanFormulary | HealthPlanNetwork | HealthTopicContent | HighSchool | HinduTemple | HobbyShop | HomeAndConstructionBusiness | HomeGoodsStore | Hospital | Hostel | Hotel | HotelRoom | House | HousePainter | HowTo | HowToDirection | HowToItem | HowToSection | HowToStep | HowToSupply | HowToTip | HowToTool | HyperToc | HyperTocEntry | IceCreamShop | IgnoreAction | ImageGallery | ImageObject | ImageObjectSnapshot | ImagingTest | IndividualProduct | InfectiousAgentClass | InfectiousDisease | InformAction | InsertAction | InstallAction | InsuranceAgency | Intangible | Integer | InteractAction | InteractionCounter | InternetCafe | InvestmentFund | InvestmentOrDeposit | InviteAction | Invoice | ItemAvailability | ItemList | ItemListOrderType | ItemPage | JewelryStore | JobPosting | JoinAction | Joint | LakeBodyOfWater | Landform | LandmarksOrHistoricalBuildings | Language | LearningResource | LeaveAction | LegalForceStatus | LegalService | LegalValueLevel | Legislation | LegislationObject | LegislativeBuilding | LendAction | Library | LibrarySystem | LifestyleModification | Ligament | LikeAction | LinkRole | LiquorStore | ListItem | ListenAction | LiteraryEvent | LiveBlogPosting | LoanOrCredit | LocalBusiness | LocationFeatureSpecification | Locksmith | LodgingBusiness | LodgingReservation | LoseAction | LymphaticVessel | Manuscript | Map | MapCategoryType | MarryAction | Mass | MathSolver | MaximumDoseSchedule | MeasurementMethodEnum | MeasurementTypeEnumeration | MediaGallery | MediaManipulationRatingEnumeration | MediaObject | MediaReview | MediaReviewItem | MediaSubscription | MedicalAudience | MedicalAudienceType | MedicalBusiness | MedicalCause | MedicalClinic | MedicalCode | MedicalCondition | MedicalConditionStage | MedicalContraindication | MedicalDevice | MedicalDevicePurpose | MedicalEntity | MedicalEnumeration | MedicalEvidenceLevel | MedicalGuideline | MedicalGuidelineContraindication | MedicalGuidelineRecommendation | MedicalImagingTechnique | MedicalIndication | MedicalIntangible | MedicalObservationalStudy | MedicalObservationalStudyDesign | MedicalOrganization | MedicalProcedure | MedicalProcedureType | MedicalRiskCalculator | MedicalRiskEstimator | MedicalRiskFactor | MedicalRiskScore | MedicalScholarlyArticle | MedicalSign | MedicalSignOrSymptom | MedicalSpecialty | MedicalStudy | MedicalStudyStatus | MedicalSymptom | MedicalTest | MedicalTestPanel | MedicalTherapy | MedicalTrial | MedicalTrialDesign | MedicalWebPage | MedicineSystem | MeetingRoom | MensClothingStore | Menu | MenuItem | MenuSection | MerchantReturnEnumeration | MerchantReturnPolicy | MerchantReturnPolicySeasonalOverride | Message | MiddleSchool | MobileApplication | MobilePhoneStore | MolecularEntity | MonetaryAmount | MonetaryAmountDistribution | MonetaryGrant | MoneyTransfer | MortgageLoan | Mosque | Motel | Motorcycle | MotorcycleDealer | MotorcycleRepair | MotorizedBicycle | Mountain | MoveAction | Movie | MovieClip | MovieRentalStore | MovieSeries | MovieTheater | MovingCompany | Muscle | Museum | MusicAlbum | MusicAlbumProductionType | MusicAlbumReleaseType | MusicComposition | MusicEvent | MusicGroup | MusicPlaylist | MusicRecording | MusicRelease | MusicReleaseFormatType | MusicStore | MusicVenue | MusicVideoObject | NGO | NLNonprofitType | NailSalon | Nerve | NewsArticle | NewsMediaOrganization | Newspaper | NightClub | NonprofitType | Notary | NoteDigitalDocument | NutritionInformation | Observation | Occupation | OccupationalExperienceRequirements | OccupationalTherapy | OceanBodyOfWater | Offer | OfferCatalog | OfferForLease | OfferForPurchase | OfferItemCondition | OfferShippingDetails | OfficeEquipmentStore | OnDemandEvent | OnlineBusiness | OnlineStore | OpeningHoursSpecification | OpinionNewsArticle | Optician | Order | OrderAction | OrderItem | OrderStatus | Organization | OrganizationRole | OrganizeAction | OutletStore | OwnershipInfo | PaintAction | Painting | PalliativeProcedure | ParcelDelivery | ParentAudience | Park | ParkingFacility | PathologyTest | Patient | PawnShop | PayAction | PaymentCard | PaymentChargeSpecification | PaymentMethod | PaymentService | PaymentStatusType | PeopleAudience | PerformAction | PerformanceRole | PerformingArtsTheater | PerformingGroup | Periodical | Permit | Person | PetStore | Pharmacy | Photograph | PhotographAction | PhysicalActivity | PhysicalActivityCategory | PhysicalExam | PhysicalTherapy | Physician | Place | PlaceOfWorship | PlanAction | Play | PlayAction | PlayGameAction | Playground | Plumber | PodcastEpisode | PodcastSeason | PodcastSeries | PoliceStation | PoliticalParty | Pond | PostOffice | PostalAddress | PostalCodeRangeSpecification | Poster | PreOrderAction | PrependAction | Preschool | PresentationDigitalDocument | PreventionIndication | PriceComponentTypeEnumeration | PriceSpecification | PriceTypeEnumeration | Product | ProductCollection | ProductGroup | ProductModel | ProfessionalService | ProfilePage | ProgramMembership | Project | PronounceableText | Property | PropertyValue | PropertyValueSpecification | Protein | PsychologicalTreatment | PublicSwimmingPool | PublicToilet | PublicationEvent | PublicationIssue | PublicationVolume | QAPage | QualitativeValue | QuantitativeValue | QuantitativeValueDistribution | Quantity | Question | Quiz | Quotation | QuoteAction | RVPark | RadiationTherapy | RadioBroadcastService | RadioChannel | RadioClip | RadioEpisode | RadioSeason | RadioSeries | RadioStation | Rating | ReactAction | ReadAction | RealEstateAgent | RealEstateListing | ReceiveAction | Recipe | Recommendation | RecommendedDoseSchedule | RecyclingCenter | RefundTypeEnumeration | RegisterAction | RejectAction | RentAction | RentalCarReservation | RepaymentSpecification | ReplaceAction | ReplyAction | Report | ReportageNewsArticle | ReportedDoseSchedule | ResearchOrganization | ResearchProject | Researcher | Reservation | ReservationPackage | ReservationStatusType | ReserveAction | Reservoir | Residence | Resort | Restaurant | RestrictedDiet | ResumeAction | ReturnAction | ReturnFeesEnumeration | ReturnLabelSourceEnumeration | ReturnMethodEnumeration | Review | ReviewAction | ReviewNewsArticle | RiverBodyOfWater | Role | RoofingContractor | Room | RsvpAction | RsvpResponseType | SaleEvent | SatiricalArticle | Schedule | ScheduleAction | ScholarlyArticle | School | SchoolDistrict | ScreeningEvent | Sculpture | SeaBodyOfWater | SearchAction | SearchRescueOrganization | SearchResultsPage | Season | Seat | SeekToAction | SelfStorage | SellAction | SendAction | Series | Service | ServiceChannel | ShareAction | SheetMusic | ShippingDeliveryTime | ShippingRateSettings | ShoeStore | ShoppingCenter | ShortStory | SingleFamilyResidence | SiteNavigationElement | SizeGroupEnumeration | SizeSpecification | SizeSystemEnumeration | SkiResort | SocialEvent | SocialMediaPosting | SoftwareApplication | SoftwareSourceCode | SolveMathAction | SomeProducts | SpeakableSpecification | SpecialAnnouncement | Specialty | SportingGoodsStore | SportsActivityLocation | SportsClub | SportsEvent | SportsOrganization | SportsTeam | SpreadsheetDigitalDocument | StadiumOrArena | State | Statement | StatisticalPopulation | StatisticalVariable | StatusEnumeration | SteeringPositionValue | Store | StructuredValue | SubscribeAction | Substance | SubwayStation | Suite | SuperficialAnatomy | SurgicalProcedure | SuspendAction | Syllabus | Synagogue | TVClip | TVEpisode | TVSeason | TVSeries | Table | TakeAction | TattooParlor | Taxi | TaxiReservation | TaxiService | TaxiStand | Taxon | TechArticle | TelevisionChannel | TelevisionStation | TennisComplex | TextDigitalDocument | TextObject | TheaterEvent | TheaterGroup | TherapeuticProcedure | Thesis | Thing | ThreeDimensionalModel | Ticket | TieAction | TipAction | TireShop | TouristAttraction | TouristDestination | TouristInformationCenter | TouristTrip | ToyStore | TrackAction | TradeAction | TrainReservation | TrainStation | TrainTrip | TransferAction | TravelAction | TravelAgency | TreatmentIndication | Trip | TypeAndQuantityNode | UKNonprofitType | URL | USNonprofitType | UnRegisterAction | UnitPriceSpecification | UpdateAction | UseAction | UserBlocks | UserCheckins | UserComments | UserDownloads | UserInteraction | UserLikes | UserPageVisits | UserPlays | UserPlusOnes | UserReview | UserTweets | VacationRental | Vehicle | Vein | Vessel | VeterinaryCare | VideoGallery | VideoGame | VideoGameClip | VideoGameSeries | VideoObject | VideoObjectSnapshot | ViewAction | VirtualLocation | VisualArtsEvent | VisualArtwork | VitalSign | Volcano | VoteAction | WPAdBlock | WPFooter | WPHeader | WPSideBar | WantAction | WarrantyPromise | WarrantyScope | WatchAction | Waterfall | WearAction | WearableMeasurementTypeEnumeration | WearableSizeGroupEnumeration | WearableSizeSystemEnumeration | WebAPI | WebApplication | WebContent | WebPage | WebPageElement | WebSite | WholesaleStore | WinAction | Winery | WorkBasedProgram | WorkersUnion | WriteAction | XPathType | Zoo
+export type Things = AMRadioChannel | APIReference | AboutPage | AcceptAction | Accommodation | AccountingService | AchieveAction | Action | ActionAccessSpecification | ActionStatusType | ActivateAction | AddAction | AdministrativeArea | AdultEntertainment | AdultOrientedEnumeration | AdvertiserContentArticle | AggregateOffer | AggregateRating | AgreeAction | Airline | Airport | AlignmentObject | AllocateAction | AmpStory | AmusementPark | AnalysisNewsArticle | AnatomicalStructure | AnatomicalSystem | AnimalShelter | Answer | Apartment | ApartmentComplex | AppendAction | ApplyAction | ApprovedIndication | Aquarium | ArchiveComponent | ArchiveOrganization | ArriveAction | ArtGallery | Artery | Article | AskAction | AskPublicNewsArticle | AssessAction | AssignAction | Atlas | Attorney | Audience | AudioObject | AudioObjectSnapshot | Audiobook | AuthorizeAction | AutoBodyShop | AutoDealer | AutoPartsStore | AutoRental | AutoRepair | AutoWash | AutomatedTeller | AutomotiveBusiness | BackgroundNewsArticle | Bakery | BankAccount | BankOrCreditUnion | BarOrPub | Barcode | Beach | BeautySalon | BedAndBreakfast | BedDetails | BedType | BefriendAction | BikeStore | BioChemEntity | Blog | BlogPosting | BloodTest | BoardingPolicyType | BoatReservation | BoatTerminal | BoatTrip | BodyMeasurementTypeEnumeration | BodyOfWater | Bone | Book | BookFormatType | BookSeries | BookStore | BookmarkAction | BorrowAction | BowlingAlley | BrainStructure | Brand | BreadcrumbList | Brewery | Bridge | BroadcastChannel | BroadcastEvent | BroadcastFrequencySpecification | BroadcastService | BrokerageAccount | BuddhistTemple | BusOrCoach | BusReservation | BusStation | BusStop | BusTrip | BusinessAudience | BusinessEntityType | BusinessEvent | BusinessFunction | BuyAction | CDCPMDRecord | CableOrSatelliteService | CafeOrCoffeeShop | Campground | CampingPitch | Canal | CancelAction | Car | CarUsageType | Casino | CategoryCode | CategoryCodeSet | CatholicChurch | Cemetery | Chapter | CheckAction | CheckInAction | CheckOutAction | CheckoutPage | ChemicalSubstance | ChildCare | ChildrensEvent | ChooseAction | Church | City | CityHall | CivicStructure | Claim | ClaimReview | Class | Clip | ClothingStore | Code | Collection | CollectionPage | CollegeOrUniversity | ComedyClub | ComedyEvent | ComicCoverArt | ComicIssue | ComicSeries | ComicStory | Comment | CommentAction | CommunicateAction | CompleteDataFeed | CompoundPriceSpecification | ComputerLanguage | ComputerStore | ConfirmAction | Consortium | ConstraintNode | ConsumeAction | ContactPage | ContactPoint | ContactPointOption | Continent | ControlAction | ConvenienceStore | Conversation | CookAction | Corporation | CorrectionComment | Country | Course | CourseInstance | Courthouse | CoverArt  | CreateAction | CreativeWork | CreativeWorkSeason | CreativeWorkSeries | CreditCard | Crematorium | CriticReview | CssSelectorType | CurrencyConversionService | DDxElement | DanceEvent | DanceGroup | DataCatalog | DataDownload | DataFeed | DataFeedItem | DataType | Dataset | DatedMoneySpecification | DayOfWeek | DaySpa | DeactivateAction | DefenceEstablishment | DefinedRegion | DefinedTerm | DefinedTermSet | DeleteAction | DeliveryChargeSpecification | DeliveryEvent | DeliveryMethod | DeliveryTimeSettings | Demand | Dentist | DepartAction | DepartmentStore | DepositAccount | DiagnosticLab | DiagnosticProcedure | Diet | DietarySupplement | DigitalDocument | DigitalDocumentPermission | DigitalDocumentPermissionType | DigitalPlatformEnumeration | DisagreeAction | DiscoverAction | DiscussionForumPosting | DislikeAction | Distance | Distillery | DonateAction | DoseSchedule | DownloadAction | DrawAction | Drawing | DrinkAction | DriveWheelConfigurationValue | Drug | DrugClass | DrugCost | DrugCostCategory | DrugLegalStatus | DrugPregnancyCategory | DrugPrescriptionStatus | DrugStrength | DryCleaningOrLaundry | Duration | EUEnergyEfficiencyEnumeration | EatAction | EducationEvent | EducationalAudience | EducationalOccupationalCredential | EducationalOccupationalProgram | EducationalOrganization | Electrician | ElectronicsStore | ElementarySchool | EmailMessage | Embassy | EmergencyService | EmployeeRole | EmployerAggregateRating | EmployerReview | EmploymentAgency | EndorseAction | EndorsementRating | Energy | EnergyConsumptionDetails | EnergyEfficiencyEnumeration | EnergyStarEnergyEfficiencyEnumeration | EngineSpecification | EntertainmentBusiness | EntryPoint | Enumeration | Episode | Event | EventAttendanceModeEnumeration | EventReservation | EventSeries | EventStatusType | EventVenue | ExchangeRateSpecification | ExerciseAction | ExerciseGym | ExercisePlan | ExhibitionEvent | FAQPage | FMRadioChannel | FastFoodRestaurant | Festival | FilmAction | FinancialProduct | FinancialService | FindAction | FireStation | Flight | FlightReservation | Float | FloorPlan | Florist | FollowAction | FoodEstablishment | FoodEstablishmentReservation | FoodEvent | FoodService | FundingAgency | FundingScheme | FurnitureStore | Game | GameAvailabilityEnumeration | GamePlayMode | GameServer | GameServerStatus | GardenStore | GasStation | GatedResidenceCommunity | GenderType | Gene | GeneralContractor | GeoCircle | GeoCoordinates | GeoShape | GeospatialGeometry | GiveAction | GolfCourse | GovernmentBenefitsType | GovernmentBuilding | GovernmentOffice | GovernmentOrganization | GovernmentPermit | GovernmentService | Grant | GroceryStore | Guide | HVACBusiness | Hackathon | HairSalon | HardwareStore | HealthAndBeautyBusiness | HealthAspectEnumeration | HealthClub | HealthInsurancePlan | HealthPlanCostSharingSpecification | HealthPlanFormulary | HealthPlanNetwork | HealthTopicContent | HighSchool | HinduTemple | HobbyShop | HomeAndConstructionBusiness | HomeGoodsStore | Hospital | Hostel | Hotel | HotelRoom | House | HousePainter | HowTo | HowToDirection | HowToItem | HowToSection | HowToStep | HowToSupply | HowToTip | HowToTool | HyperToc | HyperTocEntry | IceCreamShop | IgnoreAction | ImageGallery | ImageObject | ImageObjectSnapshot | ImagingTest | IndividualProduct | InfectiousAgentClass | InfectiousDisease | InformAction | InsertAction | InstallAction | InsuranceAgency | Intangible | Integer | InteractAction | InteractionCounter | InternetCafe | InvestmentFund | InvestmentOrDeposit | InviteAction | Invoice | ItemAvailability | ItemList | ItemListOrderType | ItemPage | JewelryStore | JobPosting | JoinAction | Joint | LakeBodyOfWater | Landform | LandmarksOrHistoricalBuildings | Language | LearningResource | LeaveAction | LegalForceStatus | LegalService | LegalValueLevel | Legislation | LegislationObject | LegislativeBuilding | LendAction | Library | LibrarySystem | LifestyleModification | Ligament | LikeAction | LinkRole | LiquorStore | ListItem | ListenAction | LiteraryEvent | LiveBlogPosting | LoanOrCredit | LocalBusiness | LocationFeatureSpecification | Locksmith | LodgingBusiness | LodgingReservation | LoseAction | LymphaticVessel | Manuscript | Map | MapCategoryType | MarryAction | Mass | MathSolver | MaximumDoseSchedule | MeasurementMethodEnum | MeasurementTypeEnumeration | MediaGallery | MediaManipulationRatingEnumeration | MediaObject | MediaReview | MediaReviewItem | MediaSubscription | MedicalAudience | MedicalAudienceType | MedicalBusiness | MedicalCause | MedicalClinic | MedicalCode | MedicalCondition | MedicalConditionStage | MedicalContraindication | MedicalDevice | MedicalDevicePurpose | MedicalEntity | MedicalEnumeration | MedicalEvidenceLevel | MedicalGuideline | MedicalGuidelineContraindication | MedicalGuidelineRecommendation | MedicalImagingTechnique | MedicalIndication | MedicalIntangible | MedicalObservationalStudy | MedicalObservationalStudyDesign | MedicalOrganization | MedicalProcedure | MedicalProcedureType | MedicalRiskCalculator | MedicalRiskEstimator | MedicalRiskFactor | MedicalRiskScore | MedicalScholarlyArticle | MedicalSign | MedicalSignOrSymptom | MedicalSpecialty | MedicalStudy | MedicalStudyStatus | MedicalSymptom | MedicalTest | MedicalTestPanel | MedicalTherapy | MedicalTrial | MedicalTrialDesign | MedicalWebPage | MedicineSystem | MeetingRoom | MensClothingStore | Menu | MenuItem | MenuSection | MerchantReturnEnumeration | MerchantReturnPolicy | MerchantReturnPolicySeasonalOverride | Message | MiddleSchool | MobileApplication | MobilePhoneStore | MolecularEntity | MonetaryAmount | MonetaryAmountDistribution | MonetaryGrant | MoneyTransfer | MortgageLoan | Mosque | Motel | Motorcycle | MotorcycleDealer | MotorcycleRepair | MotorizedBicycle | Mountain | MoveAction | Movie | MovieClip | MovieRentalStore | MovieSeries | MovieTheater | MovingCompany | Muscle | Museum | MusicAlbum | MusicAlbumProductionType | MusicAlbumReleaseType | MusicComposition | MusicEvent | MusicGroup | MusicPlaylist | MusicRecording | MusicRelease | MusicReleaseFormatType | MusicStore | MusicVenue | MusicVideoObject | NGO | NLNonprofitType | NailSalon | Nerve | NewsArticle | NewsMediaOrganization | Newspaper | NightClub | NonprofitType | Notary | NoteDigitalDocument | NutritionInformation | Observation | Occupation | OccupationalExperienceRequirements | OccupationalTherapy | OceanBodyOfWater | Offer | OfferCatalog | OfferForLease | OfferForPurchase | OfferItemCondition | OfferShippingDetails | OfficeEquipmentStore | OnDemandEvent | OnlineBusiness | OnlineStore | OpeningHoursSpecification | OpinionNewsArticle | Optician | Order | OrderAction | OrderItem | OrderStatus | Organization | OrganizationRole | OrganizeAction | OutletStore | OwnershipInfo | PaintAction | Painting | PalliativeProcedure | ParcelDelivery | ParentAudience | Park | ParkingFacility | PathologyTest | Patient | PawnShop | PayAction | PaymentCard | PaymentChargeSpecification | PaymentMethod | PaymentService | PaymentStatusType | PeopleAudience | PerformAction | PerformanceRole | PerformingArtsTheater | PerformingGroup | Periodical | Permit | Person | PetStore | Pharmacy | Photograph | PhotographAction | PhysicalActivity | PhysicalActivityCategory | PhysicalExam | PhysicalTherapy | Physician | Place | PlaceOfWorship | PlanAction | Play | PlayAction | PlayGameAction | Playground | Plumber | PodcastEpisode | PodcastSeason | PodcastSeries | PoliceStation | PoliticalParty | Pond | PostOffice | PostalAddress | PostalCodeRangeSpecification | Poster | PreOrderAction | PrependAction | Preschool | PresentationDigitalDocument | PreventionIndication | PriceComponentTypeEnumeration | PriceSpecification | PriceTypeEnumeration | Product | ProductCollection | ProductGroup | ProductModel | ProfessionalService | ProfilePage | ProgramMembership | Project | PronounceableText | Property | PropertyValue | PropertyValueSpecification | Protein | PsychologicalTreatment | PublicSwimmingPool | PublicToilet | PublicationEvent | PublicationIssue | PublicationVolume | QAPage | QualitativeValue | QuantitativeValue | QuantitativeValueDistribution | Quantity | Question | Quiz | Quotation | QuoteAction | RVPark | RadiationTherapy | RadioBroadcastService | RadioChannel | RadioClip | RadioEpisode | RadioSeason | RadioSeries | RadioStation | Rating | ReactAction | ReadAction | RealEstateAgent | RealEstateListing | ReceiveAction | Recipe | Recommendation | RecommendedDoseSchedule | RecyclingCenter | RefundTypeEnumeration | RegisterAction | RejectAction | RentAction | RentalCarReservation | RepaymentSpecification | ReplaceAction | ReplyAction | Report | ReportageNewsArticle | ReportedDoseSchedule | ResearchOrganization | ResearchProject | Researcher | Reservation | ReservationPackage | ReservationStatusType | ReserveAction | Reservoir | Residence | Resort | Restaurant | RestrictedDiet | ResumeAction | ReturnAction | ReturnFeesEnumeration | ReturnLabelSourceEnumeration | ReturnMethodEnumeration | Review | ReviewAction | ReviewNewsArticle | RiverBodyOfWater | Role | RoofingContractor | Room | RsvpAction | RsvpResponseType | SaleEvent | SatiricalArticle | Schedule | ScheduleAction | ScholarlyArticle | School | SchoolDistrict | ScreeningEvent | Sculpture | SeaBodyOfWater | SearchAction | SearchRescueOrganization | SearchResultsPage | Season | Seat | SeekToAction | SelfStorage | SellAction | SendAction | Series | Service | ServiceChannel | ShareAction | SheetMusic | ShippingDeliveryTime | ShippingRateSettings | ShoeStore | ShoppingCenter | ShortStory | SingleFamilyResidence | SiteNavigationElement | SizeGroupEnumeration | SizeSpecification | SizeSystemEnumeration | SkiResort | SocialEvent | SocialMediaPosting | SoftwareApplication | SoftwareSourceCode | SolveMathAction | SomeProducts | SpeakableSpecification | SpecialAnnouncement | Specialty | SportingGoodsStore | SportsActivityLocation | SportsClub | SportsEvent | SportsOrganization | SportsTeam | SpreadsheetDigitalDocument | StadiumOrArena | State | Statement | StatisticalPopulation | StatisticalVariable | StatusEnumeration | SteeringPositionValue | Store | StructuredValue | SubscribeAction | Substance | SubwayStation | Suite | SuperficialAnatomy | SurgicalProcedure | SuspendAction | Syllabus | Synagogue | TVClip | TVEpisode | TVSeason | TVSeries | Table | TakeAction | TattooParlor | Taxi | TaxiReservation | TaxiService | TaxiStand | Taxon | TechArticle | TelevisionChannel | TelevisionStation | TennisComplex | TextDigitalDocument | TextObject | TheaterEvent | TheaterGroup | TherapeuticProcedure | Thesis | Thing | ThreeDimensionalModel | Ticket | TieAction | TipAction | TireShop | TouristAttraction | TouristDestination | TouristInformationCenter | TouristTrip | ToyStore | TrackAction | TradeAction | TrainReservation | TrainStation | TrainTrip | TransferAction | TravelAction | TravelAgency | TreatmentIndication | Trip | TypeAndQuantityNode | UKNonprofitType | URL | USNonprofitType | UnRegisterAction | UnitPriceSpecification | UpdateAction | UseAction | UserBlocks | UserCheckins | UserComments | UserDownloads | UserInteraction | UserLikes | UserPageVisits | UserPlays | UserPlusOnes | UserReview | UserTweets | VacationRental | Vehicle | Vein | Vessel | VeterinaryCare | VideoGallery | VideoGame | VideoGameClip | VideoGameSeries | VideoObject | VideoObjectSnapshot | ViewAction | VirtualLocation | VisualArtsEvent | VisualArtwork | VitalSign | Volcano | VoteAction | WPAdBlock | WPFooter | WPHeader | WPSideBar | WantAction | WarrantyPromise | WarrantyScope | WatchAction | Waterfall | WearAction | WearableMeasurementTypeEnumeration | WearableSizeGroupEnumeration | WearableSizeSystemEnumeration | WebAPI | WebApplication | WebContent | WebPage | WebPageElement | WebSite | WholesaleStore | WinAction | Winery | WorkBasedProgram | WorkersUnion | WriteAction | XPathType | Zoo
 export type Properties = 'about' | 'abridged' | 'abstract' | 'accelerationTime' | 'acceptedAnswer' | 'acceptedOffer' | 'acceptedPaymentMethod' | 'acceptsReservations' | 'accessCode' | 'accessMode' | 'accessModeSufficient' | 'accessibilityAPI' | 'accessibilityControl' | 'accessibilityFeature' | 'accessibilityHazard' | 'accessibilitySummary' | 'accommodationCategory' | 'accommodationFloorPlan' | 'accountId' | 'accountMinimumInflow' | 'accountOverdraftLimit' | 'accountablePerson' | 'acquireLicensePage' | 'acquiredFrom' | 'acrissCode' | 'actionAccessibilityRequirement' | 'actionApplication' | 'actionOption' | 'actionPlatform' | 'actionStatus' | 'actionableFeedbackPolicy' | 'activeIngredient' | 'activityDuration' | 'activityFrequency' | 'actor' | 'actors' | 'addOn' | 'additionalName' | 'additionalNumberOfGuests' | 'additionalProperty' | 'additionalType' | 'additionalVariable' | 'address' | 'addressCountry' | 'addressLocality' | 'addressRegion' | 'administrationRoute' | 'advanceBookingRequirement' | 'adverseOutcome' | 'affectedBy' | 'affiliation' | 'afterMedia' | 'agent' | 'agentInteractionStatistic' | 'aggregateRating' | 'aircraft' | 'album' | 'albumProductionType' | 'albumRelease' | 'albumReleaseType' | 'albums' | 'alcoholWarning' | 'algorithm' | 'alignmentType' | 'alternateName' | 'alternativeHeadline' | 'alternativeOf' | 'alumni' | 'alumniOf' | 'amenityFeature' | 'amount' | 'amountOfThisGood' | 'announcementLocation' | 'annualPercentageRate' | 'answerCount' | 'answerExplanation' | 'antagonist' | 'appearance' | 'applicableCountry' | 'applicableLocation' | 'applicantLocationRequirements' | 'application' | 'applicationCategory' | 'applicationContact' | 'applicationDeadline' | 'applicationStartDate' | 'applicationSubCategory' | 'applicationSuite' | 'appliesToDeliveryMethod' | 'appliesToPaymentMethod' | 'archiveHeld' | 'archivedAt' | 'area' | 'areaServed' | 'arrivalAirport' | 'arrivalBoatTerminal' | 'arrivalBusStop' | 'arrivalGate' | 'arrivalPlatform' | 'arrivalStation' | 'arrivalTerminal' | 'arrivalTime' | 'artEdition' | 'artMedium' | 'arterialBranch' | 'artform' | 'articleBody' | 'articleSection' | 'artist' | 'artworkSurface' | 'asin' | 'aspect' | 'assembly' | 'assemblyVersion' | 'assesses' | 'associatedAnatomy' | 'associatedArticle' | 'associatedClaimReview' | 'associatedDisease' | 'associatedMedia' | 'associatedMediaReview' | 'associatedPathophysiology' | 'associatedReview' | 'athlete' | 'attendee' | 'attendees' | 'audience' | 'audienceType' | 'audio' | 'authenticator' | 'author' | 'availability' | 'availabilityEnds' | 'availabilityStarts' | 'availableAtOrFrom' | 'availableChannel' | 'availableDeliveryMethod' | 'availableFrom' | 'availableIn' | 'availableLanguage' | 'availableOnDevice' | 'availableService' | 'availableStrength' | 'availableTest' | 'availableThrough' | 'award' | 'awards' | 'awayTeam' | 'backstory' | 'bankAccountType' | 'baseSalary' | 'bccRecipient' | 'bed' | 'beforeMedia' | 'beneficiaryBank' | 'benefits' | 'benefitsSummaryUrl' | 'bestRating' | 'billingAddress' | 'billingDuration' | 'billingIncrement' | 'billingPeriod' | 'billingStart' | 'bioChemInteraction' | 'bioChemSimilarity' | 'biologicalRole' | 'biomechnicalClass' | 'birthDate' | 'birthPlace' | 'bitrate' | 'blogPost' | 'blogPosts' | 'bloodSupply' | 'boardingGroup' | 'boardingPolicy' | 'bodyLocation' | 'bodyType' | 'bookEdition' | 'bookFormat' | 'bookingAgent' | 'bookingTime' | 'borrower' | 'box' | 'branch' | 'branchCode' | 'branchOf' | 'brand' | 'breadcrumb' | 'breastfeedingWarning' | 'broadcastAffiliateOf' | 'broadcastChannelId' | 'broadcastDisplayName' | 'broadcastFrequency' | 'broadcastFrequencyValue' | 'broadcastOfEvent' | 'broadcastServiceTier' | 'broadcastSignalModulation' | 'broadcastSubChannel' | 'broadcastTimezone' | 'broadcaster' | 'broker' | 'browserRequirements' | 'busName' | 'busNumber' | 'businessDays' | 'businessFunction' | 'buyer' | 'byArtist' | 'byDay' | 'byMonth' | 'byMonthDay' | 'byMonthWeek' | 'callSign' | 'calories' | 'candidate' | 'caption' | 'carbohydrateContent' | 'cargoVolume' | 'carrier' | 'carrierRequirements' | 'cashBack' | 'catalog' | 'catalogNumber' | 'category' | 'causeOf' | 'ccRecipient' | 'character' | 'characterAttribute' | 'characterName' | 'cheatCode' | 'checkinTime' | 'checkoutPageURLTemplate' | 'checkoutTime' | 'chemicalComposition' | 'chemicalRole' | 'childMaxAge' | 'childMinAge' | 'childTaxon' | 'children' | 'cholesterolContent' | 'circle' | 'citation' | 'claimInterpreter' | 'claimReviewed' | 'clincalPharmacology' | 'clinicalPharmacology' | 'clipNumber' | 'closes' | 'coach' | 'code' | 'codeRepository' | 'codeSampleType' | 'codeValue' | 'codingSystem' | 'colleague' | 'colleagues' | 'collection' | 'collectionSize' | 'color' | 'colorist' | 'comment' | 'commentCount' | 'commentText' | 'commentTime' | 'competencyRequired' | 'competitor' | 'composer' | 'comprisedOf' | 'conditionsOfAccess' | 'confirmationNumber' | 'connectedTo' | 'constraintProperty' | 'contactOption' | 'contactPoint' | 'contactPoints' | 'contactType' | 'contactlessPayment' | 'containedIn' | 'containedInPlace' | 'containsPlace' | 'containsSeason' | 'contentLocation' | 'contentRating' | 'contentReferenceTime' | 'contentSize' | 'contentType' | 'contentUrl' | 'contraindication' | 'contributor' | 'cookTime' | 'cookingMethod' | 'copyrightHolder' | 'copyrightNotice' | 'copyrightYear' | 'correction' | 'correctionsPolicy' | 'costCategory' | 'costCurrency' | 'costOrigin' | 'costPerUnit' | 'countriesNotSupported' | 'countriesSupported' | 'countryOfAssembly' | 'countryOfLastProcessing' | 'countryOfOrigin' | 'course' | 'courseCode' | 'courseMode' | 'coursePrerequisites' | 'courseSchedule' | 'courseWorkload' | 'coverageEndTime' | 'coverageStartTime' | 'creativeWorkStatus' | 'creator' | 'credentialCategory' | 'creditText' | 'creditedTo' | 'cssSelector' | 'currenciesAccepted' | 'currency' | 'currentExchangeRate' | 'customer' | 'customerRemorseReturnFees' | 'customerRemorseReturnLabelSource' | 'customerRemorseReturnShippingFeesAmount' | 'cutoffTime' | 'cvdCollectionDate' | 'cvdFacilityCounty' | 'cvdFacilityId' | 'cvdNumBeds' | 'cvdNumBedsOcc' | 'cvdNumC19Died' | 'cvdNumC19HOPats' | 'cvdNumC19HospPats' | 'cvdNumC19MechVentPats' | 'cvdNumC19OFMechVentPats' | 'cvdNumC19OverflowPats' | 'cvdNumICUBeds' | 'cvdNumICUBedsOcc' | 'cvdNumTotBeds' | 'cvdNumVent' | 'cvdNumVentUse' | 'dataFeedElement' | 'dataset' | 'datasetTimeInterval' | 'dateCreated' | 'dateDeleted' | 'dateIssued' | 'dateModified' | 'datePosted' | 'datePublished' | 'dateRead' | 'dateReceived' | 'dateSent' | 'dateVehicleFirstRegistered' | 'dateline' | 'dayOfWeek' | 'deathDate' | 'deathPlace' | 'defaultValue' | 'deliveryAddress' | 'deliveryLeadTime' | 'deliveryMethod' | 'deliveryStatus' | 'deliveryTime' | 'department' | 'departureAirport' | 'departureBoatTerminal' | 'departureBusStop' | 'departureGate' | 'departurePlatform' | 'departureStation' | 'departureTerminal' | 'departureTime' | 'dependencies' | 'depth' | 'description' | 'device' | 'diagnosis' | 'diagram' | 'diet' | 'dietFeatures' | 'differentialDiagnosis' | 'directApply' | 'director' | 'directors' | 'disambiguatingDescription' | 'discount' | 'discountCode' | 'discountCurrency' | 'discusses' | 'discussionUrl' | 'diseasePreventionInfo' | 'diseaseSpreadStatistics' | 'dissolutionDate' | 'distance' | 'distinguishingSign' | 'distribution' | 'diversityPolicy' | 'diversityStaffingReport' | 'documentation' | 'doesNotShip' | 'domainIncludes' | 'domiciledMortgage' | 'doorTime' | 'dosageForm' | 'doseSchedule' | 'doseUnit' | 'doseValue' | 'downPayment' | 'downloadUrl' | 'downvoteCount' | 'drainsTo' | 'driveWheelConfiguration' | 'dropoffLocation' | 'dropoffTime' | 'drug' | 'drugClass' | 'drugUnit' | 'duns' | 'duplicateTherapy' | 'duration' | 'durationOfWarranty' | 'duringMedia' | 'earlyPrepaymentPenalty' | 'editEIDR' | 'editor' | 'eduQuestionType' | 'educationRequirements' | 'educationalAlignment' | 'educationalCredentialAwarded' | 'educationalFramework' | 'educationalLevel' | 'educationalProgramMode' | 'educationalRole' | 'educationalUse' | 'elevation' | 'eligibilityToWorkRequirement' | 'eligibleCustomerType' | 'eligibleDuration' | 'eligibleQuantity' | 'eligibleRegion' | 'eligibleTransactionVolume' | 'email' | 'embedUrl' | 'embeddedTextCaption' | 'emissionsCO2' | 'employee' | 'employees' | 'employerOverview' | 'employmentType' | 'employmentUnit' | 'encodesBioChemEntity' | 'encodesCreativeWork' | 'encoding' | 'encodingFormat' | 'encodingType' | 'encodings' | 'endDate' | 'endOffset' | 'endTime' | 'endorsee' | 'endorsers' | 'energyEfficiencyScaleMax' | 'energyEfficiencyScaleMin' | 'engineDisplacement' | 'enginePower' | 'engineType' | 'entertainmentBusiness' | 'epidemiology' | 'episode' | 'episodeNumber' | 'episodes' | 'equal' | 'error' | 'estimatedCost' | 'estimatedFlightDuration' | 'estimatedSalary' | 'estimatesRiskOf' | 'ethicsPolicy' | 'event' | 'eventAttendanceMode' | 'eventSchedule' | 'eventStatus' | 'events' | 'evidenceLevel' | 'evidenceOrigin' | 'exampleOfWork' | 'exceptDate' | 'exchangeRateSpread' | 'executableLibraryName' | 'exerciseCourse' | 'exercisePlan' | 'exerciseRelatedDiet' | 'exerciseType' | 'exifData' | 'expectedArrivalFrom' | 'expectedArrivalUntil' | 'expectedPrognosis' | 'expectsAcceptanceOf' | 'experienceInPlaceOfEducation' | 'experienceRequirements' | 'expertConsiderations' | 'expires' | 'expressedIn' | 'familyName' | 'fatContent' | 'faxNumber' | 'featureList' | 'feesAndCommissionsSpecification' | 'fiberContent' | 'fileFormat' | 'fileSize' | 'financialAidEligible' | 'firstAppearance' | 'firstPerformance' | 'flightDistance' | 'flightNumber' | 'floorLevel' | 'floorLimit' | 'floorSize' | 'followee' | 'follows' | 'followup' | 'foodEstablishment' | 'foodEvent' | 'foodWarning' | 'founder' | 'founders' | 'foundingDate' | 'foundingLocation' | 'free' | 'freeShippingThreshold' | 'frequency' | 'fromLocation' | 'fuelCapacity' | 'fuelConsumption' | 'fuelEfficiency' | 'fuelType' | 'functionalClass' | 'fundedItem' | 'funder' | 'funding' | 'game' | 'gameAvailabilityType' | 'gameEdition' | 'gameItem' | 'gameLocation' | 'gamePlatform' | 'gameServer' | 'gameTip' | 'gender' | 'genre' | 'geo' | 'geoContains' | 'geoCoveredBy' | 'geoCovers' | 'geoCrosses' | 'geoDisjoint' | 'geoEquals' | 'geoIntersects' | 'geoMidpoint' | 'geoOverlaps' | 'geoRadius' | 'geoTouches' | 'geoWithin' | 'geographicArea' | 'gettingTestedInfo' | 'givenName' | 'globalLocationNumber' | 'governmentBenefitsInfo' | 'gracePeriod' | 'grantee' | 'greater' | 'greaterOrEqual' | 'gtin' | 'gtin12' | 'gtin13' | 'gtin14' | 'gtin8' | 'guideline' | 'guidelineDate' | 'guidelineSubject' | 'handlingTime' | 'hasAdultConsideration' | 'hasBioChemEntityPart' | 'hasBioPolymerSequence' | 'hasBroadcastChannel' | 'hasCategoryCode' | 'hasCourse' | 'hasCourseInstance' | 'hasCredential' | 'hasDefinedTerm' | 'hasDeliveryMethod' | 'hasDigitalDocumentPermission' | 'hasDriveThroughService' | 'hasEnergyConsumptionDetails' | 'hasEnergyEfficiencyCategory' | 'hasHealthAspect' | 'hasMap' | 'hasMeasurement' | 'hasMenu' | 'hasMenuItem' | 'hasMenuSection' | 'hasMerchantReturnPolicy' | 'hasMolecularFunction' | 'hasOccupation' | 'hasOfferCatalog' | 'hasPOS' | 'hasPart' | 'hasRepresentation' | 'hasVariant' | 'headline' | 'healthCondition' | 'healthPlanCoinsuranceOption' | 'healthPlanCoinsuranceRate' | 'healthPlanCopay' | 'healthPlanCopayOption' | 'healthPlanCostSharing' | 'healthPlanDrugOption' | 'healthPlanDrugTier' | 'healthPlanId' | 'healthPlanMarketingUrl' | 'healthPlanNetworkId' | 'healthPlanNetworkTier' | 'healthPlanPharmacyCategory' | 'healthcareReportingData' | 'height' | 'highPrice' | 'hiringOrganization' | 'holdingArchive' | 'homeLocation' | 'homeTeam' | 'honorificPrefix' | 'honorificSuffix' | 'hospitalAffiliation' | 'hostingOrganization' | 'hoursAvailable' | 'howPerformed' | 'httpMethod' | 'iataCode' | 'icaoCode' | 'identifier' | 'identifyingExam' | 'identifyingTest' | 'illustrator' | 'image' | 'imagingTechnique' | 'inAlbum' | 'inBroadcastLineup' | 'inChI' | 'inChIKey' | 'inCodeSet' | 'inDefinedTermSet' | 'inLanguage' | 'inPlaylist' | 'inProductGroupWithID' | 'inStoreReturnsOffered' | 'inSupportOf' | 'incentiveCompensation' | 'incentives' | 'includedComposition' | 'includedDataCatalog' | 'includedInDataCatalog' | 'includedInHealthInsurancePlan' | 'includedRiskFactor' | 'includesAttraction' | 'includesHealthPlanFormulary' | 'includesHealthPlanNetwork' | 'includesObject' | 'increasesRiskOf' | 'industry' | 'ineligibleRegion' | 'infectiousAgent' | 'infectiousAgentClass' | 'ingredients' | 'inker' | 'insertion' | 'installUrl' | 'instructor' | 'instrument' | 'intensity' | 'interactingDrug' | 'interactionCount' | 'interactionService' | 'interactionStatistic' | 'interactionType' | 'interactivityType' | 'interestRate' | 'interpretedAsClaim' | 'inventoryLevel' | 'inverseOf' | 'isAcceptingNewPatients' | 'isAccessibleForFree' | 'isAccessoryOrSparePartFor' | 'isAvailableGenerically' | 'isBasedOn' | 'isBasedOnUrl' | 'isConsumableFor' | 'isEncodedByBioChemEntity' | 'isFamilyFriendly' | 'isGift' | 'isInvolvedInBiologicalProcess' | 'isLiveBroadcast' | 'isLocatedInSubcellularLocation' | 'isPartOf' | 'isPartOfBioChemEntity' | 'isPlanForApartment' | 'isProprietary' | 'isRelatedTo' | 'isResizable' | 'isSimilarTo' | 'isUnlabelledFallback' | 'isVariantOf' | 'isbn' | 'isicV4' | 'iso6523Code' | 'isrcCode' | 'issn' | 'issueNumber' | 'issuedBy' | 'issuedThrough' | 'iswcCode' | 'item' | 'itemCondition' | 'itemDefectReturnFees' | 'itemDefectReturnLabelSource' | 'itemDefectReturnShippingFeesAmount' | 'itemListElement' | 'itemListOrder' | 'itemLocation' | 'itemOffered' | 'itemReviewed' | 'itemShipped' | 'itinerary' | 'iupacName' | 'jobBenefits' | 'jobImmediateStart' | 'jobLocation' | 'jobLocationType' | 'jobStartDate' | 'jobTitle' | 'jurisdiction' | 'keywords' | 'knownVehicleDamages' | 'knows' | 'knowsAbout' | 'knowsLanguage' | 'labelDetails' | 'landlord' | 'language' | 'lastReviewed' | 'latitude' | 'layoutImage' | 'learningResourceType' | 'leaseLength' | 'legalName' | 'legalStatus' | 'legislationApplies' | 'legislationChanges' | 'legislationConsolidates' | 'legislationDate' | 'legislationDateVersion' | 'legislationIdentifier' | 'legislationJurisdiction' | 'legislationLegalForce' | 'legislationLegalValue' | 'legislationPassedBy' | 'legislationResponsible' | 'legislationTransposes' | 'legislationType' | 'leiCode' | 'lender' | 'lesser' | 'lesserOrEqual' | 'letterer' | 'license' | 'line' | 'linkRelationship' | 'liveBlogUpdate' | 'loanMortgageMandateAmount' | 'loanPaymentAmount' | 'loanPaymentFrequency' | 'loanRepaymentForm' | 'loanTerm' | 'loanType' | 'location' | 'locationCreated' | 'lodgingUnitDescription' | 'lodgingUnitType' | 'logo' | 'longitude' | 'loser' | 'lowPrice' | 'lyricist' | 'lyrics' | 'mainContentOfPage' | 'mainEntity' | 'mainEntityOfPage' | 'maintainer' | 'makesOffer' | 'manufacturer' | 'map' | 'mapType' | 'maps' | 'marginOfError' | 'masthead' | 'material' | 'materialExtent' | 'mathExpression' | 'maxPrice' | 'maxValue' | 'maximumAttendeeCapacity' | 'maximumEnrollment' | 'maximumIntake' | 'maximumPhysicalAttendeeCapacity' | 'maximumVirtualAttendeeCapacity' | 'mealService' | 'measuredProperty' | 'measurementDenominator' | 'measurementMethod' | 'measurementQualifier' | 'measurementTechnique' | 'mechanismOfAction' | 'mediaAuthenticityCategory' | 'mediaItemAppearance' | 'median' | 'medicalAudience' | 'medicalSpecialty' | 'medicineSystem' | 'meetsEmissionStandard' | 'member' | 'memberOf' | 'members' | 'membershipNumber' | 'membershipPointsEarned' | 'memoryRequirements' | 'mentions' | 'menu' | 'menuAddOn' | 'merchant' | 'merchantReturnDays' | 'merchantReturnLink' | 'messageAttachment' | 'mileageFromOdometer' | 'minPrice' | 'minValue' | 'minimumPaymentDue' | 'missionCoveragePrioritiesPolicy' | 'mobileUrl' | 'model' | 'modelDate' | 'modifiedTime' | 'molecularFormula' | 'molecularWeight' | 'monoisotopicMolecularWeight' | 'monthlyMinimumRepaymentAmount' | 'monthsOfExperience' | 'mpn' | 'multipleValues' | 'muscleAction' | 'musicArrangement' | 'musicBy' | 'musicCompositionForm' | 'musicGroupMember' | 'musicReleaseFormat' | 'musicalKey' | 'naics' | 'name' | 'namedPosition' | 'nationality' | 'naturalProgression' | 'negativeNotes' | 'nerve' | 'nerveMotor' | 'netWorth' | 'newsUpdatesAndGuidelines' | 'nextItem' | 'noBylinesPolicy' | 'nonEqual' | 'nonProprietaryName' | 'nonprofitStatus' | 'normalRange' | 'nsn' | 'numAdults' | 'numChildren' | 'numConstraints' | 'numTracks' | 'numberOfAccommodationUnits' | 'numberOfAirbags' | 'numberOfAvailableAccommodationUnits' | 'numberOfAxles' | 'numberOfBathroomsTotal' | 'numberOfBedrooms' | 'numberOfBeds' | 'numberOfCredits' | 'numberOfDoors' | 'numberOfEmployees' | 'numberOfEpisodes' | 'numberOfForwardGears' | 'numberOfFullBathrooms' | 'numberOfItems' | 'numberOfLoanPayments' | 'numberOfPages' | 'numberOfPartialBathrooms' | 'numberOfPlayers' | 'numberOfPreviousOwners' | 'numberOfRooms' | 'numberOfSeasons' | 'numberedPosition' | 'nutrition' | 'object' | 'observationAbout' | 'observationDate' | 'observationPeriod' | 'occupancy' | 'occupationLocation' | 'occupationalCategory' | 'occupationalCredentialAwarded' | 'offerCount' | 'offeredBy' | 'offers' | 'offersPrescriptionByMail' | 'openingHours' | 'openingHoursSpecification' | 'opens' | 'operatingSystem' | 'opponent' | 'option' | 'orderDate' | 'orderDelivery' | 'orderItemNumber' | 'orderItemStatus' | 'orderNumber' | 'orderQuantity' | 'orderStatus' | 'orderedItem' | 'organizer' | 'originAddress' | 'originalMediaContextDescription' | 'originalMediaLink' | 'originatesFrom' | 'overdosage' | 'ownedFrom' | 'ownedThrough' | 'ownershipFundingInfo' | 'owns' | 'pageEnd' | 'pageStart' | 'pagination' | 'parent' | 'parentItem' | 'parentOrganization' | 'parentService' | 'parentTaxon' | 'parents' | 'partOfEpisode' | 'partOfInvoice' | 'partOfOrder' | 'partOfSeason' | 'partOfSeries' | 'partOfSystem' | 'partOfTVSeries' | 'partOfTrip' | 'participant' | 'partySize' | 'passengerPriorityStatus' | 'passengerSequenceNumber' | 'pathophysiology' | 'pattern' | 'payload' | 'paymentAccepted' | 'paymentDue' | 'paymentDueDate' | 'paymentMethod' | 'paymentMethodId' | 'paymentStatus' | 'paymentUrl' | 'penciler' | 'percentile10' | 'percentile25' | 'percentile75' | 'percentile90' | 'performTime' | 'performer' | 'performerIn' | 'performers' | 'permissionType' | 'permissions' | 'permitAudience' | 'permittedUsage' | 'petsAllowed' | 'phoneticText' | 'photo' | 'photos' | 'physicalRequirement' | 'physiologicalBenefits' | 'pickupLocation' | 'pickupTime' | 'playMode' | 'playerType' | 'playersOnline' | 'polygon' | 'populationType' | 'position' | 'positiveNotes' | 'possibleComplication' | 'possibleTreatment' | 'postOfficeBoxNumber' | 'postOp' | 'postalCode' | 'postalCodeBegin' | 'postalCodeEnd' | 'postalCodePrefix' | 'postalCodeRange' | 'potentialAction' | 'potentialUse' | 'preOp' | 'predecessorOf' | 'pregnancyCategory' | 'pregnancyWarning' | 'prepTime' | 'preparation' | 'prescribingInfo' | 'prescriptionStatus' | 'previousItem' | 'previousStartDate' | 'price' | 'priceComponent' | 'priceComponentType' | 'priceCurrency' | 'priceRange' | 'priceSpecification' | 'priceType' | 'priceValidUntil' | 'primaryImageOfPage' | 'primaryPrevention' | 'printColumn' | 'printEdition' | 'printPage' | 'printSection' | 'procedure' | 'procedureType' | 'processingTime' | 'processorRequirements' | 'producer' | 'produces' | 'productGroupID' | 'productID' | 'productSupported' | 'productionCompany' | 'productionDate' | 'proficiencyLevel' | 'programMembershipUsed' | 'programName' | 'programPrerequisites' | 'programType' | 'programmingLanguage' | 'programmingModel' | 'propertyID' | 'proprietaryName' | 'proteinContent' | 'provider' | 'providerMobility' | 'providesBroadcastService' | 'providesService' | 'publicAccess' | 'publicTransportClosuresInfo' | 'publication' | 'publicationType' | 'publishedBy' | 'publishedOn' | 'publisher' | 'publisherImprint' | 'publishingPrinciples' | 'purchaseDate' | 'qualifications' | 'quarantineGuidelines' | 'query' | 'quest' | 'question' | 'rangeIncludes' | 'ratingCount' | 'ratingExplanation' | 'ratingValue' | 'readBy' | 'readonlyValue' | 'realEstateAgent' | 'recipe' | 'recipeCategory' | 'recipeCuisine' | 'recipeIngredient' | 'recipeInstructions' | 'recipeYield' | 'recipient' | 'recognizedBy' | 'recognizingAuthority' | 'recommendationStrength' | 'recommendedIntake' | 'recordLabel' | 'recordedAs' | 'recordedAt' | 'recordedIn' | 'recordingOf' | 'recourseLoan' | 'referenceQuantity' | 'referencesOrder' | 'refundType' | 'regionDrained' | 'regionsAllowed' | 'relatedAnatomy' | 'relatedCondition' | 'relatedDrug' | 'relatedLink' | 'relatedStructure' | 'relatedTherapy' | 'relatedTo' | 'releaseDate' | 'releaseNotes' | 'releaseOf' | 'releasedEvent' | 'relevantOccupation' | 'relevantSpecialty' | 'remainingAttendeeCapacity' | 'renegotiableLoan' | 'repeatCount' | 'repeatFrequency' | 'repetitions' | 'replacee' | 'replacer' | 'replyToUrl' | 'reportNumber' | 'representativeOfPage' | 'requiredCollateral' | 'requiredGender' | 'requiredMaxAge' | 'requiredMinAge' | 'requiredQuantity' | 'requirements' | 'requiresSubscription' | 'reservationFor' | 'reservationId' | 'reservationStatus' | 'reservedTicket' | 'responsibilities' | 'restPeriods' | 'restockingFee' | 'result' | 'resultComment' | 'resultReview' | 'returnFees' | 'returnLabelSource' | 'returnMethod' | 'returnPolicyCategory' | 'returnPolicyCountry' | 'returnPolicySeasonalOverride' | 'returnShippingFeesAmount' | 'review' | 'reviewAspect' | 'reviewBody' | 'reviewCount' | 'reviewRating' | 'reviewedBy' | 'reviews' | 'riskFactor' | 'risks' | 'roleName' | 'roofLoad' | 'rsvpResponse' | 'runsTo' | 'runtime' | 'runtimePlatform' | 'rxcui' | 'safetyConsideration' | 'salaryCurrency' | 'salaryUponCompletion' | 'sameAs' | 'sampleType' | 'saturatedFatContent' | 'scheduleTimezone' | 'scheduledPaymentDate' | 'scheduledTime' | 'schemaVersion' | 'schoolClosuresInfo' | 'screenCount' | 'screenshot' | 'sdDatePublished' | 'sdLicense' | 'sdPublisher' | 'season' | 'seasonNumber' | 'seasons' | 'seatNumber' | 'seatRow' | 'seatSection' | 'seatingCapacity' | 'seatingType' | 'secondaryPrevention' | 'securityClearanceRequirement' | 'securityScreening' | 'seeks' | 'seller' | 'sender' | 'sensoryRequirement' | 'sensoryUnit' | 'serialNumber' | 'seriousAdverseOutcome' | 'serverStatus' | 'servesCuisine' | 'serviceArea' | 'serviceAudience' | 'serviceLocation' | 'serviceOperator' | 'serviceOutput' | 'servicePhone' | 'servicePostalAddress' | 'serviceSmsNumber' | 'serviceType' | 'serviceUrl' | 'servingSize' | 'sha256' | 'sharedContent' | 'shippingDestination' | 'shippingDetails' | 'shippingLabel' | 'shippingOrigin' | 'shippingRate' | 'shippingSettingsLink' | 'sibling' | 'siblings' | 'signDetected' | 'signOrSymptom' | 'significance' | 'significantLink' | 'significantLinks' | 'size' | 'sizeGroup' | 'sizeSystem' | 'skills' | 'sku' | 'slogan' | 'smiles' | 'smokingAllowed' | 'sodiumContent' | 'softwareAddOn' | 'softwareHelp' | 'softwareRequirements' | 'softwareVersion' | 'sourceOrganization' | 'sourcedFrom' | 'spatial' | 'spatialCoverage' | 'speakable' | 'specialCommitments' | 'specialOpeningHoursSpecification' | 'specialty' | 'speechToTextMarkup' | 'speed' | 'spokenByCharacter' | 'sponsor' | 'sport' | 'sportsActivityLocation' | 'sportsEvent' | 'sportsTeam' | 'spouse' | 'stage' | 'stageAsNumber' | 'starRating' | 'startDate' | 'startOffset' | 'startTime' | 'statType' | 'status' | 'steeringPosition' | 'step' | 'stepValue' | 'steps' | 'storageRequirements' | 'streetAddress' | 'strengthUnit' | 'strengthValue' | 'structuralClass' | 'study' | 'studyDesign' | 'studyLocation' | 'studySubject' | 'subEvent' | 'subEvents' | 'subOrganization' | 'subReservation' | 'subStageSuffix' | 'subStructure' | 'subTest' | 'subTrip' | 'subjectOf' | 'subtitleLanguage' | 'successorOf' | 'sugarContent' | 'suggestedAge' | 'suggestedAnswer' | 'suggestedGender' | 'suggestedMaxAge' | 'suggestedMeasurement' | 'suggestedMinAge' | 'suitableForDiet' | 'superEvent' | 'supersededBy' | 'supply' | 'supplyTo' | 'supportingData' | 'surface' | 'syllabusSections' | 'target' | 'targetCollection' | 'targetDescription' | 'targetName' | 'targetPlatform' | 'targetPopulation' | 'targetProduct' | 'targetUrl' | 'taxID' | 'taxonRank' | 'taxonomicRange' | 'teaches' | 'telephone' | 'temporal' | 'temporalCoverage' | 'termCode' | 'termDuration' | 'termsOfService' | 'termsPerYear' | 'text' | 'textValue' | 'thumbnail' | 'thumbnailUrl' | 'tickerSymbol' | 'ticketNumber' | 'ticketToken' | 'ticketedSeat' | 'timeOfDay' | 'timeRequired' | 'timeToComplete' | 'tissueSample' | 'title' | 'titleEIDR' | 'toLocation' | 'toRecipient' | 'tocContinuation' | 'tocEntry' | 'tongueWeight' | 'tool' | 'torque' | 'totalHistoricalEnrollment' | 'totalJobOpenings' | 'totalPaymentDue' | 'totalPrice' | 'totalTime' | 'tourBookingPage' | 'touristType' | 'track' | 'trackingNumber' | 'trackingUrl' | 'tracks' | 'trailer' | 'trailerWeight' | 'trainName' | 'trainNumber' | 'trainingSalary' | 'transFatContent' | 'transcript' | 'transitTime' | 'transitTimeLabel' | 'translationOfWork' | 'translator' | 'transmissionMethod' | 'travelBans' | 'trialDesign' | 'tributary' | 'tripOrigin' | 'typeOfBed' | 'typeOfGood' | 'typicalAgeRange' | 'typicalCreditsPerTerm' | 'typicalTest' | 'underName' | 'unitCode' | 'unitText' | 'unnamedSourcesPolicy' | 'unsaturatedFatContent' | 'uploadDate' | 'upvoteCount' | 'url' | 'urlTemplate' | 'usageInfo' | 'usedToDiagnose' | 'userInteractionCount' | 'usesDevice' | 'usesHealthPlanIdStandard' | 'utterances' | 'validFor' | 'validFrom' | 'validIn' | 'validThrough' | 'validUntil' | 'value' | 'valueAddedTaxIncluded' | 'valueMaxLength' | 'valueMinLength' | 'valueName' | 'valuePattern' | 'valueReference' | 'valueRequired' | 'variableMeasured' | 'variantCover' | 'variesBy' | 'vatID' | 'vehicleConfiguration' | 'vehicleEngine' | 'vehicleIdentificationNumber' | 'vehicleInteriorColor' | 'vehicleInteriorType' | 'vehicleModelDate' | 'vehicleSeatingCapacity' | 'vehicleSpecialUsage' | 'vehicleTransmission' | 'vendor' | 'verificationFactCheckingPolicy' | 'version' | 'video' | 'videoFormat' | 'videoFrameSize' | 'videoQuality' | 'volumeNumber' | 'warning' | 'warranty' | 'warrantyPromise' | 'warrantyScope' | 'webCheckinTime' | 'webFeed' | 'weight' | 'weightTotal' | 'wheelbase' | 'width' | 'winner' | 'wordCount' | 'workExample' | 'workFeatured' | 'workHours' | 'workLocation' | 'workPerformed' | 'workPresented' | 'workTranslation' | 'workload' | 'worksFor' | 'worstRating' | 'xpath' | 'yearBuilt' | 'yearlyRevenue' | 'yearsInOperation' | 'yield'
 export type Actions = 'Accept' | 'Achieve' | 'Action' | 'Activate' | 'Add' | 'Agree' | 'Allocate' | 'Append' | 'Apply' | 'Arrive' | 'Ask' | 'Assess' | 'Assign' | 'Authorize' | 'Befriend' | 'Bookmark' | 'Borrow' | 'Buy' | 'Cancel' | 'Check' | 'CheckIn' | 'CheckOut' | 'Choose' | 'Comment' | 'Communicate' | 'Confirm' | 'Consume' | 'Control' | 'Cook' | 'Create' | 'Deactivate' | 'Delete' | 'Depart' | 'Disagree' | 'Discover' | 'Dislike' | 'Donate' | 'Download' | 'Draw' | 'Drink' | 'Eat' | 'Endorse' | 'Exercise' | 'Film' | 'Find' | 'Follow' | 'Give' | 'Ignore' | 'Inform' | 'Insert' | 'Install' | 'Interact' | 'Invite' | 'Join' | 'Leave' | 'Lend' | 'Like' | 'Listen' | 'Lose' | 'Marry' | 'Move' | 'Order' | 'Organize' | 'Paint' | 'Pay' | 'Perform' | 'Photograph' | 'Plan' | 'Play' | 'PlayGame' | 'PreOrder' | 'Prepend' | 'Quote' | 'React' | 'Read' | 'Receive' | 'Register' | 'Reject' | 'Rent' | 'Replace' | 'Reply' | 'Reserve' | 'Resume' | 'Return' | 'Review' | 'Rsvp' | 'Schedule' | 'Search' | 'SeekTo' | 'Sell' | 'Send' | 'Share' | 'SolveMath' | 'Subscribe' | 'Suspend' | 'Take' | 'Tie' | 'Tip' | 'Track' | 'Trade' | 'Transfer' | 'Travel' | 'UnRegister' | 'Update' | 'Use' | 'View' | 'Vote' | 'Want' | 'Watch' | 'Wear' | 'Win' | 'Write'
 
@@ -20,7 +20,7 @@ export type Actions = 'Accept' | 'Achieve' | 'Action' | 'Activate' | 'Add' | 'Ag
  */
 export type BuyAction = 'BuyAction' | TradeAction & Action & Thing & {
   is: 'BuyAction'
-vendor?: Organization | Person
+  vendor?: Organization | Person
   seller?: Person | Organization
   warrantyPromise?: WarrantyPromise
 }
@@ -87,7 +87,7 @@ export type Store = 'Store' | LocalBusiness & Place & Thing & Organization & Thi
  */
 export type Corporation = 'Corporation' | Organization & Thing & {
   is: 'Corporation'
-tickerSymbol?: Text
+  tickerSymbol?: Text
 }
 
 
@@ -107,7 +107,7 @@ export type ExerciseGym = 'ExerciseGym' | SportsActivityLocation & LocalBusiness
  */
 export type MedicalObservationalStudy = 'MedicalObservationalStudy' | MedicalStudy & MedicalEntity & Thing & {
   is: 'MedicalObservationalStudy'
-studyDesign?: MedicalObservationalStudyDesign
+  studyDesign?: MedicalObservationalStudyDesign
 }
 
 
@@ -137,7 +137,7 @@ export type BowlingAlley = 'BowlingAlley' | SportsActivityLocation & LocalBusine
  */
 export type MedicalConditionStage = 'MedicalConditionStage' | MedicalIntangible & MedicalEntity & Thing & {
   is: 'MedicalConditionStage'
-stageAsNumber?: Number
+  stageAsNumber?: Number
   subStageSuffix?: Text
 }
 
@@ -156,7 +156,7 @@ stageAsNumber?: Number
  */
 export type ExercisePlan = 'ExercisePlan' | CreativeWork & PhysicalActivity & {
   is: 'ExercisePlan'
-workload?: Energy | QuantitativeValue
+  workload?: Energy | QuantitativeValue
   exerciseType?: Text
   activityDuration?: Duration | QuantitativeValue
   additionalVariable?: Text
@@ -176,7 +176,7 @@ workload?: Energy | QuantitativeValue
  */
 export type AudioObject = 'AudioObject' | MediaObject & CreativeWork & Thing & {
   is: 'AudioObject'
-transcript?: Text
+  transcript?: Text
   embeddedTextCaption?: Text
   caption?: Text | MediaObject
 }
@@ -190,7 +190,7 @@ transcript?: Text
  */
 export type SingleFamilyResidence = 'SingleFamilyResidence' | House & Accommodation & Place & Thing & {
   is: 'SingleFamilyResidence'
-occupancy?: QuantitativeValue
+  occupancy?: QuantitativeValue
   numberOfRooms?: QuantitativeValue | Number
 }
 
@@ -221,7 +221,7 @@ export type MusicReleaseFormatType = 'MusicReleaseFormatType' | Enumeration & In
  */
 export type Episode = 'Episode' | CreativeWork & Thing & {
   is: 'Episode'
-musicBy?: MusicGroup | Person
+  musicBy?: MusicGroup | Person
   partOfSeason?: CreativeWorkSeason
   director?: Person
   trailer?: VideoObject
@@ -247,7 +247,7 @@ musicBy?: MusicGroup | Person
  */
 export type Rating = 'Rating' | Intangible & Thing & {
   is: 'Rating'
-author?: Organization | Person
+  author?: Organization | Person
   reviewAspect?: Text
   worstRating?: Text | Number
   ratingExplanation?: Text
@@ -272,7 +272,7 @@ export type DiscoverAction = 'DiscoverAction' | FindAction & Action & Thing & {
  */
 export type Protein = 'Protein' | BioChemEntity & Thing & {
   is: 'Protein'
-hasBioPolymerSequence?: Text
+  hasBioPolymerSequence?: Text
 }
 
 
@@ -313,7 +313,7 @@ export type PrependAction = 'PrependAction' | InsertAction & AddAction & UpdateA
  */
 export type Order = 'Order' | Intangible & Thing & {
   is: 'Order'
-discountCurrency?: Text
+  discountCurrency?: Text
   orderDelivery?: ParcelDelivery
   orderNumber?: Text
   confirmationNumber?: Text
@@ -371,7 +371,7 @@ export type InfectiousAgentClass = 'InfectiousAgentClass' | MedicalEnumeration &
  */
 export type Message = 'Message' | CreativeWork & Thing & {
   is: 'Message'
-dateSent?: DateTime
+  dateSent?: DateTime
   dateReceived?: DateTime
   ccRecipient?: ContactPoint | Organization | Person
   toRecipient?: ContactPoint | Organization | Person | Audience
@@ -504,7 +504,7 @@ export type AboutPage = 'AboutPage' | WebPage & CreativeWork & Thing & {
  */
 export type TVSeries = 'TVSeries' | CreativeWork & CreativeWorkSeries & {
   is: 'TVSeries'
-musicBy?: MusicGroup | Person
+  musicBy?: MusicGroup | Person
   director?: Person
   titleEIDR?: Text | URL
   countryOfOrigin?: Country
@@ -530,7 +530,7 @@ musicBy?: MusicGroup | Person
  */
 export type HowToItem = 'HowToItem' | ListItem & Intangible & Thing & {
   is: 'HowToItem'
-requiredQuantity?: Number | QuantitativeValue | Text
+  requiredQuantity?: Number | QuantitativeValue | Text
 }
 
 
@@ -550,7 +550,7 @@ export type PublicSwimmingPool = 'PublicSwimmingPool' | SportsActivityLocation &
  */
 export type WebApplication = 'WebApplication' | SoftwareApplication & CreativeWork & Thing & {
   is: 'WebApplication'
-browserRequirements?: Text
+  browserRequirements?: Text
 }
 
 
@@ -602,7 +602,7 @@ export type LegalForceStatus = 'LegalForceStatus' | StatusEnumeration & Enumerat
  */
 export type GeoCoordinates = 'GeoCoordinates' | StructuredValue & Intangible & Thing & {
   is: 'GeoCoordinates'
-addressCountry?: Text | Country
+  addressCountry?: Text | Country
   elevation?: Number | Text
   latitude?: Number | Text
   longitude?: Number | Text
@@ -641,7 +641,7 @@ export type BusinessEntityType = 'BusinessEntityType' | Enumeration & Intangible
  */
 export type ProgramMembership = 'ProgramMembership' | Intangible & Thing & {
   is: 'ProgramMembership'
-membershipPointsEarned?: QuantitativeValue | Number
+  membershipPointsEarned?: QuantitativeValue | Number
   hostingOrganization?: Organization
   members?: Person | Organization
   member?: Person | Organization
@@ -658,7 +658,7 @@ membershipPointsEarned?: QuantitativeValue | Number
  */
 export type TransferAction = 'TransferAction' | Action & Thing & {
   is: 'TransferAction'
-toLocation?: Place
+  toLocation?: Place
   fromLocation?: Place
 }
 
@@ -724,7 +724,7 @@ export type HealthAspectEnumeration = 'HealthAspectEnumeration' | Enumeration & 
  */
 export type DefinedTermSet = 'DefinedTermSet' | CreativeWork & Thing & {
   is: 'DefinedTermSet'
-hasDefinedTerm?: DefinedTerm
+  hasDefinedTerm?: DefinedTerm
 }
 
 
@@ -764,7 +764,7 @@ export type RadioSeason = 'RadioSeason' | CreativeWorkSeason & CreativeWork & Th
  */
 export type VideoGame = 'VideoGame' | SoftwareApplication & Game & {
   is: 'VideoGame'
-musicBy?: MusicGroup | Person
+  musicBy?: MusicGroup | Person
   director?: Person
   gamePlatform?: URL | Thing | Text
   trailer?: VideoObject
@@ -786,7 +786,7 @@ musicBy?: MusicGroup | Person
  */
 export type HowToSection = 'HowToSection' | ListItem & ItemList & CreativeWork & {
   is: 'HowToSection'
-steps?: ItemList | CreativeWork | Text
+  steps?: ItemList | CreativeWork | Text
 }
 
 
@@ -831,7 +831,7 @@ export type FundingScheme = 'FundingScheme' | Organization & Thing & {
  */
 export type LodgingBusiness = 'LodgingBusiness' | LocalBusiness & Place & Thing & Organization & Thing & {
   is: 'LodgingBusiness'
-checkinTime?: Time | DateTime
+  checkinTime?: Time | DateTime
   checkoutTime?: Time | DateTime
   starRating?: Rating
   audience?: Audience
@@ -903,7 +903,7 @@ checkinTime?: Time | DateTime
  */
 export type Product = 'Product' | Thing & {
   is: 'Product'
-manufacturer?: Organization
+  manufacturer?: Organization
   gtin12?: Text
   releaseDate?: Date
   pattern?: Text | DefinedTerm
@@ -989,7 +989,7 @@ export type OrderStatus = 'OrderStatus' | StatusEnumeration & Enumeration & Inta
  */
 export type Schedule = 'Schedule' | Intangible & Thing & {
   is: 'Schedule'
-byMonthDay?: Integer
+  byMonthDay?: Integer
   repeatFrequency?: Text | Duration
   exceptDate?: DateTime | Date
   byDay?: Text | DayOfWeek
@@ -1012,7 +1012,7 @@ byMonthDay?: Integer
  */
 export type SearchAction = 'SearchAction' | Action & Thing & {
   is: 'SearchAction'
-query?: Text
+  query?: Text
 }
 
 
@@ -1037,7 +1037,7 @@ export type SubwayStation = 'SubwayStation' | CivicStructure & Place & Thing & {
  */
 export type BroadcastChannel = 'BroadcastChannel' | Intangible & Thing & {
   is: 'BroadcastChannel'
-broadcastFrequency?: BroadcastFrequencySpecification | Text
+  broadcastFrequency?: BroadcastFrequencySpecification | Text
   broadcastChannelId?: Text
   providesBroadcastService?: BroadcastService
   broadcastServiceTier?: Text
@@ -1082,7 +1082,7 @@ broadcastFrequency?: BroadcastFrequencySpecification | Text
  */
 export type Drug = 'Drug' | Product & Substance & {
   is: 'Drug'
-prescriptionStatus?: Text | DrugPrescriptionStatus
+  prescriptionStatus?: Text | DrugPrescriptionStatus
   foodWarning?: Text
   includedInHealthInsurancePlan?: HealthInsurancePlan
   drugUnit?: Text
@@ -1131,7 +1131,7 @@ export type MusicVideoObject = 'MusicVideoObject' | MediaObject & CreativeWork &
  */
 export type DonateAction = 'DonateAction' | TradeAction & Action & Thing & {
   is: 'DonateAction'
-recipient?: Person | ContactPoint | Organization | Audience
+  recipient?: Person | ContactPoint | Organization | Audience
 }
 
 
@@ -1187,7 +1187,7 @@ export type State = 'State' | AdministrativeArea & Place & Thing & {
  */
 export type MedicalScholarlyArticle = 'MedicalScholarlyArticle' | ScholarlyArticle & Article & CreativeWork & Thing & {
   is: 'MedicalScholarlyArticle'
-publicationType?: Text
+  publicationType?: Text
 }
 
 
@@ -1198,7 +1198,7 @@ publicationType?: Text
  */
 export type CategoryCodeSet = 'CategoryCodeSet' | DefinedTermSet & CreativeWork & Thing & {
   is: 'CategoryCodeSet'
-hasCategoryCode?: CategoryCode
+  hasCategoryCode?: CategoryCode
 }
 
 
@@ -1211,7 +1211,7 @@ hasCategoryCode?: CategoryCode
  */
 export type BroadcastFrequencySpecification = 'BroadcastFrequencySpecification' | Intangible & Thing & {
   is: 'BroadcastFrequencySpecification'
-broadcastSubChannel?: Text
+  broadcastSubChannel?: Text
   broadcastFrequencyValue?: Number | QuantitativeValue
   broadcastSignalModulation?: Text | QualitativeValue
 }
@@ -1242,7 +1242,7 @@ export type PoliticalParty = 'PoliticalParty' | Organization & Thing & {
  */
 export type Collection = 'Collection' | CreativeWork & Thing & {
   is: 'Collection'
-collectionSize?: Integer
+  collectionSize?: Integer
 }
 
 
@@ -1263,7 +1263,7 @@ export type Researcher = 'Researcher' | Audience & Intangible & Thing & {
  */
 export type DataDownload = 'DataDownload' | MediaObject & CreativeWork & Thing & {
   is: 'DataDownload'
-measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
+  measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
   measurementTechnique?: URL | MeasurementMethodEnum | Text | DefinedTerm
 }
 
@@ -1276,7 +1276,7 @@ measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
  */
 export type TechArticle = 'TechArticle' | Article & CreativeWork & Thing & {
   is: 'TechArticle'
-dependencies?: Text
+  dependencies?: Text
   proficiencyLevel?: Text
 }
 
@@ -1300,7 +1300,7 @@ export type DanceGroup = 'DanceGroup' | PerformingGroup & Organization & Thing &
  */
 export type DeliveryEvent = 'DeliveryEvent' | Event & Thing & {
   is: 'DeliveryEvent'
-availableThrough?: DateTime
+  availableThrough?: DateTime
   hasDeliveryMethod?: DeliveryMethod
   availableFrom?: DateTime
   accessCode?: Text
@@ -1324,7 +1324,7 @@ export type MobilePhoneStore = 'MobilePhoneStore' | Store & LocalBusiness & Plac
  */
 export type BedDetails = 'BedDetails' | Intangible & Thing & {
   is: 'BedDetails'
-numberOfBeds?: Number
+  numberOfBeds?: Number
   typeOfBed?: Text | BedType
 }
 
@@ -1355,7 +1355,7 @@ export type EnergyStarEnergyEfficiencyEnumeration = 'EnergyStarEnergyEfficiencyE
  */
 export type LinkRole = 'LinkRole' | Role & Intangible & Thing & {
   is: 'LinkRole'
-linkRelationship?: Text
+  linkRelationship?: Text
   inLanguage?: Text | Language
 }
 
@@ -1408,7 +1408,7 @@ export type WearableSizeGroupEnumeration = 'WearableSizeGroupEnumeration' | Size
  */
 export type InteractionCounter = 'InteractionCounter' | StructuredValue & Intangible & Thing & {
   is: 'InteractionCounter'
-userInteractionCount?: Integer
+  userInteractionCount?: Integer
   interactionService?: SoftwareApplication | WebSite
   startTime?: Time | DateTime
   location?: VirtualLocation | Text | PostalAddress | Place
@@ -1436,7 +1436,7 @@ export type DislikeAction = 'DislikeAction' | ReactAction & AssessAction & Actio
  */
 export type TVEpisode = 'TVEpisode' | Episode & CreativeWork & Thing & {
   is: 'TVEpisode'
-titleEIDR?: Text | URL
+  titleEIDR?: Text | URL
   countryOfOrigin?: Country
   partOfTVSeries?: TVSeries
   subtitleLanguage?: Language | Text
@@ -1468,7 +1468,7 @@ export type PaymentStatusType = 'PaymentStatusType' | StatusEnumeration & Enumer
  */
 export type Course = 'Course' | LearningResource & CreativeWork & {
   is: 'Course'
-coursePrerequisites?: Text | AlignmentObject | Course
+  coursePrerequisites?: Text | AlignmentObject | Course
   syllabusSections?: Syllabus
   educationalCredentialAwarded?: Text | URL | EducationalOccupationalCredential
   totalHistoricalEnrollment?: Integer
@@ -1526,7 +1526,7 @@ export type RiverBodyOfWater = 'RiverBodyOfWater' | BodyOfWater & Landform & Pla
  */
 export type LiveBlogPosting = 'LiveBlogPosting' | BlogPosting & SocialMediaPosting & Article & CreativeWork & Thing & {
   is: 'LiveBlogPosting'
-coverageStartTime?: DateTime
+  coverageStartTime?: DateTime
   liveBlogUpdate?: BlogPosting
   coverageEndTime?: DateTime
 }
@@ -1540,7 +1540,7 @@ coverageStartTime?: DateTime
  */
 export type RealEstateListing = 'RealEstateListing' | WebPage & CreativeWork & Thing & {
   is: 'RealEstateListing'
-leaseLength?: Duration | QuantitativeValue
+  leaseLength?: Duration | QuantitativeValue
   datePosted?: DateTime | Date
 }
 
@@ -1581,7 +1581,7 @@ export type LifestyleModification = 'LifestyleModification' | MedicalEntity & Th
  */
 export type MediaReview = 'MediaReview' | Review & CreativeWork & Thing & {
   is: 'MediaReview'
-originalMediaContextDescription?: Text
+  originalMediaContextDescription?: Text
   originalMediaLink?: URL | WebPage | MediaObject
   mediaAuthenticityCategory?: MediaManipulationRatingEnumeration
 }
@@ -1594,7 +1594,7 @@ originalMediaContextDescription?: Text
  */
 export type HowToSupply = 'HowToSupply' | HowToItem & ListItem & Intangible & Thing & {
   is: 'HowToSupply'
-estimatedCost?: Text | MonetaryAmount
+  estimatedCost?: Text | MonetaryAmount
 }
 
 
@@ -1614,7 +1614,7 @@ export type TrainReservation = 'TrainReservation' | Reservation & Intangible & T
  */
 export type PerformAction = 'PerformAction' | PlayAction & Action & Thing & {
   is: 'PerformAction'
-entertainmentBusiness?: EntertainmentBusiness
+  entertainmentBusiness?: EntertainmentBusiness
 }
 
 
@@ -1625,7 +1625,7 @@ entertainmentBusiness?: EntertainmentBusiness
  */
 export type ReservationPackage = 'ReservationPackage' | Reservation & Intangible & Thing & {
   is: 'ReservationPackage'
-subReservation?: Reservation
+  subReservation?: Reservation
 }
 
 
@@ -1646,7 +1646,7 @@ export type CheckoutPage = 'CheckoutPage' | WebPage & CreativeWork & Thing & {
  */
 export type MediaSubscription = 'MediaSubscription' | Intangible & Thing & {
   is: 'MediaSubscription'
-expectsAcceptanceOf?: Offer
+  expectsAcceptanceOf?: Offer
   authenticator?: Organization
 }
 
@@ -1676,7 +1676,7 @@ export type CheckAction = 'CheckAction' | FindAction & Action & Thing & {
  */
 export type DrugLegalStatus = 'DrugLegalStatus' | MedicalIntangible & MedicalEntity & Thing & {
   is: 'DrugLegalStatus'
-applicableLocation?: AdministrativeArea
+  applicableLocation?: AdministrativeArea
 }
 
 
@@ -1700,7 +1700,7 @@ export type Play = 'Play' | CreativeWork & Thing & {
  */
 export type RepaymentSpecification = 'RepaymentSpecification' | StructuredValue & Intangible & Thing & {
   is: 'RepaymentSpecification'
-numberOfLoanPayments?: Number
+  numberOfLoanPayments?: Number
   earlyPrepaymentPenalty?: MonetaryAmount
   downPayment?: MonetaryAmount | Number
   loanPaymentFrequency?: Number
@@ -1716,7 +1716,7 @@ numberOfLoanPayments?: Number
  */
 export type PostalCodeRangeSpecification = 'PostalCodeRangeSpecification' | StructuredValue & Intangible & Thing & {
   is: 'PostalCodeRangeSpecification'
-postalCodeBegin?: Text
+  postalCodeBegin?: Text
   postalCodeEnd?: Text
 }
 
@@ -1758,7 +1758,7 @@ export type MovieClip = 'MovieClip' | Clip & CreativeWork & Thing & {
  */
 export type Legislation = 'Legislation' | CreativeWork & Thing & {
   is: 'Legislation'
-legislationLegalForce?: LegalForceStatus
+  legislationLegalForce?: LegalForceStatus
   legislationDateVersion?: Date
   legislationPassedBy?: Organization | Person
   legislationChanges?: Legislation
@@ -1783,7 +1783,7 @@ legislationLegalForce?: LegalForceStatus
  */
 export type MedicalOrganization = 'MedicalOrganization' | Organization & Thing & {
   is: 'MedicalOrganization'
-isAcceptingNewPatients?: Boolean
+  isAcceptingNewPatients?: Boolean
   medicalSpecialty?: MedicalSpecialty
   healthPlanNetworkId?: Text
 }
@@ -1798,7 +1798,7 @@ isAcceptingNewPatients?: Boolean
  */
 export type FoodEstablishmentReservation = 'FoodEstablishmentReservation' | Reservation & Intangible & Thing & {
   is: 'FoodEstablishmentReservation'
-startTime?: Time | DateTime
+  startTime?: Time | DateTime
   partySize?: Integer | QuantitativeValue
   endTime?: Time | DateTime
 }
@@ -1813,7 +1813,7 @@ startTime?: Time | DateTime
  */
 export type Suite = 'Suite' | Accommodation & Place & Thing & {
   is: 'Suite'
-bed?: Text | BedType | BedDetails
+  bed?: Text | BedType | BedDetails
   occupancy?: QuantitativeValue
   numberOfRooms?: QuantitativeValue | Number
 }
@@ -1854,7 +1854,7 @@ export type PetStore = 'PetStore' | Store & LocalBusiness & Place & Thing & Orga
  */
 export type Airport = 'Airport' | CivicStructure & Place & Thing & {
   is: 'Airport'
-iataCode?: Text
+  iataCode?: Text
   icaoCode?: Text
 }
 
@@ -1879,7 +1879,7 @@ export type BedAndBreakfast = 'BedAndBreakfast' | LodgingBusiness & LocalBusines
  */
 export type DefinedRegion = 'DefinedRegion' | StructuredValue & Intangible & Thing & {
   is: 'DefinedRegion'
-addressCountry?: Text | Country
+  addressCountry?: Text | Country
   postalCodeRange?: PostalCodeRangeSpecification
   addressRegion?: Text
   postalCodePrefix?: Text
@@ -1898,7 +1898,7 @@ addressCountry?: Text | Country
  */
 export type TypeAndQuantityNode = 'TypeAndQuantityNode' | StructuredValue & Intangible & Thing & {
   is: 'TypeAndQuantityNode'
-unitText?: Text
+  unitText?: Text
   unitCode?: URL | Text
   amountOfThisGood?: Number
   businessFunction?: BusinessFunction
@@ -1922,7 +1922,7 @@ export type GroceryStore = 'GroceryStore' | Store & LocalBusiness & Place & Thin
  */
 export type SomeProducts = 'SomeProducts' | Product & Thing & {
   is: 'SomeProducts'
-inventoryLevel?: QuantitativeValue
+  inventoryLevel?: QuantitativeValue
 }
 
 
@@ -1942,7 +1942,7 @@ export type Aquarium = 'Aquarium' | CivicStructure & Place & Thing & {
  */
 export type DiagnosticLab = 'DiagnosticLab' | MedicalOrganization & Organization & Thing & {
   is: 'DiagnosticLab'
-availableTest?: MedicalTest
+  availableTest?: MedicalTest
 }
 
 
@@ -1965,7 +1965,7 @@ export type VitalSign = 'VitalSign' | MedicalSign & MedicalSignOrSymptom & Medic
  */
 export type Comment = 'Comment' | CreativeWork & Thing & {
   is: 'Comment'
-sharedContent?: CreativeWork
+  sharedContent?: CreativeWork
   downvoteCount?: Integer
   upvoteCount?: Integer
   parentItem?: CreativeWork | Comment
@@ -1989,7 +1989,7 @@ export type ReactAction = 'ReactAction' | AssessAction & Action & Thing & {
  */
 export type WarrantyPromise = 'WarrantyPromise' | StructuredValue & Intangible & Thing & {
   is: 'WarrantyPromise'
-warrantyScope?: WarrantyScope
+  warrantyScope?: WarrantyScope
   durationOfWarranty?: QuantitativeValue
 }
 
@@ -2001,7 +2001,7 @@ warrantyScope?: WarrantyScope
  */
 export type DataFeed = 'DataFeed' | Dataset & CreativeWork & Thing & {
   is: 'DataFeed'
-dataFeedElement?: Text | DataFeedItem | Thing
+  dataFeedElement?: Text | DataFeedItem | Thing
 }
 
 
@@ -2015,7 +2015,7 @@ dataFeedElement?: Text | DataFeedItem | Thing
  */
 export type PublicationIssue = 'PublicationIssue' | CreativeWork & Thing & {
   is: 'PublicationIssue'
-pagination?: Text
+  pagination?: Text
   pageStart?: Text | Integer
   pageEnd?: Text | Integer
   issueNumber?: Text | Integer
@@ -2047,7 +2047,7 @@ export type MedicalAudience = 'MedicalAudience' | Audience & PeopleAudience & {
  */
 export type Observation = 'Observation' | QuantitativeValue & Intangible & {
   is: 'Observation'
-measurementQualifier?: Enumeration
+  measurementQualifier?: Enumeration
   measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
   observationAbout?: Thing | Place
   observationPeriod?: Text
@@ -2096,7 +2096,7 @@ export type DrugCostCategory = 'DrugCostCategory' | MedicalEnumeration & Enumera
  */
 export type TradeAction = 'TradeAction' | Action & Thing & {
   is: 'TradeAction'
-priceCurrency?: Text
+  priceCurrency?: Text
   price?: Number | Text
   priceSpecification?: PriceSpecification
 }
@@ -2129,7 +2129,7 @@ export type Embassy = 'Embassy' | GovernmentBuilding & CivicStructure & Place & 
  */
 export type ParcelDelivery = 'ParcelDelivery' | Intangible & Thing & {
   is: 'ParcelDelivery'
-trackingUrl?: URL
+  trackingUrl?: URL
   deliveryStatus?: DeliveryEvent
   trackingNumber?: Text
   hasDeliveryMethod?: DeliveryMethod
@@ -2151,7 +2151,7 @@ trackingUrl?: URL
  */
 export type AuthorizeAction = 'AuthorizeAction' | AllocateAction & OrganizeAction & Action & Thing & {
   is: 'AuthorizeAction'
-recipient?: Person | ContactPoint | Organization | Audience
+  recipient?: Person | ContactPoint | Organization | Audience
 }
 
 
@@ -2171,7 +2171,7 @@ export type DrinkAction = 'DrinkAction' | ConsumeAction & Action & Thing & {
  */
 export type TravelAction = 'TravelAction' | MoveAction & Action & Thing & {
   is: 'TravelAction'
-distance?: Distance
+  distance?: Distance
 }
 
 
@@ -2201,7 +2201,7 @@ export type CheckOutAction = 'CheckOutAction' | CommunicateAction & InteractActi
  */
 export type GovernmentService = 'GovernmentService' | Service & Intangible & Thing & {
   is: 'GovernmentService'
-jurisdiction?: AdministrativeArea | Text
+  jurisdiction?: AdministrativeArea | Text
   serviceOperator?: Organization
 }
 
@@ -2236,7 +2236,7 @@ jurisdiction?: AdministrativeArea | Text
  */
 export type EducationalOccupationalProgram = 'EducationalOccupationalProgram' | Intangible & Thing & {
   is: 'EducationalOccupationalProgram'
-timeToComplete?: Duration
+  timeToComplete?: Duration
   termsPerYear?: Number
   programType?: DefinedTerm | Text
   occupationalCategory?: CategoryCode | Text
@@ -2322,7 +2322,7 @@ export type GeneralContractor = 'GeneralContractor' | HomeAndConstructionBusines
  */
 export type Occupation = 'Occupation' | Intangible & Thing & {
   is: 'Occupation'
-occupationalCategory?: CategoryCode | Text
+  occupationalCategory?: CategoryCode | Text
   qualifications?: EducationalOccupationalCredential | Text
   occupationLocation?: AdministrativeArea
   skills?: Text | DefinedTerm
@@ -2361,7 +2361,7 @@ export type PaymentMethod = 'PaymentMethod' | Enumeration & Intangible & Thing &
  */
 export type Property = 'Property' | Intangible & Thing & {
   is: 'Property'
-inverseOf?: Property
+  inverseOf?: Property
   domainIncludes?: Class
   rangeIncludes?: Class
   supersededBy?: Property | Class | Enumeration
@@ -2452,7 +2452,7 @@ export type MerchantReturnEnumeration = 'MerchantReturnEnumeration' | Enumeratio
  */
 export type Offer = 'Offer' | Intangible & Thing & {
   is: 'Offer'
-eligibleCustomerType?: BusinessEntityType
+  eligibleCustomerType?: BusinessEntityType
   eligibleDuration?: QuantitativeValue
   eligibleRegion?: Place | Text | GeoShape
   gtin12?: Text
@@ -2549,7 +2549,7 @@ export type ComicCoverArt = 'ComicCoverArt' | ComicStory & CoverArt & {
  */
 export type WebSite = 'WebSite' | CreativeWork & Thing & {
   is: 'WebSite'
-issn?: Text
+  issn?: Text
 }
 
 
@@ -2617,7 +2617,7 @@ export type HVACBusiness = 'HVACBusiness' | HomeAndConstructionBusiness & LocalB
  */
 export type Brand = 'Brand' | Intangible & Thing & {
   is: 'Brand'
-aggregateRating?: AggregateRating
+  aggregateRating?: AggregateRating
   review?: Review
   slogan?: Text
   logo?: ImageObject | URL
@@ -2643,7 +2643,7 @@ export type Notary = 'Notary' | LegalService & LocalBusiness & Place & Thing & O
  */
 export type Nerve = 'Nerve' | AnatomicalStructure & MedicalEntity & Thing & {
   is: 'Nerve'
-sensoryUnit?: SuperficialAnatomy | AnatomicalStructure
+  sensoryUnit?: SuperficialAnatomy | AnatomicalStructure
   sourcedFrom?: BrainStructure
   branch?: AnatomicalStructure
   nerveMotor?: Muscle
@@ -2657,7 +2657,7 @@ sensoryUnit?: SuperficialAnatomy | AnatomicalStructure
  */
 export type PlanAction = 'PlanAction' | OrganizeAction & Action & Thing & {
   is: 'PlanAction'
-scheduledTime?: Date | DateTime
+  scheduledTime?: Date | DateTime
 }
 
 
@@ -2697,7 +2697,7 @@ export type AnimalShelter = 'AnimalShelter' | LocalBusiness & Place & Thing & Or
  */
 export type DataCatalog = 'DataCatalog' | CreativeWork & Thing & {
   is: 'DataCatalog'
-measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
+  measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
   dataset?: Dataset
   measurementTechnique?: URL | MeasurementMethodEnum | Text | DefinedTerm
 }
@@ -2711,7 +2711,7 @@ measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
  */
 export type RentAction = 'RentAction' | TradeAction & Action & Thing & {
   is: 'RentAction'
-landlord?: Person | Organization
+  landlord?: Person | Organization
   realEstateAgent?: RealEstateAgent
 }
 
@@ -2743,7 +2743,7 @@ export type UnRegisterAction = 'UnRegisterAction' | InteractAction & Action & Th
  */
 export type HyperTocEntry = 'HyperTocEntry' | CreativeWork & Thing & {
   is: 'HyperTocEntry'
-associatedMedia?: MediaObject
+  associatedMedia?: MediaObject
   utterances?: Text
   tocContinuation?: HyperTocEntry
 }
@@ -2783,7 +2783,7 @@ export type MusicAlbumReleaseType = 'MusicAlbumReleaseType' | Enumeration & Inta
  */
 export type LeaveAction = 'LeaveAction' | InteractAction & Action & Thing & {
   is: 'LeaveAction'
-event?: Event
+  event?: Event
 }
 
 
@@ -2803,7 +2803,7 @@ event?: Event
  */
 export type VideoObject = 'VideoObject' | MediaObject & CreativeWork & Thing & {
   is: 'VideoObject'
-musicBy?: MusicGroup | Person
+  musicBy?: MusicGroup | Person
   director?: Person
   transcript?: Text
   embeddedTextCaption?: Text
@@ -2834,7 +2834,7 @@ musicBy?: MusicGroup | Person
  */
 export type Thing = 'Thing' | {
   is: 'Thing'
-subjectOf?: Event | CreativeWork
+  subjectOf?: Event | CreativeWork
   mainEntityOfPage?: URL | CreativeWork
   identifier?: URL | PropertyValue | Text
   image?: ImageObject | URL
@@ -2856,7 +2856,7 @@ subjectOf?: Event | CreativeWork
  */
 export type ReturnAction = 'ReturnAction' | TransferAction & Action & Thing & {
   is: 'ReturnAction'
-recipient?: Person | ContactPoint | Organization | Audience
+  recipient?: Person | ContactPoint | Organization | Audience
 }
 
 
@@ -2877,7 +2877,7 @@ export type EventAttendanceModeEnumeration = 'EventAttendanceModeEnumeration' | 
  */
 export type MedicalWebPage = 'MedicalWebPage' | WebPage & CreativeWork & Thing & {
   is: 'MedicalWebPage'
-aspect?: Text
+  aspect?: Text
   medicalAudience?: MedicalAudienceType | MedicalAudience
 }
 
@@ -2889,7 +2889,7 @@ aspect?: Text
  */
 export type InformAction = 'InformAction' | CommunicateAction & InteractAction & Action & Thing & {
   is: 'InformAction'
-event?: Event
+  event?: Event
 }
 
 
@@ -2910,7 +2910,7 @@ export type Electrician = 'Electrician' | HomeAndConstructionBusiness & LocalBus
  */
 export type MortgageLoan = 'MortgageLoan' | LoanOrCredit & FinancialProduct & Service & Intangible & Thing & {
   is: 'MortgageLoan'
-domiciledMortgage?: Boolean
+  domiciledMortgage?: Boolean
   loanMortgageMandateAmount?: MonetaryAmount
 }
 
@@ -2963,7 +2963,7 @@ export type LiquorStore = 'LiquorStore' | Store & LocalBusiness & Place & Thing 
  */
 export type Service = 'Service' | Intangible & Thing & {
   is: 'Service'
-produces?: Thing
+  produces?: Thing
   category?: Text | PhysicalActivityCategory | URL | CategoryCode | Thing
   hasOfferCatalog?: OfferCatalog
   offers?: Demand | Offer
@@ -2998,7 +2998,7 @@ produces?: Thing
  */
 export type TouristAttraction = 'TouristAttraction' | Place & Thing & {
   is: 'TouristAttraction'
-touristType?: Audience | Text
+  touristType?: Audience | Text
   availableLanguage?: Text | Language
 }
 
@@ -3047,7 +3047,7 @@ export type MedicalTrialDesign = 'MedicalTrialDesign' | MedicalEnumeration & Enu
  */
 export type ConstraintNode = 'ConstraintNode' | Intangible & Thing & {
   is: 'ConstraintNode'
-numConstraints?: Integer
+  numConstraints?: Integer
   constraintProperty?: Property | URL
 }
 
@@ -3064,7 +3064,7 @@ numConstraints?: Integer
  */
 export type ComicIssue = 'ComicIssue' | PublicationIssue & CreativeWork & Thing & {
   is: 'ComicIssue'
-letterer?: Person
+  letterer?: Person
   colorist?: Person
   variantCover?: Text
   artist?: Person
@@ -3080,7 +3080,7 @@ letterer?: Person
  */
 export type AskAction = 'AskAction' | CommunicateAction & InteractAction & Action & Thing & {
   is: 'AskAction'
-question?: Question
+  question?: Question
 }
 
 
@@ -3112,7 +3112,7 @@ export type GovernmentBuilding = 'GovernmentBuilding' | CivicStructure & Place &
  */
 export type BusTrip = 'BusTrip' | Trip & Intangible & Thing & {
   is: 'BusTrip'
-arrivalBusStop?: BusStation | BusStop
+  arrivalBusStop?: BusStation | BusStop
   busNumber?: Text
   departureBusStop?: BusStop | BusStation
   busName?: Text
@@ -3130,7 +3130,7 @@ arrivalBusStop?: BusStation | BusStop
  */
 export type OpeningHoursSpecification = 'OpeningHoursSpecification' | StructuredValue & Intangible & Thing & {
   is: 'OpeningHoursSpecification'
-validFrom?: DateTime | Date
+  validFrom?: DateTime | Date
   dayOfWeek?: DayOfWeek
   closes?: Time
   opens?: Time
@@ -3163,7 +3163,7 @@ export type Manuscript = 'Manuscript' | CreativeWork & Thing & {
  */
 export type TVClip = 'TVClip' | Clip & CreativeWork & Thing & {
   is: 'TVClip'
-partOfTVSeries?: TVSeries
+  partOfTVSeries?: TVSeries
 }
 
 
@@ -3195,7 +3195,7 @@ export type PriceComponentTypeEnumeration = 'PriceComponentTypeEnumeration' | En
  */
 export type Gene = 'Gene' | BioChemEntity & Thing & {
   is: 'Gene'
-encodesBioChemEntity?: BioChemEntity
+  encodesBioChemEntity?: BioChemEntity
   alternativeOf?: Gene
   hasBioPolymerSequence?: Text
   expressedIn?: AnatomicalSystem | DefinedTerm | BioChemEntity | AnatomicalStructure
@@ -3212,7 +3212,7 @@ encodesBioChemEntity?: BioChemEntity
  */
 export type AggregateOffer = 'AggregateOffer' | Offer & Intangible & Thing & {
   is: 'AggregateOffer'
-offerCount?: Integer
+  offerCount?: Integer
   offers?: Demand | Offer
   lowPrice?: Text | Number
   highPrice?: Text | Number
@@ -3246,7 +3246,7 @@ export type Integer = 'Integer' | Number & {
  */
 export type ProductGroup = 'ProductGroup' | Product & Thing & {
   is: 'ProductGroup'
-hasVariant?: Product
+  hasVariant?: Product
   productGroupID?: Text
   variesBy?: Text | DefinedTerm
 }
@@ -3311,7 +3311,7 @@ export type StatusEnumeration = 'StatusEnumeration' | Enumeration & Intangible &
  */
 export type MedicalEntity = 'MedicalEntity' | Thing & {
   is: 'MedicalEntity'
-funding?: Grant
+  funding?: Grant
   code?: MedicalCode
   guideline?: MedicalGuideline
   recognizingAuthority?: Organization
@@ -3349,7 +3349,7 @@ export type Distillery = 'Distillery' | FoodEstablishment & LocalBusiness & Plac
  */
 export type OfferShippingDetails = 'OfferShippingDetails' | StructuredValue & Intangible & Thing & {
   is: 'OfferShippingDetails'
-shippingDestination?: DefinedRegion
+  shippingDestination?: DefinedRegion
   height?: QuantitativeValue | Distance
   shippingOrigin?: DefinedRegion
   doesNotShip?: Boolean
@@ -3374,7 +3374,7 @@ shippingDestination?: DefinedRegion
  */
 export type PronounceableText = 'PronounceableText' | Text & {
   is: 'PronounceableText'
-inLanguage?: Text | Language
+  inLanguage?: Text | Language
   phoneticText?: Text
   speechToTextMarkup?: Text
   textValue?: Text
@@ -3402,7 +3402,7 @@ export type Waterfall = 'Waterfall' | BodyOfWater & Landform & Place & Thing & {
  */
 export type MonetaryAmount = 'MonetaryAmount' | StructuredValue & Intangible & Thing & {
   is: 'MonetaryAmount'
-validFrom?: DateTime | Date
+  validFrom?: DateTime | Date
   currency?: Text
   value?: Number | StructuredValue | Boolean | Text
   minValue?: Number
@@ -3494,7 +3494,7 @@ export type OnlineStore = 'OnlineStore' | OnlineBusiness & Organization & Thing 
  */
 export type Event = 'Event' | Thing & {
   is: 'Event'
-superEvent?: Event
+  superEvent?: Event
   performers?: Organization | Person
   funding?: Grant
   isAccessibleForFree?: Boolean
@@ -3563,7 +3563,7 @@ export type AppendAction = 'AppendAction' | InsertAction & AddAction & UpdateAct
  */
 export type MonetaryAmountDistribution = 'MonetaryAmountDistribution' | QuantitativeValueDistribution & StructuredValue & Intangible & Thing & {
   is: 'MonetaryAmountDistribution'
-currency?: Text
+  currency?: Text
 }
 
 
@@ -3621,7 +3621,7 @@ export type MarryAction = 'MarryAction' | InteractAction & Action & Thing & {
  */
 export type Vehicle = 'Vehicle' | Product & Thing & {
   is: 'Vehicle'
-accelerationTime?: QuantitativeValue
+  accelerationTime?: QuantitativeValue
   vehicleSpecialUsage?: CarUsageType | Text
   numberOfPreviousOwners?: QuantitativeValue | Number
   numberOfAirbags?: Text | Number
@@ -3679,7 +3679,7 @@ export type NailSalon = 'NailSalon' | HealthAndBeautyBusiness & LocalBusiness & 
  */
 export type LegislationObject = 'LegislationObject' | MediaObject & Legislation & {
   is: 'LegislationObject'
-legislationLegalValue?: LegalValueLevel
+  legislationLegalValue?: LegalValueLevel
 }
 
 
@@ -3697,7 +3697,7 @@ legislationLegalValue?: LegalValueLevel
  */
 export type ServiceChannel = 'ServiceChannel' | Intangible & Thing & {
   is: 'ServiceChannel'
-servicePostalAddress?: PostalAddress
+  servicePostalAddress?: PostalAddress
   availableLanguage?: Text | Language
   providesService?: Service
   servicePhone?: ContactPoint
@@ -3725,7 +3725,7 @@ export type HowToTip = 'HowToTip' | CreativeWork & ListItem & {
  */
 export type WebPageElement = 'WebPageElement' | CreativeWork & Thing & {
   is: 'WebPageElement'
-xpath?: XPathType
+  xpath?: XPathType
   cssSelector?: CssSelectorType
 }
 
@@ -3747,7 +3747,7 @@ export type Ligament = 'Ligament' | AnatomicalStructure & MedicalEntity & Thing 
  */
 export type MedicalSign = 'MedicalSign' | MedicalSignOrSymptom & MedicalCondition & MedicalEntity & Thing & {
   is: 'MedicalSign'
-identifyingTest?: MedicalTest
+  identifyingTest?: MedicalTest
   identifyingExam?: PhysicalExam
 }
 
@@ -3764,7 +3764,7 @@ identifyingTest?: MedicalTest
  */
 export type LodgingReservation = 'LodgingReservation' | Reservation & Intangible & Thing & {
   is: 'LodgingReservation'
-checkinTime?: Time | DateTime
+  checkinTime?: Time | DateTime
   checkoutTime?: Time | DateTime
   numChildren?: Integer | QuantitativeValue
   numAdults?: Integer | QuantitativeValue
@@ -3799,7 +3799,7 @@ export type ProfessionalService = 'ProfessionalService' | LocalBusiness & Place 
  */
 export type PropertyValueSpecification = 'PropertyValueSpecification' | Intangible & Thing & {
   is: 'PropertyValueSpecification'
-valueMinLength?: Number
+  valueMinLength?: Number
   valueMaxLength?: Number
   valuePattern?: Text
   valueRequired?: Boolean
@@ -3832,7 +3832,7 @@ export type NoteDigitalDocument = 'NoteDigitalDocument' | DigitalDocument & Crea
  */
 export type RentalCarReservation = 'RentalCarReservation' | Reservation & Intangible & Thing & {
   is: 'RentalCarReservation'
-dropoffTime?: DateTime
+  dropoffTime?: DateTime
   dropoffLocation?: Place
   pickupLocation?: Place
   pickupTime?: DateTime
@@ -3848,7 +3848,7 @@ dropoffTime?: DateTime
  */
 export type TaxiReservation = 'TaxiReservation' | Reservation & Intangible & Thing & {
   is: 'TaxiReservation'
-partySize?: Integer | QuantitativeValue
+  partySize?: Integer | QuantitativeValue
   pickupLocation?: Place
   pickupTime?: DateTime
 }
@@ -3861,7 +3861,7 @@ partySize?: Integer | QuantitativeValue
  */
 export type MovieTheater = 'MovieTheater' | EntertainmentBusiness & CivicStructure & {
   is: 'MovieTheater'
-screenCount?: Number
+  screenCount?: Number
 }
 
 
@@ -3899,7 +3899,7 @@ export type ReturnFeesEnumeration = 'ReturnFeesEnumeration' | Enumeration & Inta
  */
 export type PerformanceRole = 'PerformanceRole' | Role & Intangible & Thing & {
   is: 'PerformanceRole'
-characterName?: Text
+  characterName?: Text
 }
 
 
@@ -3915,7 +3915,7 @@ characterName?: Text
  */
 export type SizeSpecification = 'SizeSpecification' | QualitativeValue & Enumeration & Intangible & Thing & {
   is: 'SizeSpecification'
-sizeSystem?: SizeSystemEnumeration | Text
+  sizeSystem?: SizeSystemEnumeration | Text
   suggestedMeasurement?: QuantitativeValue
   sizeGroup?: Text | SizeGroupEnumeration
   hasMeasurement?: QuantitativeValue
@@ -3967,7 +3967,7 @@ export type CovidTestingFacility = 'CovidTestingFacility' | MedicalClinic & Medi
  */
 export type TouristTrip = 'TouristTrip' | Trip & Intangible & Thing & {
   is: 'TouristTrip'
-touristType?: Audience | Text
+  touristType?: Audience | Text
 }
 
 
@@ -3987,7 +3987,7 @@ export type QAPage = 'QAPage' | WebPage & CreativeWork & Thing & {
  */
 export type ArchiveOrganization = 'ArchiveOrganization' | LocalBusiness & Place & Thing & Organization & Thing & {
   is: 'ArchiveOrganization'
-archiveHeld?: ArchiveComponent
+  archiveHeld?: ArchiveComponent
 }
 
 
@@ -4018,7 +4018,7 @@ export type Bone = 'Bone' | AnatomicalStructure & MedicalEntity & Thing & {
  */
 export type BankAccount = 'BankAccount' | FinancialProduct & Service & Intangible & Thing & {
   is: 'BankAccount'
-accountMinimumInflow?: MonetaryAmount
+  accountMinimumInflow?: MonetaryAmount
   bankAccountType?: Text | URL
   accountOverdraftLimit?: MonetaryAmount
 }
@@ -4054,7 +4054,7 @@ export type EventReservation = 'EventReservation' | Reservation & Intangible & T
  */
 export type EducationalOccupationalCredential = 'EducationalOccupationalCredential' | CreativeWork & Thing & {
   is: 'EducationalOccupationalCredential'
-recognizedBy?: Organization
+  recognizedBy?: Organization
   validFor?: Duration
   educationalLevel?: URL | Text | DefinedTerm
   credentialCategory?: Text | DefinedTerm | URL
@@ -4074,7 +4074,7 @@ recognizedBy?: Organization
  */
 export type DrugStrength = 'DrugStrength' | MedicalIntangible & MedicalEntity & Thing & {
   is: 'DrugStrength'
-availableIn?: AdministrativeArea
+  availableIn?: AdministrativeArea
   strengthUnit?: Text
   activeIngredient?: Text
   maximumIntake?: MaximumDoseSchedule
@@ -4090,7 +4090,7 @@ availableIn?: AdministrativeArea
  */
 export type Audience = 'Audience' | Intangible & Thing & {
   is: 'Audience'
-audienceType?: Text
+  audienceType?: Text
   geographicArea?: AdministrativeArea
 }
 
@@ -4106,7 +4106,7 @@ audienceType?: Text
  */
 export type UserComments = 'UserComments' | UserInteraction & Event & Thing & {
   is: 'UserComments'
-commentTime?: DateTime | Date
+  commentTime?: DateTime | Date
   replyToUrl?: URL
   commentText?: Text
   creator?: Person | Organization
@@ -4154,7 +4154,7 @@ export type VideoGallery = 'VideoGallery' | MediaGallery & CollectionPage & WebP
  */
 export type Invoice = 'Invoice' | Intangible & Thing & {
   is: 'Invoice'
-accountId?: Text
+  accountId?: Text
   confirmationNumber?: Text
   category?: Text | PhysicalActivityCategory | URL | CategoryCode | Thing
   paymentDueDate?: DateTime | Date
@@ -4189,7 +4189,7 @@ export type Reservoir = 'Reservoir' | BodyOfWater & Landform & Place & Thing & {
  */
 export type TrackAction = 'TrackAction' | FindAction & Action & Thing & {
   is: 'TrackAction'
-deliveryMethod?: DeliveryMethod
+  deliveryMethod?: DeliveryMethod
 }
 
 
@@ -4215,7 +4215,7 @@ export type UserReview = 'UserReview' | Review & CreativeWork & Thing & {
  */
 export type QuantitativeValue = 'QuantitativeValue' | StructuredValue & Intangible & Thing & {
   is: 'QuantitativeValue'
-unitText?: Text
+  unitText?: Text
   unitCode?: URL | Text
   additionalProperty?: PropertyValue
   value?: Number | StructuredValue | Boolean | Text
@@ -4242,7 +4242,7 @@ export type MedicalBusiness = 'MedicalBusiness' | LocalBusiness & Place & Thing 
  */
 export type ReceiveAction = 'ReceiveAction' | TransferAction & Action & Thing & {
   is: 'ReceiveAction'
-sender?: Organization | Person | Audience
+  sender?: Organization | Person | Audience
   deliveryMethod?: DeliveryMethod
 }
 
@@ -4255,7 +4255,7 @@ sender?: Organization | Person | Audience
  */
 export type ParentAudience = 'ParentAudience' | PeopleAudience & Audience & Intangible & Thing & {
   is: 'ParentAudience'
-childMinAge?: Number
+  childMinAge?: Number
   childMaxAge?: Number
 }
 
@@ -4267,7 +4267,7 @@ childMinAge?: Number
  */
 export type InsertAction = 'InsertAction' | AddAction & UpdateAction & Action & Thing & {
   is: 'InsertAction'
-toLocation?: Place
+  toLocation?: Place
 }
 
 
@@ -4289,7 +4289,7 @@ export type Campground = 'Campground' | LodgingBusiness & CivicStructure & {
  */
 export type TVSeason = 'TVSeason' | CreativeWorkSeason & CreativeWork & {
   is: 'TVSeason'
-titleEIDR?: Text | URL
+  titleEIDR?: Text | URL
   countryOfOrigin?: Country
   partOfTVSeries?: TVSeries
 }
@@ -4304,7 +4304,7 @@ titleEIDR?: Text | URL
  */
 export type CreativeWorkSeries = 'CreativeWorkSeries' | Series & CreativeWork & {
   is: 'CreativeWorkSeries'
-issn?: Text
+  issn?: Text
   startDate?: Date | DateTime
   endDate?: DateTime | Date
 }
@@ -4371,7 +4371,7 @@ export type BookmarkAction = 'BookmarkAction' | OrganizeAction & Action & Thing 
  */
 export type JoinAction = 'JoinAction' | InteractAction & Action & Thing & {
   is: 'JoinAction'
-event?: Event
+  event?: Event
 }
 
 
@@ -4390,7 +4390,7 @@ event?: Event
  */
 export type PropertyValue = 'PropertyValue' | StructuredValue & Intangible & Thing & {
   is: 'PropertyValue'
-unitText?: Text
+  unitText?: Text
   unitCode?: URL | Text
   measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
   measurementTechnique?: URL | MeasurementMethodEnum | Text | DefinedTerm
@@ -4410,7 +4410,7 @@ unitText?: Text
  */
 export type DefinedTerm = 'DefinedTerm' | Intangible & Thing & {
   is: 'DefinedTerm'
-inDefinedTermSet?: DefinedTermSet | URL
+  inDefinedTermSet?: DefinedTermSet | URL
   termCode?: Text
 }
 
@@ -4524,7 +4524,7 @@ export type Dentist = 'Dentist' | LocalBusiness & MedicalBusiness & MedicalOrgan
  */
 export type DeliveryChargeSpecification = 'DeliveryChargeSpecification' | PriceSpecification & StructuredValue & Intangible & Thing & {
   is: 'DeliveryChargeSpecification'
-eligibleRegion?: Place | Text | GeoShape
+  eligibleRegion?: Place | Text | GeoShape
   ineligibleRegion?: GeoShape | Place | Text
   areaServed?: GeoShape | Place | AdministrativeArea | Text
   appliesToDeliveryMethod?: DeliveryMethod
@@ -4551,7 +4551,7 @@ export type UserPlays = 'UserPlays' | UserInteraction & Event & Thing & {
  */
 export type APIReference = 'APIReference' | TechArticle & Article & CreativeWork & Thing & {
   is: 'APIReference'
-targetPlatform?: Text
+  targetPlatform?: Text
   programmingModel?: Text
   assemblyVersion?: Text
   assembly?: Text
@@ -4613,7 +4613,7 @@ export type MedicalObservationalStudyDesign = 'MedicalObservationalStudyDesign' 
  */
 export type HealthPlanFormulary = 'HealthPlanFormulary' | Intangible & Thing & {
   is: 'HealthPlanFormulary'
-healthPlanCostSharing?: Boolean
+  healthPlanCostSharing?: Boolean
   healthPlanDrugTier?: Text
   offersPrescriptionByMail?: Boolean
 }
@@ -4626,7 +4626,7 @@ healthPlanCostSharing?: Boolean
  */
 export type Residence = 'Residence' | Place & Thing & {
   is: 'Residence'
-accommodationFloorPlan?: FloorPlan
+  accommodationFloorPlan?: FloorPlan
 }
 
 
@@ -4638,7 +4638,7 @@ accommodationFloorPlan?: FloorPlan
  */
 export type SellAction = 'SellAction' | TradeAction & Action & Thing & {
   is: 'SellAction'
-buyer?: Person | Organization
+  buyer?: Person | Organization
   warrantyPromise?: WarrantyPromise
 }
 
@@ -4651,7 +4651,7 @@ buyer?: Person | Organization
  */
 export type UpdateAction = 'UpdateAction' | Action & Thing & {
   is: 'UpdateAction'
-collection?: Thing
+  collection?: Thing
   targetCollection?: Thing
 }
 
@@ -4717,7 +4717,7 @@ export type PaymentService = 'PaymentService' | FinancialProduct & Service & Int
  */
 export type StatisticalPopulation = 'StatisticalPopulation' | Intangible & Thing & {
   is: 'StatisticalPopulation'
-populationType?: Class
+  populationType?: Class
 }
 
 
@@ -4747,7 +4747,7 @@ export type Landform = 'Landform' | Place & Thing & {
  */
 export type NewsMediaOrganization = 'NewsMediaOrganization' | Organization & Thing & {
   is: 'NewsMediaOrganization'
-actionableFeedbackPolicy?: URL | CreativeWork
+  actionableFeedbackPolicy?: URL | CreativeWork
   noBylinesPolicy?: URL | CreativeWork
   diversityStaffingReport?: Article | URL
   diversityPolicy?: URL | CreativeWork
@@ -4769,7 +4769,7 @@ actionableFeedbackPolicy?: URL | CreativeWork
  */
 export type DDxElement = 'DDxElement' | MedicalIntangible & MedicalEntity & Thing & {
   is: 'DDxElement'
-distinguishingSign?: MedicalSignOrSymptom
+  distinguishingSign?: MedicalSignOrSymptom
   diagnosis?: MedicalCondition
 }
 
@@ -4797,7 +4797,7 @@ export type Resort = 'Resort' | LodgingBusiness & LocalBusiness & Place & Thing 
  */
 export type GeoShape = 'GeoShape' | StructuredValue & Intangible & Thing & {
   is: 'GeoShape'
-addressCountry?: Text | Country
+  addressCountry?: Text | Country
   elevation?: Number | Text
   line?: Text
   polygon?: Text
@@ -4816,7 +4816,7 @@ addressCountry?: Text | Country
  */
 export type MenuSection = 'MenuSection' | CreativeWork & Thing & {
   is: 'MenuSection'
-hasMenuSection?: MenuSection
+  hasMenuSection?: MenuSection
   hasMenuItem?: MenuItem
 }
 
@@ -4847,7 +4847,7 @@ export type TouristInformationCenter = 'TouristInformationCenter' | LocalBusines
  */
 export type TouristDestination = 'TouristDestination' | Place & Thing & {
   is: 'TouristDestination'
-touristType?: Audience | Text
+  touristType?: Audience | Text
   includesAttraction?: TouristAttraction
 }
 
@@ -4877,7 +4877,7 @@ export type EventSeries = 'EventSeries' | Series & Event & {
  */
 export type DietarySupplement = 'DietarySupplement' | Substance & Product & {
   is: 'DietarySupplement'
-recommendedIntake?: RecommendedDoseSchedule
+  recommendedIntake?: RecommendedDoseSchedule
   proprietaryName?: Text
   safetyConsideration?: Text
   isProprietary?: Boolean
@@ -4908,7 +4908,7 @@ export type CityHall = 'CityHall' | GovernmentBuilding & CivicStructure & Place 
  */
 export type HealthPlanNetwork = 'HealthPlanNetwork' | Intangible & Thing & {
   is: 'HealthPlanNetwork'
-healthPlanCostSharing?: Boolean
+  healthPlanCostSharing?: Boolean
   healthPlanNetworkId?: Text
   healthPlanNetworkTier?: Text
 }
@@ -4922,7 +4922,7 @@ healthPlanCostSharing?: Boolean
  */
 export type GeoCircle = 'GeoCircle' | GeoShape & StructuredValue & Intangible & Thing & {
   is: 'GeoCircle'
-geoRadius?: Number | Text | Distance
+  geoRadius?: Number | Text | Distance
   geoMidpoint?: GeoCoordinates
 }
 
@@ -4952,7 +4952,7 @@ export type Library = 'Library' | LocalBusiness & Place & Thing & Organization &
  */
 export type PlayGameAction = 'PlayGameAction' | ConsumeAction & Action & Thing & {
   is: 'PlayGameAction'
-gameAvailabilityType?: GameAvailabilityEnumeration | Text
+  gameAvailabilityType?: GameAvailabilityEnumeration | Text
 }
 
 
@@ -4965,7 +4965,7 @@ gameAvailabilityType?: GameAvailabilityEnumeration | Text
  */
 export type Blog = 'Blog' | CreativeWork & Thing & {
   is: 'Blog'
-blogPosts?: BlogPosting
+  blogPosts?: BlogPosting
   blogPost?: BlogPosting
   issn?: Text
 }
@@ -4986,7 +4986,7 @@ blogPosts?: BlogPosting
  */
 export type LoanOrCredit = 'LoanOrCredit' | FinancialProduct & Service & Intangible & Thing & {
   is: 'LoanOrCredit'
-renegotiableLoan?: Boolean
+  renegotiableLoan?: Boolean
   loanType?: Text | URL
   gracePeriod?: Duration
   currency?: Text
@@ -5006,7 +5006,7 @@ renegotiableLoan?: Boolean
  */
 export type HyperToc = 'HyperToc' | CreativeWork & Thing & {
   is: 'HyperToc'
-tocEntry?: HyperTocEntry
+  tocEntry?: HyperTocEntry
   associatedMedia?: MediaObject
 }
 
@@ -5028,7 +5028,7 @@ export type LibrarySystem = 'LibrarySystem' | Organization & Thing & {
  */
 export type MoneyTransfer = 'MoneyTransfer' | TransferAction & Action & Thing & {
   is: 'MoneyTransfer'
-beneficiaryBank?: Text | BankOrCreditUnion
+  beneficiaryBank?: Text | BankOrCreditUnion
   amount?: MonetaryAmount | Number
 }
 
@@ -5059,7 +5059,7 @@ export type GasStation = 'GasStation' | AutomotiveBusiness & LocalBusiness & Pla
  */
 export type Artery = 'Artery' | Vessel & AnatomicalStructure & MedicalEntity & Thing & {
   is: 'Artery'
-supplyTo?: AnatomicalStructure
+  supplyTo?: AnatomicalStructure
   arterialBranch?: AnatomicalStructure
 }
 
@@ -5083,7 +5083,7 @@ export type EndorsementRating = 'EndorsementRating' | Rating & Intangible & Thin
  */
 export type OwnershipInfo = 'OwnershipInfo' | StructuredValue & Intangible & Thing & {
   is: 'OwnershipInfo'
-ownedFrom?: DateTime
+  ownedFrom?: DateTime
   ownedThrough?: DateTime
   acquiredFrom?: Organization | Person
   typeOfGood?: Service | Product
@@ -5107,7 +5107,7 @@ export type GovernmentOffice = 'GovernmentOffice' | LocalBusiness & Place & Thin
  */
 export type Answer = 'Answer' | Comment & CreativeWork & Thing & {
   is: 'Answer'
-answerExplanation?: Comment | WebContent
+  answerExplanation?: Comment | WebContent
   parentItem?: CreativeWork | Comment
 }
 
@@ -5120,7 +5120,7 @@ answerExplanation?: Comment | WebContent
  */
 export type MoveAction = 'MoveAction' | Action & Thing & {
   is: 'MoveAction'
-toLocation?: Place
+  toLocation?: Place
   fromLocation?: Place
 }
 
@@ -5164,7 +5164,7 @@ export type VideoObjectSnapshot = 'VideoObjectSnapshot' | VideoObject & MediaObj
  */
 export type MedicalProcedure = 'MedicalProcedure' | MedicalEntity & Thing & {
   is: 'MedicalProcedure'
-bodyLocation?: Text
+  bodyLocation?: Text
   howPerformed?: Text
   procedureType?: MedicalProcedureType
   status?: MedicalStudyStatus | Text | EventStatusType
@@ -5207,7 +5207,7 @@ export type Series = 'Series' | Intangible & Thing & {
  */
 export type ClaimReview = 'ClaimReview' | Review & CreativeWork & Thing & {
   is: 'ClaimReview'
-claimReviewed?: Text
+  claimReviewed?: Text
 }
 
 
@@ -5218,7 +5218,7 @@ claimReviewed?: Text
  */
 export type WinAction = 'WinAction' | AchieveAction & Action & Thing & {
   is: 'WinAction'
-loser?: Person
+  loser?: Person
 }
 
 
@@ -5258,7 +5258,7 @@ export type IceCreamShop = 'IceCreamShop' | FoodEstablishment & LocalBusiness & 
  */
 export type AggregateRating = 'AggregateRating' | Rating & Intangible & Thing & {
   is: 'AggregateRating'
-reviewCount?: Integer
+  reviewCount?: Integer
   itemReviewed?: Thing
   ratingCount?: Integer
 }
@@ -5282,7 +5282,7 @@ export type SportsClub = 'SportsClub' | SportsActivityLocation & LocalBusiness &
  */
 export type Vein = 'Vein' | Vessel & AnatomicalStructure & MedicalEntity & Thing & {
   is: 'Vein'
-drainsTo?: Vessel
+  drainsTo?: Vessel
   regionDrained?: AnatomicalSystem | AnatomicalStructure
   tributary?: AnatomicalStructure
 }
@@ -5305,7 +5305,7 @@ export type WarrantyScope = 'WarrantyScope' | Enumeration & Intangible & Thing &
  */
 export type WorkBasedProgram = 'WorkBasedProgram' | EducationalOccupationalProgram & Intangible & Thing & {
   is: 'WorkBasedProgram'
-occupationalCategory?: CategoryCode | Text
+  occupationalCategory?: CategoryCode | Text
   trainingSalary?: MonetaryAmountDistribution
 }
 
@@ -5328,7 +5328,7 @@ occupationalCategory?: CategoryCode | Text
  */
 export type NutritionInformation = 'NutritionInformation' | StructuredValue & Intangible & Thing & {
   is: 'NutritionInformation'
-fiberContent?: Mass
+  fiberContent?: Mass
   servingSize?: Text
   sodiumContent?: Mass
   calories?: Energy
@@ -5390,7 +5390,7 @@ export type ReservationStatusType = 'ReservationStatusType' | StatusEnumeration 
  */
 export type RadioSeries = 'RadioSeries' | CreativeWorkSeries & Series & Intangible & Thing & CreativeWork & Thing & {
   is: 'RadioSeries'
-musicBy?: MusicGroup | Person
+  musicBy?: MusicGroup | Person
   director?: Person
   trailer?: VideoObject
   numberOfEpisodes?: Integer
@@ -5424,7 +5424,7 @@ export type SuspendAction = 'SuspendAction' | ControlAction & Action & Thing & {
  */
 export type MedicalClinic = 'MedicalClinic' | MedicalBusiness & MedicalOrganization & {
   is: 'MedicalClinic'
-medicalSpecialty?: MedicalSpecialty
+  medicalSpecialty?: MedicalSpecialty
   availableService?: MedicalTherapy | MedicalProcedure | MedicalTest
 }
 
@@ -5523,7 +5523,7 @@ export type DrugPrescriptionStatus = 'DrugPrescriptionStatus' | MedicalEnumerati
  */
 export type Permit = 'Permit' | Intangible & Thing & {
   is: 'Permit'
-validUntil?: Date
+  validUntil?: Date
   validFrom?: DateTime | Date
   validFor?: Duration
   permitAudience?: Audience
@@ -5559,7 +5559,7 @@ export type Newspaper = 'Newspaper' | Periodical & CreativeWorkSeries & Series &
  */
 export type PaymentChargeSpecification = 'PaymentChargeSpecification' | PriceSpecification & StructuredValue & Intangible & Thing & {
   is: 'PaymentChargeSpecification'
-appliesToPaymentMethod?: PaymentMethod
+  appliesToPaymentMethod?: PaymentMethod
   appliesToDeliveryMethod?: DeliveryMethod
 }
 
@@ -5571,7 +5571,7 @@ appliesToPaymentMethod?: PaymentMethod
  */
 export type MedicalRiskScore = 'MedicalRiskScore' | MedicalRiskEstimator & MedicalEntity & Thing & {
   is: 'MedicalRiskScore'
-algorithm?: Text
+  algorithm?: Text
 }
 
 
@@ -5600,7 +5600,7 @@ export type RadioChannel = 'RadioChannel' | BroadcastChannel & Intangible & Thin
  */
 export type TipAction = 'TipAction' | TradeAction & Action & Thing & {
   is: 'TipAction'
-recipient?: Person | ContactPoint | Organization | Audience
+  recipient?: Person | ContactPoint | Organization | Audience
 }
 
 
@@ -5625,7 +5625,7 @@ export type AmusementPark = 'AmusementPark' | EntertainmentBusiness & LocalBusin
  */
 export type Book = 'Book' | CreativeWork & Thing & {
   is: 'Book'
-abridged?: Boolean
+  abridged?: Boolean
   bookEdition?: Text
   numberOfPages?: Integer
   bookFormat?: BookFormatType
@@ -5646,7 +5646,7 @@ abridged?: Boolean
  */
 export type MusicRelease = 'MusicRelease' | MusicPlaylist & CreativeWork & Thing & {
   is: 'MusicRelease'
-releaseOf?: MusicAlbum
+  releaseOf?: MusicAlbum
   creditedTo?: Person | Organization
   recordLabel?: Organization
   catalogNumber?: Text
@@ -5766,7 +5766,7 @@ export type BuddhistTemple = 'BuddhistTemple' | PlaceOfWorship & CivicStructure 
  */
 export type MusicGroup = 'MusicGroup' | PerformingGroup & Organization & Thing & {
   is: 'MusicGroup'
-musicGroupMember?: Person
+  musicGroupMember?: Person
   album?: MusicAlbum
   tracks?: MusicRecording
   genre?: Text | URL
@@ -5782,7 +5782,7 @@ musicGroupMember?: Person
  */
 export type CivicStructure = 'CivicStructure' | Place & Thing & {
   is: 'CivicStructure'
-openingHours?: Text
+  openingHours?: Text
 }
 
 
@@ -5803,7 +5803,7 @@ export type MedicineSystem = 'MedicineSystem' | MedicalEnumeration & Enumeration
  */
 export type MonetaryGrant = 'MonetaryGrant' | Grant & Intangible & Thing & {
   is: 'MonetaryGrant'
-funder?: Person | Organization
+  funder?: Person | Organization
   amount?: MonetaryAmount | Number
 }
 
@@ -5823,7 +5823,7 @@ funder?: Person | Organization
  */
 export type PeopleAudience = 'PeopleAudience' | Audience & Intangible & Thing & {
   is: 'PeopleAudience'
-suggestedMaxAge?: Number
+  suggestedMaxAge?: Number
   requiredMinAge?: Integer
   requiredGender?: Text
   healthCondition?: MedicalCondition
@@ -5906,7 +5906,7 @@ export type UserCheckins = 'UserCheckins' | UserInteraction & Event & Thing & {
  */
 export type DigitalDocumentPermission = 'DigitalDocumentPermission' | Intangible & Thing & {
   is: 'DigitalDocumentPermission'
-grantee?: ContactPoint | Organization | Person | Audience
+  grantee?: ContactPoint | Organization | Person | Audience
   permissionType?: DigitalDocumentPermissionType
 }
 
@@ -5983,7 +5983,7 @@ export type StructuredValue = 'StructuredValue' | Intangible & Thing & {
  */
 export type Patient = 'Patient' | MedicalAudience & Person & {
   is: 'Patient'
-healthCondition?: MedicalCondition
+  healthCondition?: MedicalCondition
   drug?: Drug
   diagnosis?: MedicalCondition
 }
@@ -5996,7 +5996,7 @@ healthCondition?: MedicalCondition
  */
 export type Report = 'Report' | Article & CreativeWork & Thing & {
   is: 'Report'
-reportNumber?: Text
+  reportNumber?: Text
 }
 
 
@@ -6016,7 +6016,7 @@ export type DefenceEstablishment = 'DefenceEstablishment' | GovernmentBuilding &
  */
 export type LendAction = 'LendAction' | TransferAction & Action & Thing & {
   is: 'LendAction'
-borrower?: Person
+  borrower?: Person
 }
 
 
@@ -6028,7 +6028,7 @@ borrower?: Person
  */
 export type EmployeeRole = 'EmployeeRole' | OrganizationRole & Role & Intangible & Thing & {
   is: 'EmployeeRole'
-baseSalary?: Number | PriceSpecification | MonetaryAmount
+  baseSalary?: Number | PriceSpecification | MonetaryAmount
   salaryCurrency?: Text
 }
 
@@ -6052,7 +6052,7 @@ export type AddAction = 'AddAction' | UpdateAction & Action & Thing & {
  */
 export type PublicationVolume = 'PublicationVolume' | CreativeWork & Thing & {
   is: 'PublicationVolume'
-pagination?: Text
+  pagination?: Text
   volumeNumber?: Integer | Text
   pageStart?: Text | Integer
   pageEnd?: Text | Integer
@@ -6067,7 +6067,7 @@ pagination?: Text
  */
 export type Car = 'Car' | Vehicle & Product & Thing & {
   is: 'Car'
-roofLoad?: QuantitativeValue
+  roofLoad?: QuantitativeValue
   acrissCode?: Text
 }
 
@@ -6096,7 +6096,7 @@ export type PhysicalTherapy = 'PhysicalTherapy' | MedicalTherapy & TherapeuticPr
  */
 export type PriceSpecification = 'PriceSpecification' | StructuredValue & Intangible & Thing & {
   is: 'PriceSpecification'
-eligibleTransactionVolume?: PriceSpecification
+  eligibleTransactionVolume?: PriceSpecification
   validFrom?: DateTime | Date
   priceCurrency?: Text
   price?: Number | Text
@@ -6179,7 +6179,7 @@ export type ElectronicsStore = 'ElectronicsStore' | Store & LocalBusiness & Plac
  */
 export type CreativeWorkSeason = 'CreativeWorkSeason' | CreativeWork & Thing & {
   is: 'CreativeWorkSeason'
-director?: Person
+  director?: Person
   trailer?: VideoObject
   numberOfEpisodes?: Integer
   episodes?: Episode
@@ -6213,7 +6213,7 @@ export type ItemListOrderType = 'ItemListOrderType' | Enumeration & Intangible &
  */
 export type MedicalStudy = 'MedicalStudy' | MedicalEntity & Thing & {
   is: 'MedicalStudy'
-sponsor?: Person | Organization
+  sponsor?: Person | Organization
   studySubject?: MedicalEntity
   healthCondition?: MedicalCondition
   status?: MedicalStudyStatus | Text | EventStatusType
@@ -6228,7 +6228,7 @@ sponsor?: Person | Organization
  */
 export type InvestmentOrDeposit = 'InvestmentOrDeposit' | FinancialProduct & Service & Intangible & Thing & {
   is: 'InvestmentOrDeposit'
-amount?: MonetaryAmount | Number
+  amount?: MonetaryAmount | Number
 }
 
 
@@ -6255,7 +6255,7 @@ export type EnergyEfficiencyEnumeration = 'EnergyEfficiencyEnumeration' | Enumer
  */
 export type UnitPriceSpecification = 'UnitPriceSpecification' | PriceSpecification & StructuredValue & Intangible & Thing & {
   is: 'UnitPriceSpecification'
-unitText?: Text
+  unitText?: Text
   unitCode?: URL | Text
   priceType?: PriceTypeEnumeration | Text
   billingStart?: Number
@@ -6307,7 +6307,7 @@ export type BodyOfWater = 'BodyOfWater' | Landform & Place & Thing & {
  */
 export type Ticket = 'Ticket' | Intangible & Thing & {
   is: 'Ticket'
-priceCurrency?: Text
+  priceCurrency?: Text
   ticketToken?: Text | URL
   issuedBy?: Organization
   underName?: Person | Organization
@@ -6406,7 +6406,7 @@ export type AutoBodyShop = 'AutoBodyShop' | AutomotiveBusiness & LocalBusiness &
  */
 export type PathologyTest = 'PathologyTest' | MedicalTest & MedicalEntity & Thing & {
   is: 'PathologyTest'
-tissueSample?: Text
+  tissueSample?: Text
 }
 
 
@@ -6447,7 +6447,7 @@ export type MotorizedBicycle = 'MotorizedBicycle' | Vehicle & Product & Thing & 
  */
 export type DeliveryTimeSettings = 'DeliveryTimeSettings' | StructuredValue & Intangible & Thing & {
   is: 'DeliveryTimeSettings'
-shippingDestination?: DefinedRegion
+  shippingDestination?: DefinedRegion
   transitTimeLabel?: Text
   deliveryTime?: ShippingDeliveryTime
   isUnlabelledFallback?: Boolean
@@ -6472,7 +6472,7 @@ export type Code = 'Code' | CreativeWork & Thing & {
  */
 export type ProductModel = 'ProductModel' | Product & Thing & {
   is: 'ProductModel'
-predecessorOf?: ProductModel
+  predecessorOf?: ProductModel
   successorOf?: ProductModel
   isVariantOf?: ProductModel | ProductGroup
 }
@@ -6485,7 +6485,7 @@ predecessorOf?: ProductModel
  */
 export type ReplyAction = 'ReplyAction' | CommunicateAction & InteractAction & Action & Thing & {
   is: 'ReplyAction'
-resultComment?: Comment
+  resultComment?: Comment
 }
 
 
@@ -6496,7 +6496,7 @@ resultComment?: Comment
  */
 export type Map = 'Map' | CreativeWork & Thing & {
   is: 'Map'
-mapType?: MapCategoryType
+  mapType?: MapCategoryType
 }
 
 
@@ -6511,7 +6511,7 @@ mapType?: MapCategoryType
  */
 export type OrderItem = 'OrderItem' | Intangible & Thing & {
   is: 'OrderItem'
-orderDelivery?: ParcelDelivery
+  orderDelivery?: ParcelDelivery
   orderQuantity?: Number
   orderItemNumber?: Text
   orderedItem?: OrderItem | Service | Product
@@ -6594,7 +6594,7 @@ export type ResumeAction = 'ResumeAction' | ControlAction & Action & Thing & {
  */
 export type SoftwareApplication = 'SoftwareApplication' | CreativeWork & Thing & {
   is: 'SoftwareApplication'
-applicationSubCategory?: URL | Text
+  applicationSubCategory?: URL | Text
   storageRequirements?: URL | Text
   applicationSuite?: Text
   device?: Text
@@ -6637,7 +6637,7 @@ applicationSubCategory?: URL | Text
  */
 export type ContactPoint = 'ContactPoint' | StructuredValue & Intangible & Thing & {
   is: 'ContactPoint'
-contactType?: Text
+  contactType?: Text
   telephone?: Text
   contactOption?: ContactPointOption
   email?: Text
@@ -6657,7 +6657,7 @@ contactType?: Text
  */
 export type MedicalTrial = 'MedicalTrial' | MedicalStudy & MedicalEntity & Thing & {
   is: 'MedicalTrial'
-trialDesign?: MedicalTrialDesign
+  trialDesign?: MedicalTrialDesign
 }
 
 
@@ -6677,7 +6677,7 @@ export type Courthouse = 'Courthouse' | GovernmentBuilding & CivicStructure & Pl
  */
 export type DigitalDocument = 'DigitalDocument' | CreativeWork & Thing & {
   is: 'DigitalDocument'
-hasDigitalDocumentPermission?: DigitalDocumentPermission
+  hasDigitalDocumentPermission?: DigitalDocumentPermission
 }
 
 
@@ -6697,7 +6697,7 @@ hasDigitalDocumentPermission?: DigitalDocumentPermission
  */
 export type GeospatialGeometry = 'GeospatialGeometry' | Intangible & Thing & {
   is: 'GeospatialGeometry'
-geoCoveredBy?: GeospatialGeometry | Place
+  geoCoveredBy?: GeospatialGeometry | Place
   geoContains?: Place | GeospatialGeometry
   geoOverlaps?: Place | GeospatialGeometry
   geoCrosses?: GeospatialGeometry | Place
@@ -6789,7 +6789,7 @@ export type Restaurant = 'Restaurant' | FoodEstablishment & LocalBusiness & Plac
  */
 export type Person = 'Person' | Thing & {
   is: 'Person'
-funding?: Grant
+  funding?: Grant
   memberOf?: Organization | ProgramMembership
   gender?: Text | GenderType
   height?: QuantitativeValue | Distance
@@ -6870,7 +6870,7 @@ funding?: Grant
  */
 export type Article = 'Article' | CreativeWork & Thing & {
   is: 'Article'
-pagination?: Text
+  pagination?: Text
   speakable?: SpeakableSpecification | URL
   articleBody?: Text
   backstory?: CreativeWork | Text
@@ -6951,7 +6951,7 @@ export type CampingPitch = 'CampingPitch' | Accommodation & Place & Thing & {
  */
 export type Quotation = 'Quotation' | CreativeWork & Thing & {
   is: 'Quotation'
-spokenByCharacter?: Person | Organization
+  spokenByCharacter?: Person | Organization
 }
 
 
@@ -6962,7 +6962,7 @@ spokenByCharacter?: Person | Organization
  */
 export type PayAction = 'PayAction' | TradeAction & Action & Thing & {
   is: 'PayAction'
-recipient?: Person | ContactPoint | Organization | Audience
+  recipient?: Person | ContactPoint | Organization | Audience
 }
 
 
@@ -7000,7 +7000,7 @@ export type DisagreeAction = 'DisagreeAction' | ReactAction & AssessAction & Act
  */
 export type Enumeration = 'Enumeration' | Intangible & Thing & {
   is: 'Enumeration'
-supersededBy?: Property | Class | Enumeration
+  supersededBy?: Property | Class | Enumeration
 }
 
 
@@ -7065,7 +7065,7 @@ export type HowToTool = 'HowToTool' | HowToItem & ListItem & Intangible & Thing 
  */
 export type Guide = 'Guide' | CreativeWork & Thing & {
   is: 'Guide'
-reviewAspect?: Text
+  reviewAspect?: Text
 }
 
 
@@ -7077,7 +7077,7 @@ reviewAspect?: Text
  */
 export type SendAction = 'SendAction' | TransferAction & Action & Thing & {
   is: 'SendAction'
-deliveryMethod?: DeliveryMethod
+  deliveryMethod?: DeliveryMethod
   recipient?: Person | ContactPoint | Organization | Audience
 }
 
@@ -7149,7 +7149,7 @@ export type TextObject = 'TextObject' | MediaObject & CreativeWork & Thing & {
  */
 export type MedicalCondition = 'MedicalCondition' | MedicalEntity & Thing & {
   is: 'MedicalCondition'
-typicalTest?: MedicalTest
+  typicalTest?: MedicalTest
   differentialDiagnosis?: DDxElement
   secondaryPrevention?: MedicalTherapy
   expectedPrognosis?: Text
@@ -7178,7 +7178,7 @@ typicalTest?: MedicalTest
  */
 export type DataFeedItem = 'DataFeedItem' | Intangible & Thing & {
   is: 'DataFeedItem'
-item?: Thing
+  item?: Thing
   dateCreated?: Date | DateTime
   dateModified?: Date | DateTime
   dateDeleted?: Date | DateTime
@@ -7214,7 +7214,7 @@ export type RestrictedDiet = 'RestrictedDiet' | Enumeration & Intangible & Thing
  */
 export type HealthPlanCostSharingSpecification = 'HealthPlanCostSharingSpecification' | Intangible & Thing & {
   is: 'HealthPlanCostSharingSpecification'
-healthPlanCoinsuranceOption?: Text
+  healthPlanCoinsuranceOption?: Text
   healthPlanCopay?: PriceSpecification
   healthPlanPharmacyCategory?: Text
   healthPlanCopayOption?: Text
@@ -7229,7 +7229,7 @@ healthPlanCoinsuranceOption?: Text
  */
 export type OccupationalExperienceRequirements = 'OccupationalExperienceRequirements' | Intangible & Thing & {
   is: 'OccupationalExperienceRequirements'
-monthsOfExperience?: Number
+  monthsOfExperience?: Number
 }
 
 
@@ -7240,7 +7240,7 @@ monthsOfExperience?: Number
  */
 export type BorrowAction = 'BorrowAction' | TransferAction & Action & Thing & {
   is: 'BorrowAction'
-lender?: Person | Organization
+  lender?: Person | Organization
 }
 
 
@@ -7261,7 +7261,7 @@ export type RadioStation = 'RadioStation' | LocalBusiness & Place & Thing & Orga
  */
 export type HotelRoom = 'HotelRoom' | Room & Accommodation & Place & Thing & {
   is: 'HotelRoom'
-bed?: Text | BedType | BedDetails
+  bed?: Text | BedType | BedDetails
   occupancy?: QuantitativeValue
 }
 
@@ -7282,7 +7282,7 @@ export type PodcastEpisode = 'PodcastEpisode' | Episode & CreativeWork & Thing &
  */
 export type MedicalCause = 'MedicalCause' | MedicalEntity & Thing & {
   is: 'MedicalCause'
-causeOf?: MedicalEntity
+  causeOf?: MedicalEntity
 }
 
 
@@ -7298,7 +7298,7 @@ causeOf?: MedicalEntity
  */
 export type TrainTrip = 'TrainTrip' | Trip & Intangible & Thing & {
   is: 'TrainTrip'
-departurePlatform?: Text
+  departurePlatform?: Text
   trainNumber?: Text
   trainName?: Text
   arrivalStation?: TrainStation
@@ -7343,7 +7343,7 @@ export type Mosque = 'Mosque' | PlaceOfWorship & CivicStructure & Place & Thing 
  */
 export type RsvpAction = 'RsvpAction' | InformAction & CommunicateAction & InteractAction & Action & Thing & {
   is: 'RsvpAction'
-additionalNumberOfGuests?: Number
+  additionalNumberOfGuests?: Number
   rsvpResponse?: RsvpResponseType
   comment?: Comment
 }
@@ -7364,7 +7364,7 @@ additionalNumberOfGuests?: Number
  */
 export type MolecularEntity = 'MolecularEntity' | BioChemEntity & Thing & {
   is: 'MolecularEntity'
-potentialUse?: DefinedTerm
+  potentialUse?: DefinedTerm
   chemicalRole?: DefinedTerm
   smiles?: Text
   iupacName?: Text
@@ -7455,7 +7455,7 @@ export type ReadAction = 'ReadAction' | ConsumeAction & Action & Thing & {
  */
 export type MedicalSignOrSymptom = 'MedicalSignOrSymptom' | MedicalCondition & MedicalEntity & Thing & {
   is: 'MedicalSignOrSymptom'
-possibleTreatment?: MedicalTherapy
+  possibleTreatment?: MedicalTherapy
 }
 
 
@@ -7505,7 +7505,7 @@ export type PhysicalActivityCategory = 'PhysicalActivityCategory' | Enumeration 
  */
 export type Reservation = 'Reservation' | Intangible & Thing & {
   is: 'Reservation'
-bookingTime?: DateTime
+  bookingTime?: DateTime
   priceCurrency?: Text
   modifiedTime?: DateTime
   bookingAgent?: Person | Organization
@@ -7538,7 +7538,7 @@ bookingTime?: DateTime
  */
 export type BroadcastService = 'BroadcastService' | Service & Intangible & Thing & {
   is: 'BroadcastService'
-broadcastFrequency?: BroadcastFrequencySpecification | Text
+  broadcastFrequency?: BroadcastFrequencySpecification | Text
   hasBroadcastChannel?: BroadcastChannel
   parentService?: BroadcastService
   videoFormat?: Text
@@ -7596,7 +7596,7 @@ export type CheckInAction = 'CheckInAction' | CommunicateAction & InteractAction
  */
 export type Substance = 'Substance' | MedicalEntity & Thing & {
   is: 'Substance'
-activeIngredient?: Text
+  activeIngredient?: Text
   maximumIntake?: MaximumDoseSchedule
 }
 
@@ -7611,7 +7611,7 @@ activeIngredient?: Text
  */
 export type ListItem = 'ListItem' | Intangible & Thing & {
   is: 'ListItem'
-item?: Thing
+  item?: Thing
   previousItem?: ListItem
   position?: Text | Integer
   nextItem?: ListItem
@@ -7646,7 +7646,7 @@ export type ApplyAction = 'ApplyAction' | OrganizeAction & Action & Thing & {
  */
 export type Role = 'Role' | Intangible & Thing & {
   is: 'Role'
-namedPosition?: URL | Text
+  namedPosition?: URL | Text
   startDate?: Date | DateTime
   endDate?: DateTime | Date
   roleName?: Text | URL
@@ -7663,7 +7663,7 @@ namedPosition?: URL | Text
  */
 export type ImageObject = 'ImageObject' | MediaObject & CreativeWork & Thing & {
   is: 'ImageObject'
-representativeOfPage?: Boolean
+  representativeOfPage?: Boolean
   exifData?: PropertyValue | Text
   embeddedTextCaption?: Text
   caption?: Text | MediaObject
@@ -7700,7 +7700,7 @@ export type DiagnosticProcedure = 'DiagnosticProcedure' | MedicalProcedure & Med
  */
 export type MedicalDevice = 'MedicalDevice' | MedicalEntity & Thing & {
   is: 'MedicalDevice'
-postOp?: Text
+  postOp?: Text
   preOp?: Text
   procedure?: Text
   contraindication?: MedicalContraindication | Text
@@ -7745,7 +7745,7 @@ export type PoliceStation = 'PoliceStation' | EmergencyService & CivicStructure 
  */
 export type Action = 'Action' | Thing & {
   is: 'Action'
-instrument?: Thing
+  instrument?: Thing
   participant?: Organization | Person
   provider?: Organization | Person
   startTime?: Time | DateTime
@@ -7779,7 +7779,7 @@ export type ShortStory = 'ShortStory' | CreativeWork & Thing & {
  */
 export type MusicAlbum = 'MusicAlbum' | MusicPlaylist & CreativeWork & Thing & {
   is: 'MusicAlbum'
-albumRelease?: MusicRelease
+  albumRelease?: MusicRelease
   albumReleaseType?: MusicAlbumReleaseType
   byArtist?: MusicGroup | Person
   albumProductionType?: MusicAlbumProductionType
@@ -7814,7 +7814,7 @@ export type WearableMeasurementTypeEnumeration = 'WearableMeasurementTypeEnumera
  */
 export type DoseSchedule = 'DoseSchedule' | MedicalIntangible & MedicalEntity & Thing & {
   is: 'DoseSchedule'
-frequency?: Text
+  frequency?: Text
   doseValue?: Number | QualitativeValue
   doseUnit?: Text
   targetPopulation?: Text
@@ -7855,7 +7855,7 @@ export type AudioObjectSnapshot = 'AudioObjectSnapshot' | AudioObject & MediaObj
  */
 export type SocialMediaPosting = 'SocialMediaPosting' | Article & CreativeWork & Thing & {
   is: 'SocialMediaPosting'
-sharedContent?: CreativeWork
+  sharedContent?: CreativeWork
 }
 
 
@@ -7870,7 +7870,7 @@ sharedContent?: CreativeWork
  */
 export type AlignmentObject = 'AlignmentObject' | Intangible & Thing & {
   is: 'AlignmentObject'
-targetName?: Text
+  targetName?: Text
   educationalFramework?: Text
   targetDescription?: Text
   targetUrl?: URL
@@ -7916,7 +7916,7 @@ export type TrainStation = 'TrainStation' | CivicStructure & Place & Thing & {
  */
 export type AnatomicalSystem = 'AnatomicalSystem' | MedicalEntity & Thing & {
   is: 'AnatomicalSystem'
-comprisedOf?: AnatomicalSystem | AnatomicalStructure
+  comprisedOf?: AnatomicalSystem | AnatomicalStructure
   relatedTherapy?: MedicalTherapy
   relatedCondition?: MedicalCondition
   associatedPathophysiology?: Text
@@ -7937,7 +7937,7 @@ comprisedOf?: AnatomicalSystem | AnatomicalStructure
  */
 export type MovieSeries = 'MovieSeries' | CreativeWorkSeries & Series & Intangible & Thing & CreativeWork & Thing & {
   is: 'MovieSeries'
-musicBy?: MusicGroup | Person
+  musicBy?: MusicGroup | Person
   director?: Person
   trailer?: VideoObject
   actor?: Person
@@ -7954,7 +7954,7 @@ musicBy?: MusicGroup | Person
  */
 export type SolveMathAction = 'SolveMathAction' | Action & Thing & {
   is: 'SolveMathAction'
-eduQuestionType?: Text
+  eduQuestionType?: Text
 }
 
 
@@ -7975,7 +7975,7 @@ export type DigitalDocumentPermissionType = 'DigitalDocumentPermissionType' | En
  */
 export type MedicalCode = 'MedicalCode' | MedicalIntangible & CategoryCode & {
   is: 'MedicalCode'
-codeValue?: Text
+  codeValue?: Text
   codingSystem?: Text
 }
 
@@ -7989,7 +7989,7 @@ codeValue?: Text
  */
 export type MusicPlaylist = 'MusicPlaylist' | CreativeWork & Thing & {
   is: 'MusicPlaylist'
-numTracks?: Integer
+  numTracks?: Integer
   tracks?: MusicRecording
   track?: ItemList | MusicRecording
 }
@@ -8040,7 +8040,7 @@ export type AllocateAction = 'AllocateAction' | OrganizeAction & Action & Thing 
  */
 export type Claim = 'Claim' | CreativeWork & Thing & {
   is: 'Claim'
-appearance?: CreativeWork
+  appearance?: CreativeWork
   claimInterpreter?: Person | Organization
   firstAppearance?: CreativeWork
 }
@@ -8097,7 +8097,7 @@ export type SatiricalArticle = 'SatiricalArticle' | Article & CreativeWork & Thi
  */
 export type HealthInsurancePlan = 'HealthInsurancePlan' | Intangible & Thing & {
   is: 'HealthInsurancePlan'
-healthPlanDrugTier?: Text
+  healthPlanDrugTier?: Text
   includesHealthPlanNetwork?: HealthPlanNetwork
   healthPlanId?: Text
   usesHealthPlanIdStandard?: URL | Text
@@ -8118,7 +8118,7 @@ healthPlanDrugTier?: Text
  */
 export type SportsTeam = 'SportsTeam' | SportsOrganization & Organization & Thing & {
   is: 'SportsTeam'
-gender?: Text | GenderType
+  gender?: Text | GenderType
   coach?: Person
   athlete?: Person
 }
@@ -8131,7 +8131,7 @@ gender?: Text | GenderType
  */
 export type ReviewAction = 'ReviewAction' | AssessAction & Action & Thing & {
   is: 'ReviewAction'
-resultReview?: Review
+  resultReview?: Review
 }
 
 
@@ -8149,7 +8149,7 @@ resultReview?: Review
  */
 export type HowToDirection = 'HowToDirection' | CreativeWork & ListItem & {
   is: 'HowToDirection'
-supply?: HowToSupply | Text
+  supply?: HowToSupply | Text
   duringMedia?: URL | MediaObject
   totalTime?: Duration
   afterMedia?: MediaObject | URL
@@ -8189,7 +8189,7 @@ export type FoodEvent = 'FoodEvent' | Event & Thing & {
  */
 export type SuperficialAnatomy = 'SuperficialAnatomy' | MedicalEntity & Thing & {
   is: 'SuperficialAnatomy'
-significance?: Text
+  significance?: Text
   relatedTherapy?: MedicalTherapy
   relatedCondition?: MedicalCondition
   relatedAnatomy?: AnatomicalSystem | AnatomicalStructure
@@ -8220,7 +8220,7 @@ significance?: Text
  */
 export type CDCPMDRecord = 'CDCPMDRecord' | StructuredValue & Intangible & Thing & {
   is: 'CDCPMDRecord'
-cvdNumC19Died?: Number
+  cvdNumC19Died?: Number
   cvdNumVentUse?: Number
   cvdNumC19OFMechVentPats?: Number
   cvdNumC19MechVentPats?: Number
@@ -8257,7 +8257,7 @@ export type MedicalEvidenceLevel = 'MedicalEvidenceLevel' | MedicalEnumeration &
  */
 export type PodcastSeries = 'PodcastSeries' | CreativeWorkSeries & Series & Intangible & Thing & CreativeWork & Thing & {
   is: 'PodcastSeries'
-webFeed?: URL | DataFeed
+  webFeed?: URL | DataFeed
   actor?: Person
 }
 
@@ -8283,7 +8283,7 @@ webFeed?: URL | DataFeed
  */
 export type Flight = 'Flight' | Trip & Intangible & Thing & {
   is: 'Flight'
-departureGate?: Text
+  departureGate?: Text
   mealService?: Text
   estimatedFlightDuration?: Text | Duration
   seller?: Person | Organization
@@ -8318,7 +8318,7 @@ departureGate?: Text
  */
 export type Clip = 'Clip' | CreativeWork & Thing & {
   is: 'Clip'
-musicBy?: MusicGroup | Person
+  musicBy?: MusicGroup | Person
   partOfSeason?: CreativeWorkSeason
   director?: Person
   partOfEpisode?: Episode
@@ -8341,7 +8341,7 @@ musicBy?: MusicGroup | Person
  */
 export type Chapter = 'Chapter' | CreativeWork & Thing & {
   is: 'Chapter'
-pagination?: Text
+  pagination?: Text
   pageStart?: Text | Integer
   pageEnd?: Text | Integer
 }
@@ -8356,7 +8356,7 @@ pagination?: Text
  */
 export type BusinessAudience = 'BusinessAudience' | Audience & Intangible & Thing & {
   is: 'BusinessAudience'
-yearsInOperation?: QuantitativeValue
+  yearsInOperation?: QuantitativeValue
   numberOfEmployees?: QuantitativeValue
   yearlyRevenue?: QuantitativeValue
 }
@@ -8384,7 +8384,7 @@ export type CarUsageType = 'CarUsageType' | Enumeration & Intangible & Thing & {
  */
 export type EntryPoint = 'EntryPoint' | Intangible & Thing & {
   is: 'EntryPoint'
-encodingType?: Text
+  encodingType?: Text
   contentType?: Text
   actionPlatform?: URL | Text | DigitalPlatformEnumeration
   urlTemplate?: Text
@@ -8422,7 +8422,7 @@ export type RegisterAction = 'RegisterAction' | InteractAction & Action & Thing 
  */
 export type BroadcastEvent = 'BroadcastEvent' | PublicationEvent & Event & Thing & {
   is: 'BroadcastEvent'
-videoFormat?: Text
+  videoFormat?: Text
   broadcastOfEvent?: Event
   isLiveBroadcast?: Boolean
   subtitleLanguage?: Language | Text
@@ -8438,7 +8438,7 @@ videoFormat?: Text
  */
 export type Grant = 'Grant' | Intangible & Thing & {
   is: 'Grant'
-sponsor?: Person | Organization
+  sponsor?: Person | Organization
   funder?: Person | Organization
   fundedItem?: Organization | Person | CreativeWork | Product | MedicalEntity | BioChemEntity | Event
 }
@@ -8456,7 +8456,7 @@ sponsor?: Person | Organization
  */
 export type ShippingRateSettings = 'ShippingRateSettings' | StructuredValue & Intangible & Thing & {
   is: 'ShippingRateSettings'
-shippingDestination?: DefinedRegion
+  shippingDestination?: DefinedRegion
   doesNotShip?: Boolean
   freeShippingThreshold?: MonetaryAmount | DeliveryChargeSpecification
   shippingLabel?: Text
@@ -8472,7 +8472,7 @@ shippingDestination?: DefinedRegion
  */
 export type OrderAction = 'OrderAction' | TradeAction & Action & Thing & {
   is: 'OrderAction'
-deliveryMethod?: DeliveryMethod
+  deliveryMethod?: DeliveryMethod
 }
 
 
@@ -8492,7 +8492,7 @@ deliveryMethod?: DeliveryMethod
  */
 export type WebPage = 'WebPage' | CreativeWork & Thing & {
   is: 'WebPage'
-reviewedBy?: Person | Organization
+  reviewedBy?: Person | Organization
   speakable?: SpeakableSpecification | URL
   primaryImageOfPage?: ImageObject
   relatedLink?: URL
@@ -8512,7 +8512,7 @@ reviewedBy?: Person | Organization
  */
 export type IndividualProduct = 'IndividualProduct' | Product & Thing & {
   is: 'IndividualProduct'
-serialNumber?: Text
+  serialNumber?: Text
 }
 
 
@@ -8563,7 +8563,7 @@ export type VacationRental = 'VacationRental' | LodgingBusiness & LocalBusiness 
  */
 export type ComicStory = 'ComicStory' | CreativeWork & Thing & {
   is: 'ComicStory'
-letterer?: Person
+  letterer?: Person
   colorist?: Person
   artist?: Person
   penciler?: Person
@@ -8582,7 +8582,7 @@ letterer?: Person
  */
 export type EngineSpecification = 'EngineSpecification' | StructuredValue & Intangible & Thing & {
   is: 'EngineSpecification'
-enginePower?: QuantitativeValue
+  enginePower?: QuantitativeValue
   engineType?: QualitativeValue | URL | Text
   fuelType?: URL | Text | QualitativeValue
   engineDisplacement?: QuantitativeValue
@@ -8610,7 +8610,7 @@ export type Hackathon = 'Hackathon' | Event & Thing & {
  */
 export type ApartmentComplex = 'ApartmentComplex' | Residence & Place & Thing & {
   is: 'ApartmentComplex'
-numberOfAvailableAccommodationUnits?: QuantitativeValue
+  numberOfAvailableAccommodationUnits?: QuantitativeValue
   petsAllowed?: Boolean | Text
   tourBookingPage?: URL
   numberOfBedrooms?: Number | QuantitativeValue
@@ -8626,7 +8626,7 @@ numberOfAvailableAccommodationUnits?: QuantitativeValue
  */
 export type ConsumeAction = 'ConsumeAction' | Action & Thing & {
   is: 'ConsumeAction'
-actionAccessibilityRequirement?: ActionAccessSpecification
+  actionAccessibilityRequirement?: ActionAccessSpecification
   expectsAcceptanceOf?: Offer
 }
 
@@ -8639,7 +8639,7 @@ actionAccessibilityRequirement?: ActionAccessSpecification
  */
 export type BusOrCoach = 'BusOrCoach' | Vehicle & Product & Thing & {
   is: 'BusOrCoach'
-roofLoad?: QuantitativeValue
+  roofLoad?: QuantitativeValue
   acrissCode?: Text
 }
 
@@ -8666,7 +8666,7 @@ export type PerformingGroup = 'PerformingGroup' | Organization & Thing & {
  */
 export type SoftwareSourceCode = 'SoftwareSourceCode' | CreativeWork & Thing & {
   is: 'SoftwareSourceCode'
-codeSampleType?: Text
+  codeSampleType?: Text
   runtimePlatform?: Text
   targetProduct?: SoftwareApplication
   runtime?: Text
@@ -8684,7 +8684,7 @@ codeSampleType?: Text
  */
 export type CompoundPriceSpecification = 'CompoundPriceSpecification' | PriceSpecification & StructuredValue & Intangible & Thing & {
   is: 'CompoundPriceSpecification'
-priceType?: PriceTypeEnumeration | Text
+  priceType?: PriceTypeEnumeration | Text
   priceComponent?: UnitPriceSpecification
 }
 
@@ -8698,7 +8698,7 @@ priceType?: PriceTypeEnumeration | Text
  */
 export type Joint = 'Joint' | AnatomicalStructure & MedicalEntity & Thing & {
   is: 'Joint'
-structuralClass?: Text
+  structuralClass?: Text
   functionalClass?: Text | MedicalEntity
   biomechnicalClass?: Text
 }
@@ -8718,7 +8718,7 @@ structuralClass?: Text
  */
 export type AnatomicalStructure = 'AnatomicalStructure' | MedicalEntity & Thing & {
   is: 'AnatomicalStructure'
-connectedTo?: AnatomicalStructure
+  connectedTo?: AnatomicalStructure
   bodyLocation?: Text
   diagram?: ImageObject
   relatedTherapy?: MedicalTherapy
@@ -8763,7 +8763,7 @@ export type BusinessFunction = 'BusinessFunction' | Enumeration & Intangible & T
  */
 export type MedicalGuidelineRecommendation = 'MedicalGuidelineRecommendation' | MedicalGuideline & MedicalEntity & Thing & {
   is: 'MedicalGuidelineRecommendation'
-recommendationStrength?: Text
+  recommendationStrength?: Text
 }
 
 
@@ -8790,7 +8790,7 @@ export type MedicalContraindication = 'MedicalContraindication' | MedicalEntity 
  */
 export type Trip = 'Trip' | Intangible & Thing & {
   is: 'Trip'
-departureTime?: Time | DateTime
+  departureTime?: Time | DateTime
   tripOrigin?: Place
   offers?: Demand | Offer
   itinerary?: ItemList | Place
@@ -8880,7 +8880,7 @@ export type Casino = 'Casino' | EntertainmentBusiness & LocalBusiness & Place & 
  */
 export type MobileApplication = 'MobileApplication' | SoftwareApplication & CreativeWork & Thing & {
   is: 'MobileApplication'
-carrierRequirements?: Text
+  carrierRequirements?: Text
 }
 
 
@@ -8894,7 +8894,7 @@ carrierRequirements?: Text
  */
 export type Taxon = 'Taxon' | Thing & {
   is: 'Taxon'
-parentTaxon?: Text | URL | Taxon
+  parentTaxon?: Text | URL | Taxon
   hasDefinedTerm?: DefinedTerm
   childTaxon?: URL | Taxon | Text
   taxonRank?: URL | PropertyValue | Text
@@ -8908,7 +8908,7 @@ parentTaxon?: Text | URL | Taxon
  */
 export type EducationalAudience = 'EducationalAudience' | Audience & Intangible & Thing & {
   is: 'EducationalAudience'
-educationalRole?: Text
+  educationalRole?: Text
 }
 
 
@@ -8948,7 +8948,7 @@ export type Drawing = 'Drawing' | CreativeWork & Thing & {
  */
 export type InfectiousDisease = 'InfectiousDisease' | MedicalCondition & MedicalEntity & Thing & {
   is: 'InfectiousDisease'
-infectiousAgent?: Text
+  infectiousAgent?: Text
   infectiousAgentClass?: InfectiousAgentClass
   transmissionMethod?: Text
 }
@@ -8979,7 +8979,7 @@ export type MediaManipulationRatingEnumeration = 'MediaManipulationRatingEnumera
  */
 export type GiveAction = 'GiveAction' | TransferAction & Action & Thing & {
   is: 'GiveAction'
-recipient?: Person | ContactPoint | Organization | Audience
+  recipient?: Person | ContactPoint | Organization | Audience
 }
 
 
@@ -8991,7 +8991,7 @@ recipient?: Person | ContactPoint | Organization | Audience
  */
 export type SpeakableSpecification = 'SpeakableSpecification' | Intangible & Thing & {
   is: 'SpeakableSpecification'
-xpath?: XPathType
+  xpath?: XPathType
   cssSelector?: CssSelectorType
 }
 
@@ -9003,7 +9003,7 @@ xpath?: XPathType
  */
 export type ImagingTest = 'ImagingTest' | MedicalTest & MedicalEntity & Thing & {
   is: 'ImagingTest'
-imagingTechnique?: MedicalImagingTechnique
+  imagingTechnique?: MedicalImagingTechnique
 }
 
 
@@ -9015,7 +9015,7 @@ imagingTechnique?: MedicalImagingTechnique
  */
 export type MedicalRiskEstimator = 'MedicalRiskEstimator' | MedicalEntity & Thing & {
   is: 'MedicalRiskEstimator'
-includedRiskFactor?: MedicalRiskFactor
+  includedRiskFactor?: MedicalRiskFactor
   estimatesRiskOf?: MedicalEntity
 }
 
@@ -9027,7 +9027,7 @@ includedRiskFactor?: MedicalRiskFactor
  */
 export type DrugClass = 'DrugClass' | MedicalEntity & Thing & {
   is: 'DrugClass'
-drug?: Drug
+  drug?: Drug
 }
 
 
@@ -9075,7 +9075,7 @@ export type ComedyClub = 'ComedyClub' | EntertainmentBusiness & LocalBusiness & 
  */
 export type Movie = 'Movie' | CreativeWork & Thing & {
   is: 'Movie'
-musicBy?: MusicGroup | Person
+  musicBy?: MusicGroup | Person
   director?: Person
   titleEIDR?: Text | URL
   countryOfOrigin?: Country
@@ -9123,7 +9123,7 @@ export type SubscribeAction = 'SubscribeAction' | InteractAction & Action & Thin
  */
 export type Class = 'Class' | Intangible & Thing & {
   is: 'Class'
-supersededBy?: Property | Class | Enumeration
+  supersededBy?: Property | Class | Enumeration
 }
 
 
@@ -9218,7 +9218,7 @@ export type MedicalImagingTechnique = 'MedicalImagingTechnique' | MedicalEnumera
  */
 export type Organization = 'Organization' | Thing & {
   is: 'Organization'
-actionableFeedbackPolicy?: URL | CreativeWork
+  actionableFeedbackPolicy?: URL | CreativeWork
   dissolutionDate?: Date
   funding?: Grant
   reviews?: Review
@@ -9308,7 +9308,7 @@ export type PreventionIndication = 'PreventionIndication' | MedicalIndication & 
  */
 export type Game = 'Game' | CreativeWork & Thing & {
   is: 'Game'
-numberOfPlayers?: QuantitativeValue
+  numberOfPlayers?: QuantitativeValue
   quest?: Thing
   gameItem?: Thing
   characterAttribute?: Thing
@@ -9324,7 +9324,7 @@ numberOfPlayers?: QuantitativeValue
  */
 export type CategoryCode = 'CategoryCode' | DefinedTerm & Intangible & Thing & {
   is: 'CategoryCode'
-codeValue?: Text
+  codeValue?: Text
   inCodeSet?: CategoryCodeSet | URL
 }
 
@@ -9338,7 +9338,7 @@ codeValue?: Text
  */
 export type TherapeuticProcedure = 'TherapeuticProcedure' | MedicalProcedure & MedicalEntity & Thing & {
   is: 'TherapeuticProcedure'
-doseSchedule?: DoseSchedule
+  doseSchedule?: DoseSchedule
   adverseOutcome?: MedicalEntity
   drug?: Drug
 }
@@ -9362,7 +9362,7 @@ export type DepartmentStore = 'DepartmentStore' | Store & LocalBusiness & Place 
  */
 export type EnergyConsumptionDetails = 'EnergyConsumptionDetails' | Intangible & Thing & {
   is: 'EnergyConsumptionDetails'
-energyEfficiencyScaleMax?: EUEnergyEfficiencyEnumeration
+  energyEfficiencyScaleMax?: EUEnergyEfficiencyEnumeration
   hasEnergyEfficiencyCategory?: EnergyEfficiencyEnumeration
   energyEfficiencyScaleMin?: EUEnergyEfficiencyEnumeration
 }
@@ -9488,7 +9488,7 @@ export type OfferForPurchase = 'OfferForPurchase' | Offer & Intangible & Thing &
  */
 export type MusicRecording = 'MusicRecording' | CreativeWork & Thing & {
   is: 'MusicRecording'
-recordingOf?: MusicComposition
+  recordingOf?: MusicComposition
   inPlaylist?: MusicPlaylist
   inAlbum?: MusicAlbum
   duration?: Duration
@@ -9507,7 +9507,7 @@ recordingOf?: MusicComposition
  */
 export type MerchantReturnPolicySeasonalOverride = 'MerchantReturnPolicySeasonalOverride' | Intangible & Thing & {
   is: 'MerchantReturnPolicySeasonalOverride'
-merchantReturnDays?: DateTime | Date | Integer
+  merchantReturnDays?: DateTime | Date | Integer
   startDate?: Date | DateTime
   returnPolicyCategory?: MerchantReturnEnumeration
   endDate?: DateTime | Date
@@ -9527,7 +9527,7 @@ merchantReturnDays?: DateTime | Date | Integer
  */
 export type ActionAccessSpecification = 'ActionAccessSpecification' | Intangible & Thing & {
   is: 'ActionAccessSpecification'
-eligibleRegion?: Place | Text | GeoShape
+  eligibleRegion?: Place | Text | GeoShape
   availabilityEnds?: Time | Date | DateTime
   category?: Text | PhysicalActivityCategory | URL | CategoryCode | Thing
   availabilityStarts?: DateTime | Time | Date
@@ -9544,7 +9544,7 @@ eligibleRegion?: Place | Text | GeoShape
  */
 export type HealthTopicContent = 'HealthTopicContent' | WebContent & CreativeWork & Thing & {
   is: 'HealthTopicContent'
-hasHealthAspect?: HealthAspectEnumeration
+  hasHealthAspect?: HealthAspectEnumeration
 }
 
 
@@ -9568,7 +9568,7 @@ export type Preschool = 'Preschool' | EducationalOrganization & Organization & T
  */
 export type MedicalTest = 'MedicalTest' | MedicalEntity & Thing & {
   is: 'MedicalTest'
-signDetected?: MedicalSign
+  signDetected?: MedicalSign
   normalRange?: MedicalEnumeration | Text
   usesDevice?: MedicalDevice
   usedToDiagnose?: MedicalCondition
@@ -9586,7 +9586,7 @@ signDetected?: MedicalSign
  */
 export type PhysicalActivity = 'PhysicalActivity' | LifestyleModification & MedicalEntity & Thing & {
   is: 'PhysicalActivity'
-category?: Text | PhysicalActivityCategory | URL | CategoryCode | Thing
+  category?: Text | PhysicalActivityCategory | URL | CategoryCode | Thing
   associatedAnatomy?: AnatomicalSystem | SuperficialAnatomy | AnatomicalStructure
   pathophysiology?: Text
   epidemiology?: Text
@@ -9604,7 +9604,7 @@ category?: Text | PhysicalActivityCategory | URL | CategoryCode | Thing
  */
 export type LocalBusiness = 'LocalBusiness' | Place & Organization & {
   is: 'LocalBusiness'
-currenciesAccepted?: Text
+  currenciesAccepted?: Text
   branchOf?: Organization
   priceRange?: Text
   openingHours?: Text
@@ -9632,7 +9632,7 @@ export type SpreadsheetDigitalDocument = 'SpreadsheetDigitalDocument' | DigitalD
  */
 export type FoodEstablishment = 'FoodEstablishment' | LocalBusiness & Place & Thing & Organization & Thing & {
   is: 'FoodEstablishment'
-starRating?: Rating
+  starRating?: Rating
   servesCuisine?: Text
   menu?: Menu | Text | URL
   acceptsReservations?: Boolean | Text | URL
@@ -9647,7 +9647,7 @@ starRating?: Rating
  */
 export type CommentAction = 'CommentAction' | CommunicateAction & InteractAction & Action & Thing & {
   is: 'CommentAction'
-resultComment?: Comment
+  resultComment?: Comment
 }
 
 
@@ -9676,7 +9676,7 @@ export type SearchResultsPage = 'SearchResultsPage' | WebPage & CreativeWork & T
  */
 export type EndorseAction = 'EndorseAction' | ReactAction & AssessAction & Action & Thing & {
   is: 'EndorseAction'
-endorsee?: Person | Organization
+  endorsee?: Person | Organization
 }
 
 
@@ -9687,7 +9687,7 @@ endorsee?: Person | Organization
  */
 export type LoseAction = 'LoseAction' | AchieveAction & Action & Thing & {
   is: 'LoseAction'
-winner?: Person
+  winner?: Person
 }
 
 
@@ -9707,7 +9707,7 @@ export type Vessel = 'Vessel' | AnatomicalStructure & MedicalEntity & Thing & {
  */
 export type InviteAction = 'InviteAction' | CommunicateAction & InteractAction & Action & Thing & {
   is: 'InviteAction'
-event?: Event
+  event?: Event
 }
 
 
@@ -9767,7 +9767,7 @@ export type MovingCompany = 'MovingCompany' | HomeAndConstructionBusiness & Loca
  */
 export type Diet = 'Diet' | CreativeWork & LifestyleModification & {
   is: 'Diet'
-expertConsiderations?: Text
+  expertConsiderations?: Text
   risks?: Text
   dietFeatures?: Text
   endorsers?: Person | Organization
@@ -9796,7 +9796,7 @@ export type InvestmentFund = 'InvestmentFund' | InvestmentOrDeposit & FinancialP
  */
 export type PostalAddress = 'PostalAddress' | ContactPoint & StructuredValue & Intangible & Thing & {
   is: 'PostalAddress'
-addressCountry?: Text | Country
+  addressCountry?: Text | Country
   postOfficeBoxNumber?: Text
   streetAddress?: Text
   addressRegion?: Text
@@ -9823,7 +9823,7 @@ export type CableOrSatelliteService = 'CableOrSatelliteService' | Service & Inta
  */
 export type LymphaticVessel = 'LymphaticVessel' | Vessel & AnatomicalStructure & MedicalEntity & Thing & {
   is: 'LymphaticVessel'
-runsTo?: Vessel
+  runsTo?: Vessel
   regionDrained?: AnatomicalSystem | AnatomicalStructure
   originatesFrom?: Vessel
 }
@@ -9838,7 +9838,7 @@ runsTo?: Vessel
  */
 export type FinancialProduct = 'FinancialProduct' | Service & Intangible & Thing & {
   is: 'FinancialProduct'
-annualPercentageRate?: Number | QuantitativeValue
+  annualPercentageRate?: Number | QuantitativeValue
   feesAndCommissionsSpecification?: Text | URL
   interestRate?: QuantitativeValue | Number
 }
@@ -9851,7 +9851,7 @@ annualPercentageRate?: Number | QuantitativeValue
  */
 export type Thesis = 'Thesis' | CreativeWork & Thing & {
   is: 'Thesis'
-inSupportOf?: Text
+  inSupportOf?: Text
 }
 
 
@@ -9864,7 +9864,7 @@ inSupportOf?: Text
  */
 export type GameServer = 'GameServer' | Intangible & Thing & {
   is: 'GameServer'
-serverStatus?: GameServerStatus
+  serverStatus?: GameServerStatus
   game?: VideoGame
   playersOnline?: Integer
 }
@@ -9934,7 +9934,7 @@ export type DeactivateAction = 'DeactivateAction' | ControlAction & Action & Thi
  */
 export type CommunicateAction = 'CommunicateAction' | InteractAction & Action & Thing & {
   is: 'CommunicateAction'
-about?: Thing
+  about?: Thing
   inLanguage?: Text | Language
   language?: Language
   recipient?: Person | ContactPoint | Organization | Audience
@@ -9950,7 +9950,7 @@ about?: Thing
  */
 export type ChemicalSubstance = 'ChemicalSubstance' | BioChemEntity & Thing & {
   is: 'ChemicalSubstance'
-potentialUse?: DefinedTerm
+  potentialUse?: DefinedTerm
   chemicalRole?: DefinedTerm
   chemicalComposition?: Text
 }
@@ -10002,7 +10002,7 @@ export type RadioClip = 'RadioClip' | Clip & CreativeWork & Thing & {
  */
 export type VideoGameSeries = 'VideoGameSeries' | CreativeWorkSeries & Series & Intangible & Thing & CreativeWork & Thing & {
   is: 'VideoGameSeries'
-musicBy?: MusicGroup | Person
+  musicBy?: MusicGroup | Person
   director?: Person
   numberOfPlayers?: QuantitativeValue
   quest?: Thing
@@ -10055,7 +10055,7 @@ export type Room = 'Room' | Accommodation & Place & Thing & {
  */
 export type SpecialAnnouncement = 'SpecialAnnouncement' | CreativeWork & Thing & {
   is: 'SpecialAnnouncement'
-publicTransportClosuresInfo?: URL | WebContent
+  publicTransportClosuresInfo?: URL | WebContent
   announcementLocation?: CivicStructure | LocalBusiness
   schoolClosuresInfo?: WebContent | URL
   category?: Text | PhysicalActivityCategory | URL | CategoryCode | Thing
@@ -10082,7 +10082,7 @@ publicTransportClosuresInfo?: URL | WebContent
  */
 export type NewsArticle = 'NewsArticle' | Article & CreativeWork & Thing & {
   is: 'NewsArticle'
-printColumn?: Text
+  printColumn?: Text
   dateline?: Text
   printPage?: Text
   printEdition?: Text
@@ -10118,7 +10118,7 @@ export type Statement = 'Statement' | CreativeWork & Thing & {
  */
 export type VisualArtwork = 'VisualArtwork' | CreativeWork & Thing & {
   is: 'VisualArtwork'
-letterer?: Person
+  letterer?: Person
   colorist?: Person
   artEdition?: Text | Integer
   artist?: Person
@@ -10187,7 +10187,7 @@ export type Motorcycle = 'Motorcycle' | Vehicle & Product & Thing & {
  */
 export type BoatTrip = 'BoatTrip' | Trip & Intangible & Thing & {
   is: 'BoatTrip'
-departureBoatTerminal?: BoatTerminal
+  departureBoatTerminal?: BoatTerminal
   arrivalBoatTerminal?: BoatTerminal
 }
 
@@ -10202,7 +10202,7 @@ departureBoatTerminal?: BoatTerminal
  */
 export type DatedMoneySpecification = 'DatedMoneySpecification' | StructuredValue & Intangible & Thing & {
   is: 'DatedMoneySpecification'
-currency?: Text
+  currency?: Text
   startDate?: Date | DateTime
   endDate?: DateTime | Date
   amount?: MonetaryAmount | Number
@@ -10234,7 +10234,7 @@ export type Brewery = 'Brewery' | FoodEstablishment & LocalBusiness & Place & Th
  */
 export type Recipe = 'Recipe' | HowTo & CreativeWork & Thing & {
   is: 'Recipe'
-suitableForDiet?: RestrictedDiet
+  suitableForDiet?: RestrictedDiet
   cookTime?: Duration
   recipeInstructions?: CreativeWork | ItemList | Text
   recipeIngredient?: Text
@@ -10260,7 +10260,7 @@ suitableForDiet?: RestrictedDiet
  */
 export type LearningResource = 'LearningResource' | CreativeWork & Thing & {
   is: 'LearningResource'
-teaches?: Text | DefinedTerm
+  teaches?: Text | DefinedTerm
   educationalUse?: Text | DefinedTerm
   assesses?: Text | DefinedTerm
   learningResourceType?: Text | DefinedTerm
@@ -10279,7 +10279,7 @@ teaches?: Text | DefinedTerm
  */
 export type Hospital = 'Hospital' | MedicalOrganization & EmergencyService & CivicStructure & {
   is: 'Hospital'
-medicalSpecialty?: MedicalSpecialty
+  medicalSpecialty?: MedicalSpecialty
   healthcareReportingData?: CDCPMDRecord | Dataset
   availableService?: MedicalTherapy | MedicalProcedure | MedicalTest
 }
@@ -10294,7 +10294,7 @@ medicalSpecialty?: MedicalSpecialty
  */
 export type MedicalTherapy = 'MedicalTherapy' | TherapeuticProcedure & MedicalProcedure & MedicalEntity & Thing & {
   is: 'MedicalTherapy'
-contraindication?: MedicalContraindication | Text
+  contraindication?: MedicalContraindication | Text
   duplicateTherapy?: MedicalTherapy
   seriousAdverseOutcome?: MedicalEntity
 }
@@ -10322,7 +10322,7 @@ export type BookSeries = 'BookSeries' | CreativeWorkSeries & Series & Intangible
  */
 export type StatisticalVariable = 'StatisticalVariable' | ConstraintNode & Intangible & Thing & {
   is: 'StatisticalVariable'
-measurementQualifier?: Enumeration
+  measurementQualifier?: Enumeration
   measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
   statType?: URL | Property | Text
   measurementTechnique?: URL | MeasurementMethodEnum | Text | DefinedTerm
@@ -10342,7 +10342,7 @@ measurementQualifier?: Enumeration
  */
 export type MedicalGuideline = 'MedicalGuideline' | MedicalEntity & Thing & {
   is: 'MedicalGuideline'
-evidenceLevel?: MedicalEvidenceLevel
+  evidenceLevel?: MedicalEvidenceLevel
   guidelineSubject?: MedicalEntity
   guidelineDate?: Date
   evidenceOrigin?: Text
@@ -10357,7 +10357,7 @@ evidenceLevel?: MedicalEvidenceLevel
  */
 export type WriteAction = 'WriteAction' | CreateAction & Action & Thing & {
   is: 'WriteAction'
-inLanguage?: Text | Language
+  inLanguage?: Text | Language
   language?: Language
 }
 
@@ -10396,7 +10396,7 @@ export type PlaceOfWorship = 'PlaceOfWorship' | CivicStructure & Place & Thing &
  */
 export type SeekToAction = 'SeekToAction' | Action & Thing & {
   is: 'SeekToAction'
-startOffset?: HyperTocEntry | Number
+  startOffset?: HyperTocEntry | Number
 }
 
 
@@ -10412,7 +10412,7 @@ startOffset?: HyperTocEntry | Number
  */
 export type DrugCost = 'DrugCost' | MedicalEntity & Thing & {
   is: 'DrugCost'
-costPerUnit?: Number | Text | QualitativeValue
+  costPerUnit?: Number | Text | QualitativeValue
   drugUnit?: Text
   applicableLocation?: AdministrativeArea
   costCurrency?: Text
@@ -10462,7 +10462,7 @@ export type IgnoreAction = 'IgnoreAction' | AssessAction & Action & Thing & {
  */
 export type Accommodation = 'Accommodation' | Place & Thing & {
   is: 'Accommodation'
-leaseLength?: Duration | QuantitativeValue
+  leaseLength?: Duration | QuantitativeValue
   bed?: Text | BedType | BedDetails
   yearBuilt?: Number
   floorSize?: QuantitativeValue
@@ -10525,7 +10525,7 @@ export type JewelryStore = 'JewelryStore' | Store & LocalBusiness & Place & Thin
  */
 export type VoteAction = 'VoteAction' | ChooseAction & AssessAction & Action & Thing & {
   is: 'VoteAction'
-candidate?: Person
+  candidate?: Person
 }
 
 
@@ -10536,7 +10536,7 @@ candidate?: Person
  */
 export type FollowAction = 'FollowAction' | InteractAction & Action & Thing & {
   is: 'FollowAction'
-followee?: Organization | Person
+  followee?: Organization | Person
 }
 
 
@@ -10621,7 +10621,7 @@ export type RoofingContractor = 'RoofingContractor' | HomeAndConstructionBusines
  */
 export type Physician = 'Physician' | MedicalBusiness & MedicalOrganization & {
   is: 'Physician'
-medicalSpecialty?: MedicalSpecialty
+  medicalSpecialty?: MedicalSpecialty
   hospitalAffiliation?: Hospital
   availableService?: MedicalTherapy | MedicalProcedure | MedicalTest
 }
@@ -10687,7 +10687,7 @@ export type ReturnLabelSourceEnumeration = 'ReturnLabelSourceEnumeration' | Enum
  */
 export type Dataset = 'Dataset' | CreativeWork & Thing & {
   is: 'Dataset'
-measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
+  measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
   includedDataCatalog?: DataCatalog
   catalog?: DataCatalog
   distribution?: DataDownload
@@ -10711,7 +10711,7 @@ measurementMethod?: Text | DefinedTerm | MeasurementMethodEnum | URL
  */
 export type QuantitativeValueDistribution = 'QuantitativeValueDistribution' | StructuredValue & Intangible & Thing & {
   is: 'QuantitativeValueDistribution'
-median?: Number
+  median?: Number
   percentile25?: Number
   percentile10?: Number
   percentile75?: Number
@@ -10740,7 +10740,7 @@ export type SearchRescueOrganization = 'SearchRescueOrganization' | Organization
  */
 export type Question = 'Question' | Comment & CreativeWork & Thing & {
   is: 'Question'
-answerCount?: Integer
+  answerCount?: Integer
   eduQuestionType?: Text
   acceptedAnswer?: Answer | ItemList
   suggestedAnswer?: ItemList | Answer
@@ -10764,7 +10764,7 @@ export type ElementarySchool = 'ElementarySchool' | EducationalOrganization & Or
  */
 export type MedicalTestPanel = 'MedicalTestPanel' | MedicalTest & MedicalEntity & Thing & {
   is: 'MedicalTestPanel'
-subTest?: MedicalTest
+  subTest?: MedicalTest
 }
 
 
@@ -10776,7 +10776,7 @@ subTest?: MedicalTest
  */
 export type Airline = 'Airline' | Organization & Thing & {
   is: 'Airline'
-iataCode?: Text
+  iataCode?: Text
   boardingPolicy?: BoardingPolicyType
 }
 
@@ -10832,7 +10832,7 @@ iataCode?: Text
  */
 export type Place = 'Place' | Thing & {
   is: 'Place'
-geoCoveredBy?: GeospatialGeometry | Place
+  geoCoveredBy?: GeospatialGeometry | Place
   geoContains?: Place | GeospatialGeometry
   photos?: Photograph | ImageObject
   reviews?: Review
@@ -10920,7 +10920,7 @@ geoCoveredBy?: GeospatialGeometry | Place
  */
 export type Demand = 'Demand' | Intangible & Thing & {
   is: 'Demand'
-eligibleCustomerType?: BusinessEntityType
+  eligibleCustomerType?: BusinessEntityType
   eligibleDuration?: QuantitativeValue
   eligibleRegion?: Place | Text | GeoShape
   gtin12?: Text
@@ -10966,7 +10966,7 @@ eligibleCustomerType?: BusinessEntityType
  */
 export type LocationFeatureSpecification = 'LocationFeatureSpecification' | PropertyValue & StructuredValue & Intangible & Thing & {
   is: 'LocationFeatureSpecification'
-validFrom?: DateTime | Date
+  validFrom?: DateTime | Date
   hoursAvailable?: OpeningHoursSpecification
   validThrough?: DateTime | Date
 }
@@ -10979,7 +10979,7 @@ validFrom?: DateTime | Date
  */
 export type FinancialService = 'FinancialService' | LocalBusiness & Place & Thing & Organization & Thing & {
   is: 'FinancialService'
-feesAndCommissionsSpecification?: Text | URL
+  feesAndCommissionsSpecification?: Text | URL
 }
 
 
@@ -11002,7 +11002,7 @@ export type HomeAndConstructionBusiness = 'HomeAndConstructionBusiness' | LocalB
  */
 export type PaymentCard = 'PaymentCard' | PaymentMethod & FinancialProduct & {
   is: 'PaymentCard'
-floorLimit?: MonetaryAmount
+  floorLimit?: MonetaryAmount
   monthlyMinimumRepaymentAmount?: Number | MonetaryAmount
   cashBack?: Number | Boolean
   contactlessPayment?: Boolean
@@ -11027,7 +11027,7 @@ export type LandmarksOrHistoricalBuildings = 'LandmarksOrHistoricalBuildings' | 
  */
 export type ItemList = 'ItemList' | Intangible & Thing & {
   is: 'ItemList'
-numberOfItems?: Integer
+  numberOfItems?: Integer
   itemListElement?: Text | ListItem | Thing
   itemListOrder?: ItemListOrderType | Text
 }
@@ -11043,7 +11043,7 @@ numberOfItems?: Integer
  */
 export type CourseInstance = 'CourseInstance' | Event & Thing & {
   is: 'CourseInstance'
-courseMode?: Text | URL
+  courseMode?: Text | URL
   courseSchedule?: Schedule
   courseWorkload?: Text
   instructor?: Person
@@ -11076,7 +11076,7 @@ export type ComicSeries = 'ComicSeries' | Periodical & CreativeWorkSeries & Seri
  */
 export type Audiobook = 'Audiobook' | Book & AudioObject & {
   is: 'Audiobook'
-readBy?: Person
+  readBy?: Person
   duration?: Duration
 }
 
@@ -11097,7 +11097,7 @@ export type BusinessEvent = 'BusinessEvent' | Event & Thing & {
  */
 export type OrganizationRole = 'OrganizationRole' | Role & Intangible & Thing & {
   is: 'OrganizationRole'
-numberedPosition?: Number
+  numberedPosition?: Number
 }
 
 
@@ -11108,7 +11108,7 @@ numberedPosition?: Number
  */
 export type MediaReviewItem = 'MediaReviewItem' | CreativeWork & Thing & {
   is: 'MediaReviewItem'
-mediaItemAppearance?: MediaObject
+  mediaItemAppearance?: MediaObject
 }
 
 
@@ -11120,7 +11120,7 @@ mediaItemAppearance?: MediaObject
  */
 export type ChooseAction = 'ChooseAction' | AssessAction & Action & Thing & {
   is: 'ChooseAction'
-option?: Text | Thing
+  option?: Text | Thing
   actionOption?: Thing | Text
 }
 
@@ -11160,7 +11160,7 @@ export type HealthAndBeautyBusiness = 'HealthAndBeautyBusiness' | LocalBusiness 
  */
 export type PlayAction = 'PlayAction' | Action & Thing & {
   is: 'PlayAction'
-event?: Event
+  event?: Event
   audience?: Audience
 }
 
@@ -11182,7 +11182,7 @@ export type EmployerAggregateRating = 'EmployerAggregateRating' | AggregateRatin
  */
 export type ReplaceAction = 'ReplaceAction' | UpdateAction & Action & Thing & {
   is: 'ReplaceAction'
-replacee?: Thing
+  replacee?: Thing
   replacer?: Thing
 }
 
@@ -11203,7 +11203,7 @@ export type MedicalIntangible = 'MedicalIntangible' | MedicalEntity & Thing & {
  */
 export type ProductCollection = 'ProductCollection' | Collection & Product & {
   is: 'ProductCollection'
-includesObject?: TypeAndQuantityNode
+  includesObject?: TypeAndQuantityNode
 }
 
 
@@ -11243,7 +11243,7 @@ export type HighSchool = 'HighSchool' | EducationalOrganization & Organization &
  */
 export type ScreeningEvent = 'ScreeningEvent' | Event & Thing & {
   is: 'ScreeningEvent'
-videoFormat?: Text
+  videoFormat?: Text
   subtitleLanguage?: Language | Text
   workPresented?: Movie
 }
@@ -11258,7 +11258,7 @@ videoFormat?: Text
  */
 export type ExchangeRateSpecification = 'ExchangeRateSpecification' | StructuredValue & Intangible & Thing & {
   is: 'ExchangeRateSpecification'
-exchangeRateSpread?: Number | MonetaryAmount
+  exchangeRateSpread?: Number | MonetaryAmount
   currentExchangeRate?: UnitPriceSpecification
   currency?: Text
 }
@@ -11273,7 +11273,7 @@ exchangeRateSpread?: Number | MonetaryAmount
  */
 export type EducationEvent = 'EducationEvent' | Event & Thing & {
   is: 'EducationEvent'
-teaches?: Text | DefinedTerm
+  teaches?: Text | DefinedTerm
   assesses?: Text | DefinedTerm
   educationalLevel?: URL | Text | DefinedTerm
 }
@@ -11295,7 +11295,7 @@ export type Energy = 'Energy' | Quantity & Intangible & Thing & {
  */
 export type WebAPI = 'WebAPI' | Service & Intangible & Thing & {
   is: 'WebAPI'
-documentation?: URL | CreativeWork
+  documentation?: URL | CreativeWork
 }
 
 
@@ -11318,7 +11318,7 @@ export type TireShop = 'TireShop' | Store & LocalBusiness & Place & Thing & Orga
  */
 export type Seat = 'Seat' | Intangible & Thing & {
   is: 'Seat'
-seatingType?: QualitativeValue | Text
+  seatingType?: QualitativeValue | Text
   seatNumber?: Text
   seatSection?: Text
   seatRow?: Text
@@ -11342,7 +11342,7 @@ export type ItemPage = 'ItemPage' | WebPage & CreativeWork & Thing & {
  */
 export type Menu = 'Menu' | CreativeWork & Thing & {
   is: 'Menu'
-hasMenuSection?: MenuSection
+  hasMenuSection?: MenuSection
   hasMenuItem?: MenuItem
 }
 
@@ -11354,7 +11354,7 @@ hasMenuSection?: MenuSection
  */
 export type SportsOrganization = 'SportsOrganization' | Organization & Thing & {
   is: 'SportsOrganization'
-sport?: URL | Text
+  sport?: URL | Text
 }
 
 
@@ -11385,7 +11385,7 @@ export type AutoDealer = 'AutoDealer' | AutomotiveBusiness & LocalBusiness & Pla
  */
 export type PublicationEvent = 'PublicationEvent' | Event & Thing & {
   is: 'PublicationEvent'
-publishedOn?: BroadcastService
+  publishedOn?: BroadcastService
   free?: Boolean
   publishedBy?: Organization | Person
 }
@@ -11398,7 +11398,7 @@ publishedOn?: BroadcastService
  */
 export type Recommendation = 'Recommendation' | Review & CreativeWork & Thing & {
   is: 'Recommendation'
-category?: Text | PhysicalActivityCategory | URL | CategoryCode | Thing
+  category?: Text | PhysicalActivityCategory | URL | CategoryCode | Thing
 }
 
 
@@ -11421,7 +11421,7 @@ export type CollectionPage = 'CollectionPage' | WebPage & CreativeWork & Thing &
  */
 export type SportsEvent = 'SportsEvent' | Event & Thing & {
   is: 'SportsEvent'
-homeTeam?: SportsTeam | Person
+  homeTeam?: SportsTeam | Person
   sport?: URL | Text
   competitor?: Person | SportsTeam
   awayTeam?: Person | SportsTeam
@@ -11443,7 +11443,7 @@ homeTeam?: SportsTeam | Person
  */
 export type HowTo = 'HowTo' | CreativeWork & Thing & {
   is: 'HowTo'
-supply?: HowToSupply | Text
+  supply?: HowToSupply | Text
   steps?: ItemList | CreativeWork | Text
   totalTime?: Duration
   tool?: HowToTool | Text
@@ -11482,7 +11482,7 @@ export type URL = 'URL' | Text & {
  */
 export type CookAction = 'CookAction' | CreateAction & Action & Thing & {
   is: 'CookAction'
-recipe?: Recipe
+  recipe?: Recipe
   foodEstablishment?: Place | FoodEstablishment
   foodEvent?: FoodEvent
 }
@@ -11540,7 +11540,7 @@ export type Quiz = 'Quiz' | LearningResource & CreativeWork & Thing & {
  */
 export type JobPosting = 'JobPosting' | Intangible & Thing & {
   is: 'JobPosting'
-employmentUnit?: Organization
+  employmentUnit?: Organization
   occupationalCategory?: CategoryCode | Text
   physicalRequirement?: Text | DefinedTerm | URL
   experienceInPlaceOfEducation?: Boolean
@@ -11597,7 +11597,7 @@ export type BedType = 'BedType' | QualitativeValue & Enumeration & Intangible & 
  */
 export type ArchiveComponent = 'ArchiveComponent' | CreativeWork & Thing & {
   is: 'ArchiveComponent'
-itemLocation?: Text | PostalAddress | Place
+  itemLocation?: Text | PostalAddress | Place
   holdingArchive?: ArchiveOrganization
 }
 
@@ -11613,7 +11613,7 @@ itemLocation?: Text | PostalAddress | Place
  */
 export type Muscle = 'Muscle' | AnatomicalStructure & MedicalEntity & Thing & {
   is: 'Muscle'
-antagonist?: Muscle
+  antagonist?: Muscle
   nerve?: Nerve
   muscleAction?: Text
   bloodSupply?: Vessel
@@ -11631,7 +11631,7 @@ antagonist?: Muscle
  */
 export type MenuItem = 'MenuItem' | Intangible & Thing & {
   is: 'MenuItem'
-suitableForDiet?: RestrictedDiet
+  suitableForDiet?: RestrictedDiet
   offers?: Demand | Offer
   menuAddOn?: MenuItem | MenuSection
   nutrition?: NutritionInformation
@@ -11645,7 +11645,7 @@ suitableForDiet?: RestrictedDiet
  */
 export type MedicalRiskFactor = 'MedicalRiskFactor' | MedicalEntity & Thing & {
   is: 'MedicalRiskFactor'
-increasesRiskOf?: MedicalEntity
+  increasesRiskOf?: MedicalEntity
 }
 
 
@@ -11664,7 +11664,7 @@ increasesRiskOf?: MedicalEntity
  */
 export type Review = 'Review' | CreativeWork & Thing & {
   is: 'Review'
-itemReviewed?: Thing
+  itemReviewed?: Thing
   associatedClaimReview?: Review
   positiveNotes?: WebContent | ItemList | Text | ListItem
   reviewAspect?: Text
@@ -11704,7 +11704,7 @@ export type AutoRental = 'AutoRental' | AutomotiveBusiness & LocalBusiness & Pla
  */
 export type ExerciseAction = 'ExerciseAction' | PlayAction & Action & Thing & {
   is: 'ExerciseAction'
-sportsTeam?: SportsTeam
+  sportsTeam?: SportsTeam
   toLocation?: Place
   opponent?: Person
   sportsActivityLocation?: SportsActivityLocation
@@ -11748,7 +11748,7 @@ export type Sculpture = 'Sculpture' | CreativeWork & Thing & {
  */
 export type BioChemEntity = 'BioChemEntity' | Thing & {
   is: 'BioChemEntity'
-funding?: Grant
+  funding?: Grant
   isLocatedInSubcellularLocation?: DefinedTerm | URL | PropertyValue
   associatedDisease?: PropertyValue | URL | MedicalCondition
   hasBioChemEntityPart?: BioChemEntity
@@ -11774,7 +11774,7 @@ funding?: Grant
  */
 export type ShippingDeliveryTime = 'ShippingDeliveryTime' | StructuredValue & Intangible & Thing & {
   is: 'ShippingDeliveryTime'
-businessDays?: OpeningHoursSpecification
+  businessDays?: OpeningHoursSpecification
   cutoffTime?: Time
   handlingTime?: QuantitativeValue
   transitTime?: QuantitativeValue
@@ -11797,7 +11797,7 @@ export type SelfStorage = 'SelfStorage' | LocalBusiness & Place & Thing & Organi
  */
 export type MathSolver = 'MathSolver' | CreativeWork & Thing & {
   is: 'MathSolver'
-mathExpression?: SolveMathAction | Text
+  mathExpression?: SolveMathAction | Text
 }
 
 
@@ -11837,7 +11837,7 @@ export type DriveWheelConfigurationValue = 'DriveWheelConfigurationValue' | Qual
  */
 export type MerchantReturnPolicy = 'MerchantReturnPolicy' | Intangible & Thing & {
   is: 'MerchantReturnPolicy'
-customerRemorseReturnLabelSource?: ReturnLabelSourceEnumeration
+  customerRemorseReturnLabelSource?: ReturnLabelSourceEnumeration
   inStoreReturnsOffered?: Boolean
   restockingFee?: MonetaryAmount | Number
   refundType?: RefundTypeEnumeration
@@ -11940,7 +11940,7 @@ export type ChildCare = 'ChildCare' | LocalBusiness & Place & Thing & Organizati
  */
 export type MusicComposition = 'MusicComposition' | CreativeWork & Thing & {
   is: 'MusicComposition'
-lyricist?: Person
+  lyricist?: Person
   recordedAs?: MusicRecording
   musicalKey?: Text
   firstPerformance?: Event
@@ -12081,7 +12081,7 @@ export type DrawAction = 'DrawAction' | CreateAction & Action & Thing & {
  */
 export type CreativeWork = 'CreativeWork' | Thing & {
   is: 'CreativeWork'
-archivedAt?: WebPage | URL
+  archivedAt?: WebPage | URL
   fileFormat?: URL | Text
   pattern?: Text | DefinedTerm
   audio?: Clip | AudioObject | MusicRecording
@@ -12207,7 +12207,7 @@ archivedAt?: WebPage | URL
  */
 export type FlightReservation = 'FlightReservation' | Reservation & Intangible & Thing & {
   is: 'FlightReservation'
-securityScreening?: Text
+  securityScreening?: Text
   passengerPriorityStatus?: QualitativeValue | Text
   passengerSequenceNumber?: Text
   boardingGroup?: Text
@@ -12230,7 +12230,7 @@ export type MiddleSchool = 'MiddleSchool' | EducationalOrganization & Organizati
  */
 export type EducationalOrganization = 'EducationalOrganization' | Organization & CivicStructure & {
   is: 'EducationalOrganization'
-alumni?: Person
+  alumni?: Person
 }
 
 
@@ -12259,7 +12259,7 @@ export type Park = 'Park' | CivicStructure & Place & Thing & {
  */
 export type House = 'House' | Accommodation & Place & Thing & {
   is: 'House'
-numberOfRooms?: QuantitativeValue | Number
+  numberOfRooms?: QuantitativeValue | Number
 }
 
 
@@ -12290,7 +12290,7 @@ export type FindAction = 'FindAction' | Action & Thing & {
  */
 export type FloorPlan = 'FloorPlan' | Intangible & Thing & {
   is: 'FloorPlan'
-layoutImage?: ImageObject | URL
+  layoutImage?: ImageObject | URL
   floorSize?: QuantitativeValue
   numberOfAvailableAccommodationUnits?: QuantitativeValue
   isPlanForApartment?: Accommodation
@@ -12340,7 +12340,7 @@ export type ChildrensEvent = 'ChildrensEvent' | Event & Thing & {
  */
 export type MediaObject = 'MediaObject' | CreativeWork & Thing & {
   is: 'MediaObject'
-uploadDate?: Date | DateTime
+  uploadDate?: Date | DateTime
   sha256?: Text
   playerType?: Text
   bitrate?: Text
@@ -12395,7 +12395,7 @@ export type AchieveAction = 'AchieveAction' | Action & Thing & {
  */
 export type QualitativeValue = 'QualitativeValue' | Enumeration & Intangible & Thing & {
   is: 'QualitativeValue'
-greater?: QualitativeValue
+  greater?: QualitativeValue
   greaterOrEqual?: QualitativeValue
   lesser?: QualitativeValue
   lesserOrEqual?: QualitativeValue
@@ -12423,7 +12423,7 @@ export type VisualArtsEvent = 'VisualArtsEvent' | Event & Thing & {
  */
 export type Apartment = 'Apartment' | Accommodation & Place & Thing & {
   is: 'Apartment'
-occupancy?: QuantitativeValue
+  occupancy?: QuantitativeValue
   numberOfRooms?: QuantitativeValue | Number
 }
 
@@ -12435,6 +12435,6 @@ occupancy?: QuantitativeValue
  */
 export type ThreeDimensionalModel = 'ThreeDimensionalModel' | MediaObject & CreativeWork & Thing & {
   is: 'ThreeDimensionalModel'
-isResizable?: Boolean
+  isResizable?: Boolean
 }
 

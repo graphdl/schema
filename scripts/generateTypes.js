@@ -40,7 +40,7 @@ export type Actions = '${Object.keys(actions).sort().join(`' | '`)}'
  * ${comment}${propertiesComments.length > 0 ? '\n' + propertiesComments.join('\n') : ''}
  */
 export type ${thingName} = '${thingName}' | ${parentTypes}${thing.properties && `{
-  is: '${thingName}'${thingProperties.length == 0 ? '' : '\n' + thingProperties.map(property => `${property}?: ${propertyTypes[property]}`).join('\n  ')}
+  is: '${thingName}'${thingProperties.length == 0 ? '' : '\n  ' + thingProperties.map(property => `${property}?: ${propertyTypes[property]}`).join('\n  ')}
 }`}
 
 `
